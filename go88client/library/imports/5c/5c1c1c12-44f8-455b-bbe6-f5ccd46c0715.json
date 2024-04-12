@@ -1,0 +1,35 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "mini-3cay.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "mini-3-cay-reel-bg": {
+      "__uuid__": "41c5e641-553c-428c-9c9a-88fb82b64fe5"
+    },
+    "mini-3-cay-reel-win": {
+      "__uuid__": "dc210ce7-41f1-410e-aa17-68ad7015d8bd"
+    },
+    "mini-3cay-bg-jackpot": {
+      "__uuid__": "0b3ebd47-8e31-427c-a011-c9957acace92"
+    },
+    "mini-3cay-bg": {
+      "__uuid__": "369cbeda-11e4-4b34-be92-faf5d74dfc36"
+    },
+    "mini-3cay-button-auto": {
+      "__uuid__": "63122f8e-7cc6-4166-9281-2d1daff526c7"
+    },
+    "mini-3cay-button-fast-spin": {
+      "__uuid__": "38c1ebac-f6f4-4534-897d-b89de5832a0f"
+    },
+    "mini-3cay-button-stop": {
+      "__uuid__": "d5dcaeff-2997-4897-856e-d9d5fd18473f"
+    },
+    "mini-3cay-button": {
+      "__uuid__": "fdbbf090-1390-49c0-b233-dcf02a32079e"
+    },
+    "mini-game-3-cay-2": {
+      "__uuid__": "1ecc009d-be14-42da-b36f-83828f7a1d2f"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "eventTop1",
+    "texture": "a06ebe71-7af9-4ffc-9650-9f62c89972f7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      78,
+      69
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      78,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "MyriadSemiB_WB-export",
+    "texture": "4d05caf2-15be-4cbe-9769-98211b5cc6eb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      281,
+      511
+    ],
+    "offset": [
+      -115.5,
+      0.5
+    ],
+    "originalSize": [
+      512,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

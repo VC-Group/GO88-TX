@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chip-off",
+    "texture": "b9fe272e-9181-4a89-a0f6-1bebb16d0662",
+    "atlas": "",
+    "rect": [
+      2,
+      0,
+      56,
+      60
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      60,
+      60
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

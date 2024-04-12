@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "quay-text",
+    "texture": "5e427ab0-16bc-41da-8ce9-e6d57bb798a1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      154,
+      80
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      154,
+      80
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

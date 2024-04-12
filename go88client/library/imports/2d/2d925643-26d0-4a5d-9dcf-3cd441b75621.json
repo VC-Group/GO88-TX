@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hongshanyu_shadow_tex",
+    "texture": "7ef24c25-00d8-4f42-a033-9fdff36f4850",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      175,
+      215
+    ],
+    "offset": [
+      -39.5,
+      19.5
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

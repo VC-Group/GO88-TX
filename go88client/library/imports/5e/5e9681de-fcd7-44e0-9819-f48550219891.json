@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "table-vinhdanh-head",
+    "texture": "4045792c-d492-400d-a9bb-98f0fa1aef9f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      893,
+      48
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      893,
+      48
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

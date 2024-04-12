@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fish_icon_jiewenyu",
+    "texture": "7fac21ea-e3a5-4ba1-acde-f5620570f991",
+    "atlas": "",
+    "rect": [
+      0,
+      7,
+      88,
+      58
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      88,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

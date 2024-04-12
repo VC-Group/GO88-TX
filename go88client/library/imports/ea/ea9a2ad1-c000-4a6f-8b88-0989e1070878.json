@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dangnhap-btn",
+    "texture": "8bcfe244-8b42-41df-9563-4c7126e97516",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      203,
+      65
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      203,
+      65
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

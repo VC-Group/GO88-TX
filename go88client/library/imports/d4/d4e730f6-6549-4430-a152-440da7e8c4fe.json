@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mini-3cay",
+    "texture": "3374afdb-f37e-495e-aeec-4608731e8938",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      865,
+      1535
+    ],
+    "offset": [
+      -3,
+      0.5
+    ],
+    "originalSize": [
+      871,
+      1536
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

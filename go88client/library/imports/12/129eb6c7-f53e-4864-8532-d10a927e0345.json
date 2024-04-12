@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon-sam",
+    "texture": "2fda17d4-d93c-4e45-b132-c592b52d0212",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      233,
+      200
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      235,
+      201
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

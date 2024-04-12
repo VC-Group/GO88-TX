@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Lobby-BackGroud-1",
+    "texture": "9368dd8d-df8e-4fe4-9388-44092a2744aa",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      395,
+      397
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      395,
+      397
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

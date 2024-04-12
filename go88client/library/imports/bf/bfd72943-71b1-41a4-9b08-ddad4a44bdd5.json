@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "myriad_gold-export",
+    "texture": "9720dd0a-4453-44fd-b33d-a27bcf3634df",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      354,
+      1023
+    ],
+    "offset": [
+      -79,
+      0.5
+    ],
+    "originalSize": [
+      512,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

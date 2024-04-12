@@ -1,0 +1,83 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "default.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "bg-prize": {
+      "__uuid__": "51c01725-99e6-4768-ba5c-07a8eec115cb"
+    },
+    "bg-select-line": {
+      "__uuid__": "6415cb94-52c9-4018-a5d7-937794a72a28"
+    },
+    "button-1": {
+      "__uuid__": "1f40c820-c43a-4c43-9675-68280a9bbb07"
+    },
+    "button-2": {
+      "__uuid__": "70000bc3-db11-4851-a4f5-95c7b9456e92"
+    },
+    "button-add-minus": {
+      "__uuid__": "d0a6ae93-d77a-4eb2-a8d0-2a7ebb2b578a"
+    },
+    "button-all": {
+      "__uuid__": "e45b3535-42dd-4bd4-a5c4-954ed10468f8"
+    },
+    "button-auto-stop": {
+      "__uuid__": "39031206-f913-40e9-98d7-ede0e00abe73"
+    },
+    "button-auto": {
+      "__uuid__": "8bbf9490-b2ea-4d0f-a7b9-b8d2ca9737f0"
+    },
+    "button-back": {
+      "__uuid__": "dc90eb71-bc1e-48af-b26d-f20a3d8253c1"
+    },
+    "button-cancel": {
+      "__uuid__": "eb8f6ae3-cca8-4c85-b516-d54b6f742d20"
+    },
+    "button-close": {
+      "__uuid__": "5cb77023-d3ba-4b40-9485-203e8e104453"
+    },
+    "button-even": {
+      "__uuid__": "bad44f9b-541c-4437-bfa6-f763047323cd"
+    },
+    "button-free-spin": {
+      "__uuid__": "745a7a29-3c40-44e7-b001-39bd4d2cd480"
+    },
+    "button-odd": {
+      "__uuid__": "b26ce822-0b97-4e97-9b42-0c79309deab8"
+    },
+    "button-play": {
+      "__uuid__": "be87ed31-7ad5-4603-81bb-0a8afb266bcf"
+    },
+    "button-prize": {
+      "__uuid__": "a96f7cf8-5010-417c-a471-d68178de4a86"
+    },
+    "button-rank": {
+      "__uuid__": "02d5e6ba-c180-457e-a0fa-fbf4f2370f2d"
+    },
+    "button-select-line": {
+      "__uuid__": "0e315bab-5464-4fea-9127-b2e4767b344e"
+    },
+    "button-setting": {
+      "__uuid__": "4a497045-d892-4298-9622-e9d5460671fe"
+    },
+    "button-spin": {
+      "__uuid__": "226178f1-d49a-4ca3-8de8-9c7c10ea3d36"
+    },
+    "button-test": {
+      "__uuid__": "ad65e00d-a546-4706-b01e-1cabd761f8f0"
+    },
+    "toggle-bg": {
+      "__uuid__": "7e3a1fe3-5f6a-49f8-a5c9-288a1c20ab83"
+    },
+    "txt-history": {
+      "__uuid__": "20e267f1-e11c-47d6-be00-9e7be3895539"
+    },
+    "txt-rank": {
+      "__uuid__": "b7198bb9-d16b-4ca9-8264-a25c8f485551"
+    },
+    "txt-select-line": {
+      "__uuid__": "57e6f19d-32dd-4862-a279-89beef867a15"
+    }
+  }
+}

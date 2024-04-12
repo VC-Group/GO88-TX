@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tuquay-btn-inactive",
+    "texture": "b1862637-7dcc-4127-97b3-4ea0f43b6de2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      74,
+      88
+    ],
+    "offset": [
+      -4,
+      0
+    ],
+    "originalSize": [
+      82,
+      88
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

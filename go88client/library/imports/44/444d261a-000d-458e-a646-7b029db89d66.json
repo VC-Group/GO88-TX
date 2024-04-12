@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "NoHu_ani",
+    "texture": "b46fae24-9ac0-40b5-ae05-f83b2a49827c",
+    "atlas": "",
+    "rect": [
+      3,
+      242,
+      936,
+      699
+    ],
+    "offset": [
+      -3,
+      -118
+    ],
+    "originalSize": [
+      948,
+      947
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

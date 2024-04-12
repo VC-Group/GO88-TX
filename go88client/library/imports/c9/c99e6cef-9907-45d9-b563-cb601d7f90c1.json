@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "megajackpot_betting_2_off",
+    "texture": "2a9d45ed-9967-4fc3-9507-03a51ff005ae",
+    "atlas": "34fcf837-0b7c-4967-abd4-d0e698e6e1b6",
+    "rect": [
+      316,
+      534,
+      70,
+      80
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      70,
+      80
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

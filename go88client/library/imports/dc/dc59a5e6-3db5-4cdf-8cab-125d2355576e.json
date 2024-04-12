@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "IRON MEN",
+    "texture": "ac399df0-786b-47f0-b170-a44d59f23580",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      507,
+      507
+    ],
+    "offset": [
+      -2.5,
+      1.5
+    ],
+    "originalSize": [
+      512,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

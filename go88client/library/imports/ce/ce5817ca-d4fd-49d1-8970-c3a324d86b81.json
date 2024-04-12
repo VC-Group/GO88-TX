@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gb_lobby_tab_user_2",
+    "texture": "ef7593bf-56ea-44e4-b75a-2fb1b68bcf20",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      91,
+      104
+    ],
+    "offset": [
+      -18.5,
+      12
+    ],
+    "originalSize": [
+      128,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

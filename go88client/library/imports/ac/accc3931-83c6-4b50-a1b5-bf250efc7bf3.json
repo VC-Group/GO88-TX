@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "DongChiTietPhien40",
+    "texture": "e0ae67a9-a4af-4f8f-901c-d16b4a93299d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      485,
+      40
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      485,
+      40
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

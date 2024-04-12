@@ -1,0 +1,41 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "mini-game-button.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "button-chat": {
+      "__uuid__": "d88d5713-c7f0-4345-a112-a658de3dfb70"
+    },
+    "button-close-2": {
+      "__uuid__": "b29aa8c2-adc8-447c-9398-3fed54b36532"
+    },
+    "button-close": {
+      "__uuid__": "bd5097ef-0f85-4392-8b2a-0c60e99d64b7"
+    },
+    "button-down": {
+      "__uuid__": "7f6728c7-49a2-490f-93ed-3bdaf00b9b5c"
+    },
+    "button-help": {
+      "__uuid__": "9eb0a847-150e-4b9f-bd2a-69337a0d5c10"
+    },
+    "button-next-preview-2": {
+      "__uuid__": "dcdea60b-ecce-4fa3-a2c8-3dc33a8e9c87"
+    },
+    "button-next-preview": {
+      "__uuid__": "087b52be-f436-4884-846b-d7eb9b9b567b"
+    },
+    "button-rank": {
+      "__uuid__": "2118069b-5104-4322-aec0-1de4a43b3b46"
+    },
+    "button-send": {
+      "__uuid__": "b7f18803-db96-4b86-b110-55ac1fe7b84b"
+    },
+    "button-tutorial": {
+      "__uuid__": "29288ba6-f2b5-4d44-816c-35482a8f80ab"
+    },
+    "icon-chip-bg": {
+      "__uuid__": "133a64f1-3b87-4eb6-a2f5-af211996947a"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "aladdin_line",
+    "texture": "2de0cdd2-1951-489d-801e-a3ca5c31d79b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      2,
+      22
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      2,
+      22
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

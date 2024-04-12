@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "daichienC",
+    "texture": "c5b4e698-a877-4608-8a36-07b876105304",
+    "atlas": "",
+    "rect": [
+      7,
+      0,
+      69,
+      40
+    ],
+    "offset": [
+      2.5,
+      1.5
+    ],
+    "originalSize": [
+      78,
+      43
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ThangLon_ani",
+    "texture": "24abc0bb-abbe-4cb6-a11f-8900ad1520f1",
+    "atlas": "",
+    "rect": [
+      3,
+      242,
+      936,
+      699
+    ],
+    "offset": [
+      -3,
+      -118
+    ],
+    "originalSize": [
+      948,
+      947
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

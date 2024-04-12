@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mitpandamaster",
+    "texture": "735cb688-d4a0-405a-9fea-33e79e15c9bb",
+    "atlas": "",
+    "rect": [
+      413,
+      12,
+      686,
+      214
+    ],
+    "offset": [
+      205.5,
+      -5
+    ],
+    "originalSize": [
+      1101,
+      228
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

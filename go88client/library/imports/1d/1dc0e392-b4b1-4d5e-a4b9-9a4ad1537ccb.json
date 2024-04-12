@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fish_kind_bei",
+    "texture": "a4366c89-8824-4568-a458-0764abeb09a9",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      62,
+      40
+    ],
+    "offset": [
+      0,
+      11
+    ],
+    "originalSize": [
+      64,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

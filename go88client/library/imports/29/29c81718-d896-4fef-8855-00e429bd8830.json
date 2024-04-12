@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "body_BThuog_2",
+    "texture": "faf84a04-da4d-4d45-869a-fe7d9bab1587",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      830,
+      376
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      830,
+      376
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

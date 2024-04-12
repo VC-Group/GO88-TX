@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lb_floating_text_bg",
+    "texture": "0d402a24-a7bb-4a4a-8c4d-8e82d8f172b5",
+    "atlas": "0185455b-3622-4ce4-ad4d-c0dbb498ae05",
+    "rect": [
+      400,
+      1357,
+      564,
+      51
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      564,
+      51
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

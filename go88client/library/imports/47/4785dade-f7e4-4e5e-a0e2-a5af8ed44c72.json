@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chon-phong-demo",
+    "texture": "68932c09-1c26-4b26-aff4-2e6e9df82d81",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1706,
+      960
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1706,
+      960
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

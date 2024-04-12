@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "avenger_top_0 copy",
+    "texture": "af8c2ed6-5193-4f61-b0de-955862114be0",
+    "atlas": "7b02bfc4-8a0a-4b8b-ab06-8d0ec5e3148c",
+    "rect": [
+      1,
+      1,
+      1283,
+      117
+    ],
+    "offset": [
+      -7,
+      0
+    ],
+    "originalSize": [
+      1297,
+      117
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "kyby_eff_gold_bomb_tex",
+    "texture": "d1d7871d-dd48-4db0-9f70-f4f61549ab3d",
+    "atlas": "",
+    "rect": [
+      9,
+      1,
+      948,
+      947
+    ],
+    "offset": [
+      -29,
+      37.5
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

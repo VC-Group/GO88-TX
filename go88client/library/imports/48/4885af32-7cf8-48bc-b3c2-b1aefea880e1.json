@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "loso-bg",
+    "texture": "6d27b712-40e7-4877-8c23-ff5d335c5007",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1280,
+      720
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1280,
+      720
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

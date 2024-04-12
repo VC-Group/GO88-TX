@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Panel_Rank",
+    "texture": "ecc41623-3960-42cc-85f3-c240f5810d59",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      236,
+      160
+    ],
+    "offset": [
+      0.5,
+      -0.5
+    ],
+    "originalSize": [
+      241,
+      165
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

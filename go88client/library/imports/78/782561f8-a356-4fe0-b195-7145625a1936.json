@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jinjiahusha_shadow_tex",
+    "texture": "1683e727-0a1b-4067-a157-0221a9a448d1",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      900,
+      1001
+    ],
+    "offset": [
+      -61,
+      10.5
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

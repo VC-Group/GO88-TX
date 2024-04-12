@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "checkbox-tick",
+    "texture": "8c5fa8de-4889-4023-85e5-46cbd5b5499e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      40,
+      39
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      40,
+      39
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

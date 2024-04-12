@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "quaynhanh-text",
+    "texture": "bd15408c-87fa-4baa-adc4-ce6dc93aa827",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      146,
+      95
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      146,
+      95
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

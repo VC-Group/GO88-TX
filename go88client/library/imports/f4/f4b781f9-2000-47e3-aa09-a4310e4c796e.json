@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fish_game_menu_btn_setting",
+    "texture": "d661af6c-61fe-49cf-9b9b-b1fc0b53c3f6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      43,
+      42
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      44,
+      42
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

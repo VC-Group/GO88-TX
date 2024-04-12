@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "AVENGERS SYMBOL4",
+    "texture": "f2201989-4d23-457c-8806-7c73da99a29e",
+    "atlas": "",
+    "rect": [
+      1,
+      2,
+      501,
+      461
+    ],
+    "offset": [
+      -4.5,
+      23.5
+    ],
+    "originalSize": [
+      512,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

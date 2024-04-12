@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "thanh phai",
+    "texture": "3af37e70-98a5-4648-8704-f03f288c491b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      615,
+      116
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      615,
+      116
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

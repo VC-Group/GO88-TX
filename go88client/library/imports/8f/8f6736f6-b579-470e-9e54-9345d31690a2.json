@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "QuaIP11",
+    "texture": "53544c04-16b1-41d3-8832-a5424ca3f17d",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      48,
+      67
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      50,
+      69
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

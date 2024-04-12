@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ef_line-line_07",
+    "texture": "fcd2a8ae-a030-4313-a459-4be595ba490d",
+    "atlas": "cfbb5a12-837d-466e-aea7-99307399fe1f",
+    "rect": [
+      806,
+      453,
+      367,
+      290
+    ],
+    "offset": [
+      -1,
+      -1
+    ],
+    "originalSize": [
+      371,
+      292
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

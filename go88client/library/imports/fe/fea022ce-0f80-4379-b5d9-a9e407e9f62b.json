@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "kyby_zhongjiang_tex",
+    "texture": "b6e008c1-32b5-411d-ac35-3f3400bd4123",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      928,
+      695
+    ],
+    "offset": [
+      -47,
+      163.5
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

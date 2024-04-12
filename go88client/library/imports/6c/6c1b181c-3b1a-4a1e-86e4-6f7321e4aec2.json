@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tien_ban",
+    "texture": "204ed5a5-684c-42dc-b0a2-40bf334bbb97",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1,
+      1
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

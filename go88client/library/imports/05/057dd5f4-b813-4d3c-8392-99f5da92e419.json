@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ARB_line",
+    "texture": "15042e13-be1b-4652-b4db-77c88529ceb7",
+    "atlas": "",
+    "rect": [
+      33,
+      30,
+      1113,
+      1605
+    ],
+    "offset": [
+      -10.5,
+      -3
+    ],
+    "originalSize": [
+      1200,
+      1659
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

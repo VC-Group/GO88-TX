@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "anline_tex",
+    "texture": "28530926-8476-465e-bdae-5e8f0594a1ff",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      872,
+      1135
+    ],
+    "offset": [
+      -0.5,
+      1
+    ],
+    "originalSize": [
+      877,
+      1141
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

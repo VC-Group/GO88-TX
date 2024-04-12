@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hbby_shuimu_shadow_tex",
+    "texture": "d87e63d5-44c8-4672-bf93-9609f60f5a84",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      296,
+      224
+    ],
+    "offset": [
+      -107,
+      15
+    ],
+    "originalSize": [
+      512,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

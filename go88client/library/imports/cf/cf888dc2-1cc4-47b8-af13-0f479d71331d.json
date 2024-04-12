@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "samsolo2",
+    "texture": "0f3f6d9b-1452-45f7-a7bb-60400e219833",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      197,
+      197
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      199,
+      199
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

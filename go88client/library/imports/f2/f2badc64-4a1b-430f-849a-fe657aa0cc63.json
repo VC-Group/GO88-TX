@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bonus_shadow",
+    "texture": "f8e6b52a-d3ca-4c79-9505-65f2aaf43b6f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      458,
+      141
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      458,
+      141
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

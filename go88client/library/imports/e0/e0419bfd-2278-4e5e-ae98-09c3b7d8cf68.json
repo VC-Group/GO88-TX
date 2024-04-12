@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "box_cuoc",
+    "texture": "4f1979f5-3b58-4eed-b664-79cfc80614fe",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      336,
+      89
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      336,
+      89
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xocdia",
+    "texture": "acbdfc25-07cd-44fe-9a6a-9db918b4b552",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1024,
+      256
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1024,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

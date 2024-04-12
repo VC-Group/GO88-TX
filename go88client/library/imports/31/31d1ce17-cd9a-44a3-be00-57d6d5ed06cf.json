@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "KhungChiTietPhien",
+    "texture": "7cf28d38-3ddc-45b0-be5f-7bc893e01775",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      637,
+      49
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      639,
+      50
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

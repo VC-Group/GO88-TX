@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "aladdin_bigwin",
+    "texture": "e1b20dad-10d3-4d73-8503-7840f1ce2f4a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      684,
+      593
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      685,
+      594
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

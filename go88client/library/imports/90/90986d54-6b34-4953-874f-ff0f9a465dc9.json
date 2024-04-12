@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "AstounderSqr_W-export",
+    "texture": "21014571-268b-4a6b-ac94-5bac210cb7d0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      114,
+      112
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      115,
+      113
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

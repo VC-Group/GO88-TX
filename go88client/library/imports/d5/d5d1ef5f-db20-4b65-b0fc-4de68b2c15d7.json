@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "aladdin_item_main",
+    "texture": "af51b952-9122-4ce1-b348-7305c56a4b04",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      462,
+      571
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      463,
+      572
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

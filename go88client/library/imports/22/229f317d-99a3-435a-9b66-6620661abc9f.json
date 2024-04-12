@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "IRON MAN_1280 x 720_OUT_DONE",
+    "texture": "94485f9b-a941-4a07-a422-6f2c14b052b6",
+    "atlas": "",
+    "rect": [
+      4,
+      5,
+      288,
+      466
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      296,
+      475
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

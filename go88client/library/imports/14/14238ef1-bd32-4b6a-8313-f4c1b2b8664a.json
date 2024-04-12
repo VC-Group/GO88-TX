@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fish_game_other_coin",
+    "texture": "83561cd5-c71d-4d64-9f72-f04d6ff5c813",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      126,
+      89
+    ],
+    "offset": [
+      0,
+      18.5
+    ],
+    "originalSize": [
+      128,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

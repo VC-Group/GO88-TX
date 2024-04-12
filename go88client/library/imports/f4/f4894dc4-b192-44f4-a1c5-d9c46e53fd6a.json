@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_touch",
+    "texture": "60cf82ed-5b62-477c-983c-6ebd944b4550",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      32,
+      24
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      34,
+      26
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

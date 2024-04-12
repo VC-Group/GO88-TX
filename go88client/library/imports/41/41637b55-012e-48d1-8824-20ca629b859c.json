@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_jacpot777",
+    "texture": "252c4cb3-d9d2-42dd-b882-e6efc22bc4c3",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      56,
+      55
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      58,
+      57
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

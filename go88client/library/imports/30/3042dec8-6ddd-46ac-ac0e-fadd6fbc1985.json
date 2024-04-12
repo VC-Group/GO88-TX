@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icoRutTien",
+    "texture": "fbedf222-71f1-4389-8a5b-e66aed7abb37",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      87,
+      64
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      87,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

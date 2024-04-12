@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text-he-so-nhan",
+    "texture": "e614e30d-8a73-4a19-85e8-175529e53a1a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      358,
+      89
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      358,
+      89
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

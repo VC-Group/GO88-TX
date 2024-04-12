@@ -1,0 +1,17 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "aladdin_freespin.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "HUfreespin1": {
+      "__uuid__": "92c4d91e-4646-404e-9a3f-326635d59f47"
+    },
+    "HUfreespin2": {
+      "__uuid__": "1f5a3f88-ebb2-480e-a3db-0ce725136a27"
+    },
+    "HUfreespin3": {
+      "__uuid__": "7d538616-073d-4ed4-a934-5e8045173ffb"
+    }
+  }
+}

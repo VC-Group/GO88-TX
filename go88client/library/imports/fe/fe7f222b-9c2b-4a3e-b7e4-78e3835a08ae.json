@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gswz_effect_hall_girl_tex",
+    "texture": "ca5f5c7e-4ad3-4da0-be46-67b79f994eee",
+    "atlas": "",
+    "rect": [
+      2,
+      1,
+      1003,
+      1016
+    ],
+    "offset": [
+      -8.5,
+      3
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

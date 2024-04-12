@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chimdien",
+    "texture": "cbdecc97-cbab-42f9-98c6-42ef2992c414",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      148,
+      137
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      148,
+      137
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

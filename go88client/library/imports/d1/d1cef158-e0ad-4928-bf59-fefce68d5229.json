@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gswzp_hall_bg",
+    "texture": "28e7dd97-6a2b-459a-a223-af95f6da41bd",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1280,
+      720
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1280,
+      720
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

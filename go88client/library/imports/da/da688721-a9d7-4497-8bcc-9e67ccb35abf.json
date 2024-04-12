@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "iconWildColumn",
+    "texture": "628246b0-8e16-4587-95ab-1ead7c583e2f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      126,
+      407
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      126,
+      407
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "INFINIRY GLOVE",
+    "texture": "e8894f43-23f7-4ec6-9f78-60c43314f6db",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      501,
+      506
+    ],
+    "offset": [
+      -4.5,
+      2
+    ],
+    "originalSize": [
+      512,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

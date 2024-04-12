@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "avenger_mng_btn_close",
+    "texture": "d8045299-a380-4ab3-b7a5-b05aed8c9901",
+    "atlas": "7c82c525-4d7c-47be-b9c9-4e4f88a2ad7f",
+    "rect": [
+      1363,
+      866,
+      83,
+      75
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      83,
+      75
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

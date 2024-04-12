@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "boderChonNgay",
+    "texture": "91a46ce6-9d87-48f8-8763-3df07e91e31b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      180,
+      39
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      180,
+      39
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

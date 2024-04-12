@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tudong",
+    "texture": "8740dcc7-e83f-43f1-9d8f-aef088b9622e",
+    "atlas": "",
+    "rect": [
+      12,
+      89,
+      195,
+      62
+    ],
+    "offset": [
+      0.5,
+      -11.5
+    ],
+    "originalSize": [
+      218,
+      217
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

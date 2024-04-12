@@ -1,0 +1,17 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "aladdin_bigwin.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "HUthanglon1": {
+      "__uuid__": "262eaa6a-d72c-4ab4-aee5-50e0a4845f5d"
+    },
+    "HUthanglon2": {
+      "__uuid__": "90e8cb1d-5bad-437e-915b-459d761d31f1"
+    },
+    "thangsieulon": {
+      "__uuid__": "e5c6ed6d-b8cd-4db2-9293-3809c3c38796"
+    }
+  }
+}

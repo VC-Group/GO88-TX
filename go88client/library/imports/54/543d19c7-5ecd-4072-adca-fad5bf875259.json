@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "avange",
+    "texture": "f5ba02e3-3543-45e9-b1eb-6649bf3ad413",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      506,
+      506
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      512,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

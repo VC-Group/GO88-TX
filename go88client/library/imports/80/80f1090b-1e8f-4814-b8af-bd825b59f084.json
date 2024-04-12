@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "thiendia2",
+    "texture": "a15ef406-1c67-4332-a951-ccc77f0203af",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      197,
+      197
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      197,
+      197
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

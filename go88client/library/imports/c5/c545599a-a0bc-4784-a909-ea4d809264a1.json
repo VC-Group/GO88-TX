@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fish_game_btn_jia",
+    "texture": "dda59a2e-62a9-4d7f-bae1-70a4e7ddb8fb",
+    "atlas": "",
+    "rect": [
+      0,
+      2,
+      61,
+      42
+    ],
+    "offset": [
+      -1.5,
+      -1
+    ],
+    "originalSize": [
+      64,
+      44
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

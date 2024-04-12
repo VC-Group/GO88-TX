@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "minigame-tab-active",
+    "texture": "8fea5a75-334b-49ec-b98e-d4964a76ee8c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      171,
+      50
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      171,
+      50
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

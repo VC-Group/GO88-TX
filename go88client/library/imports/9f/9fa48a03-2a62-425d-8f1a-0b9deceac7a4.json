@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "RongCheQuaCau",
+    "texture": "40d13245-f77d-4a6c-b2b1-af7a3aba5b3f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      320,
+      188
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      320,
+      188
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

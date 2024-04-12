@@ -1,0 +1,319 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "Scatter",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "RAlvVSZjMzkchqQfyTh8O2ihmU4",
+      "spine": "3.7.94",
+      "width": 201,
+      "height": 160,
+      "images": "./images/",
+      "audio": "C:/Users/Toanp/OneDrive/Máy tính/Zeus/SPINE/scatter"
+    },
+    "bones": [
+      {
+        "name": "root",
+        "x": 2.36,
+        "y": 7.08
+      },
+      {
+        "name": "Layer 6",
+        "parent": "root",
+        "x": -2.65,
+        "y": -37.89
+      },
+      {
+        "name": "Layer 7",
+        "parent": "root",
+        "x": 1.55,
+        "y": 18.03
+      },
+      {
+        "name": "Layer 4",
+        "parent": "root",
+        "x": -8.2,
+        "y": 5.22
+      },
+      {
+        "name": "Layer 8",
+        "parent": "root",
+        "x": -4.56,
+        "y": -12.88
+      }
+    ],
+    "slots": [
+      {
+        "name": "Layer 3",
+        "bone": "root",
+        "attachment": "Layer 3"
+      },
+      {
+        "name": "Layer 2",
+        "bone": "root",
+        "attachment": "Layer 2"
+      },
+      {
+        "name": "Layer 5",
+        "bone": "root",
+        "attachment": "Layer 5"
+      },
+      {
+        "name": "Layer 4",
+        "bone": "Layer 4",
+        "attachment": "Layer 4"
+      },
+      {
+        "name": "Layer 7",
+        "bone": "Layer 7",
+        "attachment": "Layer 7"
+      },
+      {
+        "name": "Layer 6",
+        "bone": "Layer 6",
+        "attachment": "Layer 6"
+      },
+      {
+        "name": "Layer 8",
+        "bone": "Layer 8",
+        "attachment": "Layer 8"
+      }
+    ],
+    "skins": {
+      "default": {
+        "Layer 2": {
+          "Layer 2": {
+            "x": -1.24,
+            "y": 5.73,
+            "width": 141,
+            "height": 151
+          }
+        },
+        "Layer 3": {
+          "Layer 3": {
+            "x": -2.24,
+            "y": 7.23,
+            "width": 155,
+            "height": 160
+          }
+        },
+        "Layer 4": {
+          "Layer 4": {
+            "x": 8.97,
+            "y": 1.5,
+            "width": 139,
+            "height": 143
+          }
+        },
+        "Layer 5": {
+          "Layer 5": {
+            "x": 0.26,
+            "y": 6.23,
+            "width": 134,
+            "height": 134
+          }
+        },
+        "Layer 6": {
+          "Layer 6": {
+            "x": 3.41,
+            "y": 2.12,
+            "width": 201,
+            "height": 74
+          }
+        },
+        "Layer 7": {
+          "Layer 7": {
+            "x": -3.28,
+            "y": -12.8,
+            "width": 96,
+            "height": 132
+          }
+        },
+        "Layer 8": {
+          "Layer 8": {
+            "x": 4.56,
+            "y": 12.88,
+            "width": 90,
+            "height": 102
+          },
+          "Layer 9": {
+            "x": 4.56,
+            "y": 13.38,
+            "width": 104,
+            "height": 103
+          },
+          "Layer 10": {
+            "x": 4.56,
+            "y": 13.38,
+            "width": 112,
+            "height": 107
+          },
+          "Layer 11": {
+            "x": 4.56,
+            "y": 13.38,
+            "width": 114,
+            "height": 111
+          },
+          "Layer 12": {
+            "x": 4.56,
+            "y": 12.88,
+            "width": 114,
+            "height": 114
+          }
+        }
+      }
+    },
+    "animations": {
+      "animation": {
+        "slots": {
+          "Layer 4": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.1667,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.2333,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 1.1667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1.2333,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Layer 7": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.0667,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 1.1667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1.2333,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Layer 8": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.1667,
+                "name": "Layer 8"
+              },
+              {
+                "time": 0.2,
+                "name": "Layer 9"
+              },
+              {
+                "time": 0.2333,
+                "name": "Layer 10"
+              },
+              {
+                "time": 0.2667,
+                "name": "Layer 11"
+              },
+              {
+                "time": 0.3,
+                "name": "Layer 12"
+              },
+              {
+                "time": 0.3333,
+                "name": null
+              }
+            ]
+          }
+        },
+        "bones": {
+          "Layer 7": {
+            "translate": [
+              {
+                "time": 0,
+                "x": 91.94,
+                "y": 131.03
+              },
+              {
+                "time": 0.1667,
+                "x": -2.52,
+                "y": -3.38
+              },
+              {
+                "time": 0.2667,
+                "x": 2.55,
+                "y": 2.96,
+                "curve": "stepped"
+              },
+              {
+                "time": 1.1667,
+                "x": 2.55,
+                "y": 2.96
+              },
+              {
+                "time": 1.3333,
+                "x": -75.94,
+                "y": -118.19
+              }
+            ]
+          },
+          "Layer 6": {
+            "rotate": [
+              {
+                "time": 0.1667,
+                "angle": 0
+              },
+              {
+                "time": 0.2333,
+                "angle": 6.15
+              },
+              {
+                "time": 0.3333,
+                "angle": 0
+              },
+              {
+                "time": 0.4,
+                "angle": 6.15
+              },
+              {
+                "time": 0.5,
+                "angle": 0
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nScatter.png\nsize: 1024,256\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nLayer 10\n  rotate: false\n  xy: 302, 2\n  size: 112, 107\n  orig: 112, 107\n  offset: 0, 0\n  index: -1\nLayer 11\n  rotate: false\n  xy: 443, 67\n  size: 114, 111\n  orig: 114, 111\n  offset: 0, 0\n  index: -1\nLayer 12\n  rotate: false\n  xy: 880, 140\n  size: 114, 114\n  orig: 114, 114\n  offset: 0, 0\n  index: -1\nLayer 2\n  rotate: false\n  xy: 159, 103\n  size: 141, 151\n  orig: 141, 151\n  offset: 0, 0\n  index: -1\nLayer 3\n  rotate: false\n  xy: 2, 94\n  size: 155, 160\n  orig: 155, 160\n  offset: 0, 0\n  index: -1\nLayer 4\n  rotate: false\n  xy: 302, 111\n  size: 139, 143\n  orig: 139, 143\n  offset: 0, 0\n  index: -1\nLayer 5\n  rotate: false\n  xy: 646, 120\n  size: 134, 134\n  orig: 134, 134\n  offset: 0, 0\n  index: -1\nLayer 6\n  rotate: false\n  xy: 443, 180\n  size: 201, 74\n  orig: 201, 74\n  offset: 0, 0\n  index: -1\nLayer 7\n  rotate: false\n  xy: 782, 122\n  size: 96, 132\n  orig: 96, 132\n  offset: 0, 0\n  index: -1\nLayer 8\n  rotate: true\n  xy: 2, 2\n  size: 90, 102\n  orig: 90, 102\n  offset: 0, 0\n  index: -1\nLayer 9\n  rotate: false\n  xy: 880, 35\n  size: 104, 103\n  orig: 104, 103\n  offset: 0, 0\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "815f8fc9-991a-43b8-a244-1397868abc44"
+    }
+  ],
+  "textureNames": [
+    "Scatter.png"
+  ],
+  "scale": 1
+}

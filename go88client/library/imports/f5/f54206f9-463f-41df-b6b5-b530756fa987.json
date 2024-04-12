@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "kyby_jinbi_tex",
+    "texture": "1990bc98-e003-42f8-bf6a-ffa2c71f19be",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      199,
+      68
+    ],
+    "offset": [
+      -27.5,
+      29
+    ],
+    "originalSize": [
+      256,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

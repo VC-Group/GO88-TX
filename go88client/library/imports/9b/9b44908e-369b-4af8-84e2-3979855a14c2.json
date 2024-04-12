@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "TLMN",
+    "texture": "df48f9a0-48af-4a03-9dc5-84a725e79c82",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      197,
+      197
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      199,
+      199
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

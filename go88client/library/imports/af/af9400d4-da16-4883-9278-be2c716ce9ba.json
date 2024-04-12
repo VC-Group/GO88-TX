@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zhangyu_tex",
+    "texture": "355f453d-23bc-4cbc-83a1-dec1540aa61f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      715,
+      955
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      716,
+      955
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

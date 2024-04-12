@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "JACKPOT EFFECT4",
+    "texture": "976c0ed4-edb2-4e23-a2e1-90ac6f29b5ca",
+    "atlas": "",
+    "rect": [
+      2,
+      1,
+      494,
+      504
+    ],
+    "offset": [
+      -7,
+      3
+    ],
+    "originalSize": [
+      512,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

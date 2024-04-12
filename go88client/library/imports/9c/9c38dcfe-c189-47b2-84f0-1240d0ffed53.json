@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "label-active",
+    "texture": "24570bf4-b157-4e93-a6bc-7ff79b9ceec1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      318,
+      104
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      318,
+      104
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

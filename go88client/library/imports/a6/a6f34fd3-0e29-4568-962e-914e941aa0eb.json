@@ -1,0 +1,20 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "icon_free.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "icon1": {
+      "__uuid__": "92f2df70-c661-447f-a3ee-2ccdd031c4ce"
+    },
+    "icon2": {
+      "__uuid__": "1169ccc4-7baf-40d2-a051-c9405877395f"
+    },
+    "icon3": {
+      "__uuid__": "efdcdf7d-0786-4e4d-99b8-c6e4f2e90e1d"
+    },
+    "icon4": {
+      "__uuid__": "95872180-8328-4676-b756-c3d679add64d"
+    }
+  }
+}

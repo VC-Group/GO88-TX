@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mini-3-cay-reel-bg",
+    "texture": "3374afdb-f37e-495e-aeec-4608731e8938",
+    "atlas": "5c1c1c12-44f8-455b-bbe6-f5ccd46c0715",
+    "rect": [
+      163,
+      99,
+      354,
+      175
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      354,
+      175
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

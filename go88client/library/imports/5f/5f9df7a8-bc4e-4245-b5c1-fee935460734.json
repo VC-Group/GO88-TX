@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Xu",
+    "texture": "1ffdb6de-63be-49f6-9895-8a3d65eb327a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      61,
+      61
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      61,
+      61
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

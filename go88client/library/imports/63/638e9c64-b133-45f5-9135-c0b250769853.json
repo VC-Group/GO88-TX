@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "avenger_bottom",
+    "texture": "af8c2ed6-5193-4f61-b0de-955862114be0",
+    "atlas": "7b02bfc4-8a0a-4b8b-ab06-8d0ec5e3148c",
+    "rect": [
+      705,
+      1,
+      984,
+      119
+    ],
+    "offset": [
+      -155,
+      0
+    ],
+    "originalSize": [
+      1294,
+      119
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

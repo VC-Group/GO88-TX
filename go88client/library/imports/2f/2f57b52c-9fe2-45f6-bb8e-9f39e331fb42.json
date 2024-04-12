@@ -1,0 +1,68 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "ThinhKinh_selectLine.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "line_01": {
+      "__uuid__": "ec573f25-c959-4b8d-962b-456698142f46"
+    },
+    "line_02": {
+      "__uuid__": "1c46ad19-d325-45eb-8858-b53037e2fc09"
+    },
+    "line_03": {
+      "__uuid__": "a68b29fe-ffa4-40d2-b7f5-17d1b8776eac"
+    },
+    "line_04": {
+      "__uuid__": "c3db8d15-0a8c-40f6-9645-3e04b9e3b041"
+    },
+    "line_05": {
+      "__uuid__": "c3bd3e95-0906-4abd-9edc-6400930c6a3a"
+    },
+    "line_06": {
+      "__uuid__": "108af617-3aa2-4f16-9e3b-768f7be3e7c1"
+    },
+    "line_07": {
+      "__uuid__": "e21493ff-27ba-48a8-8d9d-ead4484dded7"
+    },
+    "line_08": {
+      "__uuid__": "bf04c380-7565-4ce2-b431-e7857463adcc"
+    },
+    "line_09": {
+      "__uuid__": "5aa3766e-6b1e-49ca-808b-69a9b9b6bb1a"
+    },
+    "line_10": {
+      "__uuid__": "50642e6e-6baf-4c0b-9d23-c9dd30e10c00"
+    },
+    "line_11": {
+      "__uuid__": "5fef990d-ffd0-4304-bbe1-b98c466d9e4d"
+    },
+    "line_12": {
+      "__uuid__": "17feb10b-333f-4c66-8269-47f013fb8d74"
+    },
+    "line_13": {
+      "__uuid__": "1bb1d483-1c63-4455-bb08-36a3f8fd2a07"
+    },
+    "line_14": {
+      "__uuid__": "c663926e-3077-4261-ac04-8b05dc97e65f"
+    },
+    "line_15": {
+      "__uuid__": "1ca193d1-e5d9-4cdb-ab50-e6710c915a77"
+    },
+    "line_16": {
+      "__uuid__": "757e1be9-acb3-42bc-8de7-d63495700ce5"
+    },
+    "line_17": {
+      "__uuid__": "bf5eceaf-1c24-45ea-afc5-e31140915cf1"
+    },
+    "line_18": {
+      "__uuid__": "b8f9f2c8-011d-4f1f-935f-637712c59208"
+    },
+    "line_19": {
+      "__uuid__": "832d1a00-b963-4a65-9544-df25341fc13a"
+    },
+    "line_20": {
+      "__uuid__": "b5e42cc2-399f-4062-877f-b58990eff180"
+    }
+  }
+}

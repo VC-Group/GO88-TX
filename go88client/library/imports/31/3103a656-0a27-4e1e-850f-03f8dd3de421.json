@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "MyriadBCond_YO-export",
+    "texture": "f8477f04-751d-4d01-8adc-c29d66f53604",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      200,
+      200
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      201,
+      201
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

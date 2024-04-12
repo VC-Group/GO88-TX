@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Impact_Gold-export",
+    "texture": "4124580e-c7f8-4f67-8b9f-69234a747141",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      129,
+      130
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      130,
+      131
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

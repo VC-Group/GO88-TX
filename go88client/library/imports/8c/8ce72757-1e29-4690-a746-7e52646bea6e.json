@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "thantai_font_line",
+    "texture": "497d2794-350b-4e60-bc3a-a9cc789cc407",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      270,
+      255
+    ],
+    "offset": [
+      -121,
+      0.5
+    ],
+    "originalSize": [
+      512,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

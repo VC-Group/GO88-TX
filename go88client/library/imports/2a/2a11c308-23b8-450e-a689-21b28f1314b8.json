@@ -1,0 +1,68 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "main.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "bkg": {
+      "__uuid__": "d4d570d9-0e74-4679-b9f2-8046cc2e39d4"
+    },
+    "bxh-icon": {
+      "__uuid__": "3ca85eac-61f5-46f5-b4b9-70cc1f5901aa"
+    },
+    "chat-bg": {
+      "__uuid__": "76971d63-eceb-4bd1-bd21-ac9dda442285"
+    },
+    "chat-exit-icon": {
+      "__uuid__": "62c231e3-1ebe-4f51-982b-77be1ccba46d"
+    },
+    "chat-icon": {
+      "__uuid__": "498d0e99-a546-4763-bb4b-b4f89737bff3"
+    },
+    "chat-send": {
+      "__uuid__": "0e904bcc-00eb-4918-a562-3ccb0b74bb58"
+    },
+    "circle-effect": {
+      "__uuid__": "6011ebef-cd0d-4484-a8b3-d03b15132435"
+    },
+    "close-btn": {
+      "__uuid__": "e33febf7-e881-4afa-bdcf-e0f765990dd0"
+    },
+    "help-icon": {
+      "__uuid__": "51c3ced1-4770-4b23-a8e4-f2b8280268e1"
+    },
+    "light-win": {
+      "__uuid__": "88c332e5-a4ba-423e-83be-9dedd02e6f00"
+    },
+    "lsgd-icon": {
+      "__uuid__": "a0bbc392-cbc1-4a7a-bfe8-02fa17fff613"
+    },
+    "nan-icon": {
+      "__uuid__": "5cfe1f3b-c314-4ecc-9f24-adf35c265d48"
+    },
+    "nan2-icon": {
+      "__uuid__": "3424a2c3-3dc4-437b-af5c-360ab8b45bc1"
+    },
+    "result-bg": {
+      "__uuid__": "82918d2b-a19d-49b9-9875-f795b101caa3"
+    },
+    "soicau-icon": {
+      "__uuid__": "1fe341d0-d316-4a7f-b58c-682dedfb5eaf"
+    },
+    "tai": {
+      "__uuid__": "03371393-9b80-425c-acd9-03a651862696"
+    },
+    "textbox-bet": {
+      "__uuid__": "2008ad63-4da1-4c71-9655-99bbb7dcc470"
+    },
+    "thang": {
+      "__uuid__": "75821aa1-aa6e-4dab-b360-c85e78808527"
+    },
+    "thua": {
+      "__uuid__": "cc22cd68-c5dd-4b80-b7ca-3a94bc8cd3d3"
+    },
+    "xiu": {
+      "__uuid__": "0ab9c0b7-2dae-4199-830b-649f233a7a25"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_dealer",
+    "texture": "8c6fcd7a-a83d-412e-a816-917f13dd7d9c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      28,
+      28
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      28,
+      28
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

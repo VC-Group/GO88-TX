@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "thanhdong",
+    "texture": "479b01bd-0659-4268-8463-f946a6a534a2",
+    "atlas": "",
+    "rect": [
+      2,
+      3,
+      393,
+      497
+    ],
+    "offset": [
+      -57.5,
+      4.5
+    ],
+    "originalSize": [
+      512,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

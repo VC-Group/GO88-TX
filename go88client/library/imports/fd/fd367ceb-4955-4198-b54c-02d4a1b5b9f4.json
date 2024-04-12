@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "kyby_hang_kuang_bg",
+    "texture": "a2ae2861-a7e1-4aea-b5b4-64bcdd90e0cb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      97,
+      108
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      97,
+      108
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

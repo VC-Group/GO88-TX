@@ -1,0 +1,17 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "icon_chanle.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "chanle1": {
+      "__uuid__": "b64c4628-938a-4ec8-b370-9009752ecbfc"
+    },
+    "chanle2": {
+      "__uuid__": "863955d2-5a82-4f8d-967c-ad90683720ac"
+    },
+    "chanle3": {
+      "__uuid__": "503757ef-a42e-41f4-939f-187025fa0709"
+    }
+  }
+}

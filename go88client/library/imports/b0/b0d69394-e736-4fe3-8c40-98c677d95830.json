@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "GO88",
+    "texture": "7d44f4cc-3ac0-42b4-84fa-d958b1bf7d52",
+    "atlas": "",
+    "rect": [
+      121,
+      16,
+      1071,
+      634
+    ],
+    "offset": [
+      16.5,
+      27
+    ],
+    "originalSize": [
+      1280,
+      720
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

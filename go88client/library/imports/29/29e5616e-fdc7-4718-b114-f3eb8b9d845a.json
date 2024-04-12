@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sukien-icon-lobby",
+    "texture": "550b5bac-4ff8-469d-bbee-c40f8f14880f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      136,
+      88
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      136,
+      88
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

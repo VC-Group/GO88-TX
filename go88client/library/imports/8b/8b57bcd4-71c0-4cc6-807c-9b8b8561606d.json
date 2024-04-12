@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "socdia1",
+    "texture": "d98d90c1-2313-49f1-898f-a7e88fa2975b",
+    "atlas": "",
+    "rect": [
+      0,
+      9,
+      263,
+      470
+    ],
+    "offset": [
+      0,
+      -4.5
+    ],
+    "originalSize": [
+      263,
+      479
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

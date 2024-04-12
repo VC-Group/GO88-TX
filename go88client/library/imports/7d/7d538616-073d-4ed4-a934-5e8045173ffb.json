@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "HUfreespin3",
+    "texture": "7cad8f49-bcaf-46b7-b5df-8544bfe16a3c",
+    "atlas": "be24a8d0-0f55-48dd-8b59-ec5ee6498352",
+    "rect": [
+      0,
+      518,
+      421,
+      100
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      421,
+      100
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

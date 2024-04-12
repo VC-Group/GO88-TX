@@ -1,0 +1,35 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "mini-poker.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "mini-poke-auto": {
+      "__uuid__": "d43c59fd-5249-4018-bf4f-7805731dc930"
+    },
+    "mini-poke-bg-1": {
+      "__uuid__": "3d58b645-7090-4dfd-96fa-da3314f7c43f"
+    },
+    "mini-poke-content-ac": {
+      "__uuid__": "d799a1bf-ae11-44a9-a51b-64cd613cec16"
+    },
+    "mini-poke-content": {
+      "__uuid__": "2a5e2a02-92c3-408f-8158-e697141e918a"
+    },
+    "mini-poke-hu": {
+      "__uuid__": "bb3a6747-7fb4-474f-88aa-eccf692e970b"
+    },
+    "mini-poke-speed": {
+      "__uuid__": "7abf9bec-cb3d-413c-bd19-f7ea07c5b88e"
+    },
+    "mini-poke-spin": {
+      "__uuid__": "4fe25fb2-b6d1-465a-b6a1-f47aa3f7d7c5"
+    },
+    "mini-poke-stop": {
+      "__uuid__": "5f56339d-ea14-4330-83a3-6ee560a36cd0"
+    },
+    "mini-poker-bg-3": {
+      "__uuid__": "b270d576-79fe-4a5e-b43a-9d3f226eb8a4"
+    }
+  }
+}

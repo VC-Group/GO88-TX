@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_inactive",
+    "texture": "e90a5b04-83aa-48ba-8042-f28d615fb4b5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      37,
+      37
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      37,
+      37
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

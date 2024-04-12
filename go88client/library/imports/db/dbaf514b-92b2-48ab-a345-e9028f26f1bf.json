@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "button-nextpage1",
+    "texture": "f49d15da-b5f7-47e9-8593-e258adcaeea3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      23,
+      39
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      23,
+      39
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

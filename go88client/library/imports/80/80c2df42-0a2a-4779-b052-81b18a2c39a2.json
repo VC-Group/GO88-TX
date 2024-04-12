@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lineLost_off",
+    "texture": "0cba629e-fbe9-431d-9f7b-5232a2462964",
+    "atlas": "",
+    "rect": [
+      25,
+      0,
+      199,
+      72
+    ],
+    "offset": [
+      12,
+      2.5
+    ],
+    "originalSize": [
+      225,
+      77
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

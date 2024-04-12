@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "meirenyu2_shadow_tex",
+    "texture": "5c82fd79-8c5b-4b49-b802-355a3affc327",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      508,
+      614
+    ],
+    "offset": [
+      -1.5,
+      1
+    ],
+    "originalSize": [
+      513,
+      618
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

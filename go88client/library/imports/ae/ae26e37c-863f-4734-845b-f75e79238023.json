@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "effect_frame_C_1_tex",
+    "texture": "b2681cf1-2741-4bf3-acd6-1cd702e38477",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      313,
+      487
+    ],
+    "offset": [
+      -98.5,
+      11.5
+    ],
+    "originalSize": [
+      512,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

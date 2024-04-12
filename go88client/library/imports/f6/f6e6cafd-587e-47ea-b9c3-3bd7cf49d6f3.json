@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "caidat",
+    "texture": "6ae65231-1fd5-4242-a60a-2712f0ea719a",
+    "atlas": "",
+    "rect": [
+      61,
+      85,
+      91,
+      117
+    ],
+    "offset": [
+      -2.5,
+      -35
+    ],
+    "originalSize": [
+      218,
+      217
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

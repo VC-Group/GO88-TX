@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "roboto-italic",
+    "texture": "da265ab7-6ff2-49e4-8d3c-865e87009f78",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      441,
+      441
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      448,
+      448
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

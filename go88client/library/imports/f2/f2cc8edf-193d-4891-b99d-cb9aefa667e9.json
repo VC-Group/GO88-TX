@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "item_jackpot_ani",
+    "texture": "c5d01c4e-2128-4d86-a8e5-0b9d39db6438",
+    "atlas": "",
+    "rect": [
+      1,
+      27,
+      192,
+      165
+    ],
+    "offset": [
+      0,
+      -13
+    ],
+    "originalSize": [
+      194,
+      193
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

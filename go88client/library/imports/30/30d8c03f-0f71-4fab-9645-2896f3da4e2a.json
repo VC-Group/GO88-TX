@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bm_tambangphu",
+    "texture": "b016d88e-f910-44e0-b257-5ecc28433031",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      157,
+      157
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      158,
+      158
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

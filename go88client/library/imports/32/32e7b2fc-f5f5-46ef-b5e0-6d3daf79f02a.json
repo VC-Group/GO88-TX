@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "3cay_hall_bg",
+    "texture": "ac6b7fb1-1e90-47c2-90dd-a66410e50175",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1280,
+      720
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1280,
+      720
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

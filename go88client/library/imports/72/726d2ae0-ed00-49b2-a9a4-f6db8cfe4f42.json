@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg-sieutop",
+    "texture": "4d555f4b-2521-4a04-b57a-ce2acf5da310",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1200,
+      650
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1200,
+      650
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

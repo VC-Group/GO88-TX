@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "avenger_font_thang",
+    "texture": "91b04528-7ca8-48d4-a863-174cd7d26c32",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      421,
+      418
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      422,
+      419
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

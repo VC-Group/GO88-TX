@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "caishenyu_tex",
+    "texture": "0defe463-5b5d-45e8-8e31-104fb2b3a135",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      1664,
+      1018
+    ],
+    "offset": [
+      -189,
+      0
+    ],
+    "originalSize": [
+      2048,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

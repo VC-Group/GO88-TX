@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "CAPTAIN AMERICA6",
+    "texture": "89bfe407-9492-46fe-9dd8-4c1ec70b8ba9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      272,
+      211
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      272,
+      211
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

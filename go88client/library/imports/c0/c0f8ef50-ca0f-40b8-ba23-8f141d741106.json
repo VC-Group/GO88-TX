@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text-huong-dan",
+    "texture": "f3d82cbc-5d68-458a-91ed-8bdc12ce53a5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      283,
+      107
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      283,
+      107
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

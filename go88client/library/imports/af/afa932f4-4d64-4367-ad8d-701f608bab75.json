@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_sToc_on",
+    "texture": "97b1e048-f98a-419e-a878-6ba0e38183a9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      167,
+      88
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      167,
+      88
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

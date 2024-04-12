@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "nanDisable",
+    "texture": "9924350c-bfbb-471b-b03e-3a9e92798abd",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      65,
+      65
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      65,
+      65
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

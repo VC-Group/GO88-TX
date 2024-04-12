@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "daythang-btn",
+    "texture": "f793fc74-d1ed-4939-bea5-75fa0663736b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      127,
+      51
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      127,
+      51
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fish_icon_lvlongwang",
+    "texture": "c47b26c5-423c-4409-a54e-9d69f04e3acd",
+    "atlas": "",
+    "rect": [
+      3,
+      9,
+      85,
+      57
+    ],
+    "offset": [
+      1.5,
+      -2.5
+    ],
+    "originalSize": [
+      88,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

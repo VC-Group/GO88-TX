@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bt_DatLai",
+    "texture": "b627831b-fd4c-4a94-8591-9e02a4349425",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      182,
+      67
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      182,
+      67
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

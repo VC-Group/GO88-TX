@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "loso-history-btn-pre-day",
+    "texture": "6a522043-990b-4c23-917e-dd1be68c9e09",
+    "atlas": "c08d52be-c699-4de4-9240-e127b4418e4a",
+    "rect": [
+      1122,
+      1957,
+      42,
+      62
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      80,
+      80
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

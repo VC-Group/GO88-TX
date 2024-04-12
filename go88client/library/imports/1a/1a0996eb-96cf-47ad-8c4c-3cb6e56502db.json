@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fish_game_menu_btn_yuZhong",
+    "texture": "1adb9f59-62fa-4959-a12d-2a2c6945a42e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      47,
+      38
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      48,
+      38
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

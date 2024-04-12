@@ -1,0 +1,44 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "util-mini.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "bg_popupMiniGame": {
+      "__uuid__": "1e1ad8cd-c9d2-436a-a068-393a4c091fd5"
+    },
+    "dr": {
+      "__uuid__": "1ee6c777-f414-4fd5-a982-9ec1e712c025"
+    },
+    "hu": {
+      "__uuid__": "1b2b3853-d881-4bdd-a4ef-d2cbd415629f"
+    },
+    "lights-off": {
+      "__uuid__": "38cba5db-0b4a-4fc0-b774-28c4d27a850e"
+    },
+    "lights-on": {
+      "__uuid__": "3e63efb4-de08-4fce-9a3b-5e24be354d3c"
+    },
+    "mini-game": {
+      "__uuid__": "d8e6c02d-8d19-4220-adb0-e0707a725a96"
+    },
+    "rank1": {
+      "__uuid__": "f8485d05-6eb6-43f8-a493-3312ff3154f8"
+    },
+    "rank2": {
+      "__uuid__": "6f435ce0-f501-4e05-a201-f9948e2728bc"
+    },
+    "rank3": {
+      "__uuid__": "79025f6b-d85e-4521-b831-56077386ac0c"
+    },
+    "trunghu": {
+      "__uuid__": "70e9e91a-2864-4c53-8628-7871ef5baa43"
+    },
+    "util.bet": {
+      "__uuid__": "87c2185b-916e-435d-99c5-d15cbf1f4f5b"
+    },
+    "util.betC": {
+      "__uuid__": "37b0d93b-d4f1-4efa-8b70-bec784a3ba04"
+    }
+  }
+}

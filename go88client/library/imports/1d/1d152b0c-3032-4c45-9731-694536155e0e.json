@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "vuachonsolobby",
+    "texture": "7c93b96a-d3ee-48cb-b971-128c5d179612",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      2016,
+      232
+    ],
+    "offset": [
+      -13,
+      9
+    ],
+    "originalSize": [
+      2048,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

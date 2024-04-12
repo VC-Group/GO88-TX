@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tu_quy",
+    "texture": "87bb176c-7303-41d8-8830-d0d49ee7cb17",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      166,
+      65
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      166,
+      65
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

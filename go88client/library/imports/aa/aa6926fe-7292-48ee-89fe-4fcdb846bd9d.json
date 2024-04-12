@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "vinhdanh-tab",
+    "texture": "e97a2d69-9fb3-481c-8003-d1af66b5e032",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      214,
+      54
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      214,
+      54
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

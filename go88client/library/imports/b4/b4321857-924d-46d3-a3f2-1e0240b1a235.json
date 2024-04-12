@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hudieyu_shadow_tex",
+    "texture": "240a5c14-b9cb-4d37-abb1-3297fbd3de6a",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      244,
+      472
+    ],
+    "offset": [
+      -5,
+      19
+    ],
+    "originalSize": [
+      256,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "aztec",
+    "texture": "175ac0c0-f06f-4a4e-9d6c-427ed2818616",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      230,
+      387
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      232,
+      389
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

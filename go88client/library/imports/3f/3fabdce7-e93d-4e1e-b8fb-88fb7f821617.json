@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "TLMN-Character-NoHu",
+    "texture": "af22ceda-40bd-4892-9751-9ea078c23a30",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      499,
+      249
+    ],
+    "offset": [
+      -4.5,
+      1.5
+    ],
+    "originalSize": [
+      512,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "huong_dan.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "": {
+      "__uuid__": "be41abd0-fefc-4fc6-ba36-352d742cd352"
+    }
+  }
+}

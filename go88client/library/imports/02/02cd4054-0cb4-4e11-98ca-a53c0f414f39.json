@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ef_dice_home2",
+    "texture": "7890b4ae-8cf5-4081-8c14-0e34c27ec0cb",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      39,
+      45
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      42,
+      46
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

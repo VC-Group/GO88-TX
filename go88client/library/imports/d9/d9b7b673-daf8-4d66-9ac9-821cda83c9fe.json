@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "home_megajackpot_font",
+    "texture": "0c772c36-cf0c-4f37-b296-da5aeebb9df7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      77,
+      77
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      78,
+      78
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

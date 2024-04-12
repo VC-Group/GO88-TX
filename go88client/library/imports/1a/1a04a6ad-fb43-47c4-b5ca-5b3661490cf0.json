@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "get out",
+    "texture": "09e0ba38-d407-40b9-9a73-1648e0fdcecb",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      88,
+      88
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      91,
+      89
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

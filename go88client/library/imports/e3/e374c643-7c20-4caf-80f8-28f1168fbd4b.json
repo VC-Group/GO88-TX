@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_bonan",
+    "texture": "d8a82d3a-b93c-416a-8ad1-16901d061e68",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      56,
+      58
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      56,
+      58
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

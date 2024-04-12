@@ -1,0 +1,193 @@
+2022-01-13T15:19:37.514Z - normal: Load ~/.CocosCreator/settings.json
+2022-01-13T15:19:37.695Z - normal: Initializing Asset Database
+2022-01-13T15:19:37.725Z - normal: checking language setting...
+2022-01-13T15:19:37.725Z - normal: Language: en
+2022-01-13T15:19:39.941Z - success: preview server running at http://localhost:7456
+2022-01-13T15:19:39.946Z - success: protocol editor-framework registered
+2022-01-13T15:19:39.946Z - success: protocol app registered
+2022-01-13T15:19:39.946Z - success: protocol theme registered
+2022-01-13T15:19:39.947Z - success: protocol packages registered
+2022-01-13T15:19:39.993Z - success: protocol uuid registerred
+2022-01-13T15:19:39.994Z - success: protocol db registerred
+2022-01-13T15:19:39.994Z - success: protocol thumbnail registerred
+2022-01-13T15:19:39.994Z - success: protocol unpack registerred
+2022-01-13T15:19:39.994Z - success: protocol disable-commonjs registerred
+2022-01-13T15:19:41.287Z - normal: connected!
+2022-01-13T15:19:41.289Z - normal: Check project C:\Users\Administrator\Desktop\go88vn
+2022-01-13T15:19:41.297Z - normal: Initializing project C:\Users\Administrator\Desktop\go88vn
+2022-01-13T15:19:41.336Z - success: adapters loaded
+2022-01-13T15:19:41.341Z - success: asset-db-debugger loaded
+2022-01-13T15:19:41.493Z - success: fb-audience-network loaded
+2022-01-13T15:19:41.553Z - success: fb-live-stream loaded
+2022-01-13T15:19:41.561Z - success: google-play-instant loaded
+2022-01-13T15:19:41.562Z - success: huawei-adapter loaded
+2022-01-13T15:19:41.563Z - success: jkw-adapter loaded
+2022-01-13T15:19:41.563Z - success: jsb-adapter loaded
+2022-01-13T15:19:41.564Z - success: oppo-adapter loaded
+2022-01-13T15:19:41.570Z - success: package-manager loaded
+2022-01-13T15:19:41.570Z - success: qtt-adapter loaded
+2022-01-13T15:19:41.574Z - success: runtime-dev-tools loaded
+2022-01-13T15:19:41.581Z - success: sdkbox loaded
+2022-01-13T15:19:41.585Z - success: ui-kit-preview-extra loaded
+2022-01-13T15:19:41.591Z - success: ui-kit-preview loaded
+2022-01-13T15:19:41.591Z - success: vivo-adapter loaded
+2022-01-13T15:19:41.694Z - success: alipay-minigame loaded
+2022-01-13T15:19:41.827Z - success: assets loaded
+2022-01-13T15:19:41.830Z - success: baidugame-opendata loaded
+2022-01-13T15:19:41.834Z - success: baidugame loaded
+2022-01-13T15:19:41.838Z - success: builder loaded
+2022-01-13T15:19:42.151Z - success: cocos-services loaded
+2022-01-13T15:19:42.155Z - success: console loaded
+2022-01-13T15:19:42.158Z - success: curve-editor loaded
+2022-01-13T15:19:42.176Z - success: fb-instant-games loaded
+2022-01-13T15:19:42.179Z - success: game-window loaded
+2022-01-13T15:19:42.179Z - success: google-instant-games loaded
+2022-01-13T15:19:42.193Z - success: hierarchy loaded
+2022-01-13T15:19:42.198Z - success: huawei-runtime loaded
+2022-01-13T15:19:42.201Z - success: inspector loaded
+2022-01-13T15:19:42.342Z - success: cpk-publish loaded
+2022-01-13T15:19:42.343Z - success: keystore loaded
+2022-01-13T15:19:42.347Z - success: node-library loaded
+2022-01-13T15:19:42.348Z - success: open-recent-items loaded
+2022-01-13T15:19:42.378Z - success: oppo-runtime loaded
+2022-01-13T15:19:42.381Z - success: package-asset loaded
+2022-01-13T15:19:42.382Z - success: preferences loaded
+2022-01-13T15:19:42.385Z - success: project-importer loaded
+2022-01-13T15:19:42.387Z - success: project-settings loaded
+2022-01-13T15:19:42.425Z - success: qtt-runtime loaded
+2022-01-13T15:19:42.428Z - success: scene loaded
+2022-01-13T15:19:42.430Z - success: simulator-debugger loaded
+2022-01-13T15:19:42.430Z - success: sprite-editor loaded
+2022-01-13T15:19:42.432Z - success: store loaded
+2022-01-13T15:19:42.441Z - success: timeline loaded
+2022-01-13T15:19:42.446Z - success: vivo-runtime loaded
+2022-01-13T15:19:42.449Z - success: wechatgame-opendata loaded
+2022-01-13T15:19:42.454Z - success: wechatgame loaded
+2022-01-13T15:19:42.461Z - success: xiaomi-runtime loaded
+2022-01-13T15:19:42.465Z - success: hot-update loaded
+2022-01-13T15:19:45.471Z - normal: Initializing Cocos2d
+2022-01-13T15:19:46.263Z - normal: Initializing engine extends
+2022-01-13T15:20:12.476Z - normal: Loading packages
+2022-01-13T15:20:12.483Z - normal: Watching packages
+2022-01-13T15:20:13.197Z - normal: Run Application
+2022-01-13T15:20:23.881Z - info: Cocos Service load base data!
+2022-01-13T15:22:10.855Z - normal: Start building with options : {
+  "actualPlatform": "web-mobile",
+  "android": {
+    "packageName": "go88.club"
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "http://192.168.1.52:7456/preview-android-instant/",
+    "host": "",
+    "packageName": "org.cocos2d.pro68",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [
+    "armeabi-v7a",
+    "arm64-v8a",
+    "x86"
+  ],
+  "appBundle": false,
+  "baidugame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "testappid",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "buildPath": "C:\\Users\\Administrator\\Desktop\\buildsvgo88",
+  "buildScriptsOnly": false,
+  "debug": false,
+  "dest": "C:\\Users\\Administrator\\Desktop\\buildsvgo88\\web-mobile",
+  "embedWebDebugger": false,
+  "encryptJs": false,
+  "excludeScenes": [],
+  "excludedModules": [
+    "3D Physics/cannon.js",
+    "3D Physics/Builtin",
+    "3D Particle",
+    "SafeArea"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": false,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": "org.cocos2d.pro68"
+  },
+  "mac": {
+    "packageName": "org.cocos2d.pro68"
+  },
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.pro68",
+  "platform": "web-mobile",
+  "previewHeight": 786,
+  "previewWidth": 1389,
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait",
+    "zip": false
+  },
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49",
+    "be3decf7-a228-4eeb-a758-3bda0103212b",
+    "347558f5-bd46-43ea-8604-192415c9cf2c",
+    "331d4109-cd15-4ff0-86f4-921ed5c786f5",
+    "1b8a2ef0-08aa-4997-b085-c3dbef3f54e5",
+    "93f25969-e926-41e7-b791-d5b79a572bb0",
+    "9185f1ae-0af5-417e-b02e-aa7216dd6690",
+    "196c72d6-6502-4fd8-b152-4bebc11f9756",
+    "89430d67-b82a-4ef6-8428-7efa5ed2a8d7",
+    "2449c048-de1c-43f9-944d-48dfd78fe7b9",
+    "2dbb7549-feda-42b6-a6a9-86608310bcaf"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "Go88",
+  "useDebugKeystore": true,
+  "vsVersion": "2017",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "separate_engine": false,
+    "subContext": ""
+  },
+  "win32": {},
+  "xxteaKey": "76eb5338-ae61-4e",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\Administrator\\Desktop\\go88vn",
+  "projectName": "Go88",
+  "debugBuildWorker": false
+}
+2022-01-13T15:22:10.862Z - normal: Building C:\Users\Administrator\Desktop\go88vn
+2022-01-13T15:22:10.863Z - normal: Destination C:\Users\Administrator\Desktop\buildsvgo88\web-mobile
+2022-01-13T15:22:11.113Z - normal: Delete C:\Users\Administrator\Desktop\buildsvgo88\web-mobile\subpackages/**/*,C:\Users\Administrator\Desktop\buildsvgo88\web-mobile\**\*
+2022-01-13T15:22:39.448Z - normal: Start building assets
+2022-01-13T15:22:39.449Z - normal: Start spawn build-worker
+2022-01-13T15:22:42.616Z - normal: Finish spawn build-worker
+2022-01-13T15:22:42.617Z - normal: Start init build-worker
+2022-01-13T15:22:51.252Z - normal: Finish init build-worker
+2022-01-13T15:22:51.253Z - normal: Start build-assets in worker
+2022-01-13T15:23:57.070Z - normal: Finish build-assets in worker
+2022-01-13T15:23:57.410Z - normal: Finish building assets
+2022-01-13T15:23:57.411Z - normal: Start building plugin scripts
+2022-01-13T15:23:59.520Z - normal: Generating main.js from C:\CocosCreator_2.3.0\resources\static\build-templates\shares\main.js
+2022-01-13T15:23:59.534Z - normal: Generating html from C:\CocosCreator_2.3.0\resources\static\build-templates\web-mobile\template\index.html
+2022-01-13T15:23:59.678Z - normal: Built to "C:\Users\Administrator\Desktop\buildsvgo88\web-mobile" successfully
+2022-01-13T15:23:59.955Z - normal: SearchPath updated in built main.js for hot update
+2022-01-13T15:34:38.302Z - info: shutdown preview server

@@ -1,0 +1,35 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "buttontaixiu.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "bonan": {
+      "__uuid__": "43bb66b9-4b5f-4878-9a9a-f0243856cb04"
+    },
+    "chat": {
+      "__uuid__": "65ce8500-ef77-44e9-93e5-ad04c87c5431"
+    },
+    "huoangdan2": {
+      "__uuid__": "9cc03fb8-1922-45ea-9e29-570f4e0dd51f"
+    },
+    "huongdan": {
+      "__uuid__": "d0dde5ff-b447-4a9d-ad58-c7dbc745c7cd"
+    },
+    "lichsu": {
+      "__uuid__": "6e35a778-7a29-408a-b69e-23fb8a29c444"
+    },
+    "nan": {
+      "__uuid__": "58c2f408-bbe5-4207-8299-f2280bdcdf38"
+    },
+    "soicau": {
+      "__uuid__": "654f4a58-9a26-4b9b-a6a5-d1b62f60bb8d"
+    },
+    "thoat": {
+      "__uuid__": "0407ff96-a0bb-4a8d-8b49-252d5ecbc0b7"
+    },
+    "top": {
+      "__uuid__": "7db48754-b35b-449f-95e6-60ffa5a0d6cc"
+    }
+  }
+}

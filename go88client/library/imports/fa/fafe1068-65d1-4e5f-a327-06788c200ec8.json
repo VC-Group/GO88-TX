@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "phom",
+    "texture": "f4106b52-60b5-4e72-9da1-95ceb43d3a71",
+    "atlas": "",
+    "rect": [
+      2,
+      5,
+      208,
+      207
+    ],
+    "offset": [
+      0,
+      -2.5
+    ],
+    "originalSize": [
+      212,
+      212
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

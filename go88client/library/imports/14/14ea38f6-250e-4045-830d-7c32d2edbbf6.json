@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "item_bonus_ani",
+    "texture": "8b513efc-fe05-48d3-958b-953a53d68826",
+    "atlas": "",
+    "rect": [
+      1,
+      6,
+      172,
+      167
+    ],
+    "offset": [
+      -0.5,
+      -2.5
+    ],
+    "originalSize": [
+      175,
+      174
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

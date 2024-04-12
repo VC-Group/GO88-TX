@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "comming-soon",
+    "texture": "506eaef7-8c9e-4353-adb0-0e91f9e4c0bd",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      75,
+      77
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      75,
+      77
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

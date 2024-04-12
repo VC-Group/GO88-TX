@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "nhacnen-active",
+    "texture": "a6d6f52d-f959-47c0-b639-91a2a164a04a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      45,
+      50
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      45,
+      50
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

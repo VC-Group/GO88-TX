@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bongtrang",
+    "texture": "8ba513eb-a8f7-465e-9e1b-d997e587d286",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      28,
+      28
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      28,
+      28
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

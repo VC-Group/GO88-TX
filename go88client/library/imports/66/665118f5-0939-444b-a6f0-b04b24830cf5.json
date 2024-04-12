@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "otp",
+    "texture": "86d84455-d1be-473b-be40-60eec0302c34",
+    "atlas": "",
+    "rect": [
+      0,
+      13,
+      81,
+      61
+    ],
+    "offset": [
+      0,
+      -6.5
+    ],
+    "originalSize": [
+      81,
+      74
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_cao_thap",
+    "texture": "d21959eb-d83f-4de9-ab72-3996d5613dfc",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      76,
+      92
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      76,
+      92
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

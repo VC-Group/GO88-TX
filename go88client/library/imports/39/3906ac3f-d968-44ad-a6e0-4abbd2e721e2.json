@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_dialog_minigame",
+    "texture": "b4e81c80-c0eb-4014-aace-7782cb30b580",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      913,
+      625
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      913,
+      625
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

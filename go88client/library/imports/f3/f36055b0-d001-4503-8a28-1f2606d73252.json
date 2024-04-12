@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "phaohoa-7",
+    "texture": "f3791668-61fb-46f9-91a5-040585e869f8",
+    "atlas": "aafe6896-9764-4f2c-bc25-67ed878d0fd8",
+    "rect": [
+      169,
+      384,
+      191,
+      298
+    ],
+    "offset": [
+      7,
+      109
+    ],
+    "originalSize": [
+      217,
+      528
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

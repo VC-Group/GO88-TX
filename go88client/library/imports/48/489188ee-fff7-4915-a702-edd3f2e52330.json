@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "thantai_text_game",
+    "texture": "92defefd-4730-4e8d-9622-f4b32a9fe2f1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      259,
+      511
+    ],
+    "offset": [
+      -126.5,
+      0.5
+    ],
+    "originalSize": [
+      512,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

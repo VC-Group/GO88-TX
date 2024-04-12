@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tab-active",
+    "texture": "6c872cdf-9351-4489-ba6b-086494ef9cfa",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      249,
+      64
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      249,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

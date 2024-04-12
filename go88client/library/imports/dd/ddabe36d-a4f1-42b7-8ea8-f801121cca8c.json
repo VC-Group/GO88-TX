@@ -1,0 +1,14 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "bg_top_body.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "default-2-1": {
+      "__uuid__": "a6e159be-db2b-4f9d-bf8c-4587ce83838c"
+    },
+    "default-2-2": {
+      "__uuid__": "4bbe375f-3b87-4126-b6d4-54ec2cea077d"
+    }
+  }
+}

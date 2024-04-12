@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "megajackpot_popup_ticket_tab_1_selected",
+    "texture": "eed060a7-3526-4320-8c45-f024b6a50999",
+    "atlas": "42d6d76f-a6d4-4980-8edf-809ce5286d7a",
+    "rect": [
+      2410,
+      763,
+      172,
+      65
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      172,
+      65
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

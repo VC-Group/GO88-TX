@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon-ket",
+    "texture": "36246095-802c-4a32-9321-ebc5fdf3b210",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      40,
+      39
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      40,
+      39
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mau_binh",
+    "texture": "a10a5fd3-01b3-4344-b104-b80eb6bf047f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      211,
+      212
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      212,
+      212
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

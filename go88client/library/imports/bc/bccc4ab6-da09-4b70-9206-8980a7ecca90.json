@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fish_icon_diancipao",
+    "texture": "9cd2a3b6-a19d-405b-8ad7-65d4c87ab602",
+    "atlas": "",
+    "rect": [
+      8,
+      0,
+      71,
+      70
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      88,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

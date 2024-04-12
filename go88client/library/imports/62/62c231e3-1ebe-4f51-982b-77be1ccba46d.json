@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chat-exit-icon",
+    "texture": "26aaf710-f82a-48fd-ad22-e48bd9839f81",
+    "atlas": "2a11c308-23b8-450e-a689-21b28f1314b8",
+    "rect": [
+      658,
+      77,
+      75,
+      75
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      75,
+      75
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

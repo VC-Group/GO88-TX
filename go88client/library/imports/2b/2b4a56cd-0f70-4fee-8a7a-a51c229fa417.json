@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "FREE IRONMAN EFFECT 1280x 7202",
+    "texture": "27a9e3d5-f4eb-4ad1-af0b-b101656ad408",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      283,
+      187
+    ],
+    "offset": [
+      -111.5,
+      31.5
+    ],
+    "originalSize": [
+      512,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

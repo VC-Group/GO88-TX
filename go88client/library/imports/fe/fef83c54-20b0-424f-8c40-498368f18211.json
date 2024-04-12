@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "avenger_bg_1",
+    "texture": "c2f96499-9efa-4156-940a-f6c5b51c1110",
+    "atlas": "d75e118b-8c28-419d-91a9-fa0143bc103d",
+    "rect": [
+      1,
+      723,
+      1559,
+      720
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1559,
+      720
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

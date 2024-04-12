@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "thele-tab-active",
+    "texture": "ff977085-4d34-4b04-9458-e960c6ce9ba5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      214,
+      54
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      214,
+      54
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

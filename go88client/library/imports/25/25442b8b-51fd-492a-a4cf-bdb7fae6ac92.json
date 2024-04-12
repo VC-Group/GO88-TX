@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fish_icon_baoxiang",
+    "texture": "d69ce152-983f-4843-89b5-28c11cd3a671",
+    "atlas": "",
+    "rect": [
+      10,
+      6,
+      83,
+      88
+    ],
+    "offset": [
+      4.5,
+      -3
+    ],
+    "originalSize": [
+      94,
+      94
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

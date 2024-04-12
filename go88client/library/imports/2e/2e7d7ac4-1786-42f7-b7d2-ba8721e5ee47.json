@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "minipoker-ico",
+    "texture": "6cbfdc45-ca3e-4c82-864f-9a905d77ad88",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      72,
+      75
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      72,
+      75
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

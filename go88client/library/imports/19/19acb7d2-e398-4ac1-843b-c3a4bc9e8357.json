@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "BONUS INFINITY GLOVE EFFECT3",
+    "texture": "7db3141f-c9ba-4bdc-8bec-6fa48e79a6fb",
+    "atlas": "",
+    "rect": [
+      5,
+      1,
+      503,
+      492
+    ],
+    "offset": [
+      0.5,
+      9
+    ],
+    "originalSize": [
+      512,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

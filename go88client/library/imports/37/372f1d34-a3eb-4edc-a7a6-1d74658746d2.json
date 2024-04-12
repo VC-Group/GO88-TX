@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_cashout",
+    "texture": "3ba1854b-a44c-4f98-98f0-5e7a43abbb5c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      61,
+      60
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      61,
+      60
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

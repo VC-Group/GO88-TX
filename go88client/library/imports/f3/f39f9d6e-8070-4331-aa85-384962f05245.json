@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "res-Minigame-ResMiniPoker-CanGat-cangat5",
+    "texture": "1246e4a0-462e-4856-bc87-045553023dbb",
+    "atlas": "fef7ae2b-676e-4dcc-8c41-903a4eb17dae",
+    "rect": [
+      62,
+      1,
+      59,
+      140
+    ],
+    "offset": [
+      0,
+      97
+    ],
+    "originalSize": [
+      59,
+      334
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

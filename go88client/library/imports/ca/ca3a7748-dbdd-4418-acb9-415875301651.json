@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bt_GapThep",
+    "texture": "d8dc79e8-a31f-4574-91e3-3ac548f78ede",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      181,
+      67
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      181,
+      67
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

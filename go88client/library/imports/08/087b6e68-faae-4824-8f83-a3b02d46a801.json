@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tx_bgLine",
+    "texture": "6144c4ab-37d4-441a-aa06-7a99887bb28d",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      631,
+      217
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      633,
+      219
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

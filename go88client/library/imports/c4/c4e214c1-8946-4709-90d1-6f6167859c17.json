@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Scatter",
+    "texture": "815f8fc9-991a-43b8-a244-1397868abc44",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      990,
+      250
+    ],
+    "offset": [
+      -14,
+      0
+    ],
+    "originalSize": [
+      1024,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

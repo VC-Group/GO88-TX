@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "aladdin_roll",
+    "texture": "102a456b-ce32-4520-8fea-6572b0662349",
+    "atlas": "",
+    "rect": [
+      3,
+      1,
+      347,
+      1031
+    ],
+    "offset": [
+      0.5,
+      2
+    ],
+    "originalSize": [
+      352,
+      1037
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

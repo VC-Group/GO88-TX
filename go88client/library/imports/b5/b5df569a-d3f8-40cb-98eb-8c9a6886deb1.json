@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tableRut",
+    "texture": "110e8bda-498f-4c6f-959a-3fbfa3db157c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      700,
+      558
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      700,
+      559
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

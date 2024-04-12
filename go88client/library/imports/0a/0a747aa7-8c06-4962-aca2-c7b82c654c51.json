@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "haigui_tex",
+    "texture": "01e1705c-759e-4fd8-9734-498d2dfcfce2",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      474,
+      691
+    ],
+    "offset": [
+      -18,
+      165.5
+    ],
+    "originalSize": [
+      512,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

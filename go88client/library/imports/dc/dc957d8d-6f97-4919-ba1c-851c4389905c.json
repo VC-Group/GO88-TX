@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tuobaoguiwang_tex",
+    "texture": "749dd5b5-c138-416c-bd1d-7da96e402155",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1019,
+      814
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1019,
+      814
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

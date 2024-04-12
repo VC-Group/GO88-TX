@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fish_icon_huangjinchuitousha",
+    "texture": "c9433e31-fec3-4b80-a1d0-aa8b78742a96",
+    "atlas": "",
+    "rect": [
+      1,
+      6,
+      87,
+      63
+    ],
+    "offset": [
+      0.5,
+      -2.5
+    ],
+    "originalSize": [
+      88,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

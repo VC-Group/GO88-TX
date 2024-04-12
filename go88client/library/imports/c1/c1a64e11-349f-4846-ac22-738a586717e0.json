@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icoCaiDat",
+    "texture": "654c2f15-1e76-4084-9582-c94dfd5533f2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      76,
+      58
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      76,
+      59
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

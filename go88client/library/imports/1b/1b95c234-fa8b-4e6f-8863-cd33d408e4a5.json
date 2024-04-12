@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fish_icon_meirenyu",
+    "texture": "5a21c6fd-5573-4bec-ac29-75d962ba2e38",
+    "atlas": "",
+    "rect": [
+      0,
+      2,
+      87,
+      67
+    ],
+    "offset": [
+      -0.5,
+      -0.5
+    ],
+    "originalSize": [
+      88,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xocdialobby",
+    "texture": "5e74ac0c-2d81-4df7-a0ac-6fbd68415ead",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      452,
+      236
+    ],
+    "offset": [
+      -28,
+      8
+    ],
+    "originalSize": [
+      512,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bangthuong",
+    "texture": "e7b8de37-780e-4bbb-9190-af5995b15fa0",
+    "atlas": "",
+    "rect": [
+      122,
+      30,
+      747,
+      389
+    ],
+    "offset": [
+      45.5,
+      0.5
+    ],
+    "originalSize": [
+      900,
+      450
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

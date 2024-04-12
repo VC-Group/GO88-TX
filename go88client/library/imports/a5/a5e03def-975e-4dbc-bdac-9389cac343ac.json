@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hetun_tex",
+    "texture": "ab34ccab-2785-4e78-a1a4-9da7564cc87f",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      182,
+      348
+    ],
+    "offset": [
+      -36,
+      81
+    ],
+    "originalSize": [
+      256,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dong_chan",
+    "texture": "694b9bb7-eb47-48b6-807b-17d3a65388c9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      204,
+      74
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      204,
+      74
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

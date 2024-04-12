@@ -1,0 +1,44 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "effect_tbnohu.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "light-0": {
+      "__uuid__": "4423c652-e42b-4af5-8939-646a30c3b09c"
+    },
+    "light-1": {
+      "__uuid__": "9a61fe3c-8bd3-427a-8329-553eb35a68a0"
+    },
+    "phaohoa-0": {
+      "__uuid__": "e135df9a-bd86-4320-a3f8-9273b6653b77"
+    },
+    "phaohoa-1": {
+      "__uuid__": "f300d58a-8804-4a99-9d30-d9fc053c588a"
+    },
+    "phaohoa-2": {
+      "__uuid__": "854a3002-294b-4e51-8fac-56974a361440"
+    },
+    "phaohoa-3": {
+      "__uuid__": "0a6f557b-b323-4782-93ad-d9951f2af539"
+    },
+    "phaohoa-4": {
+      "__uuid__": "0a4b1439-eaff-4892-950c-0df1444b404f"
+    },
+    "phaohoa-5": {
+      "__uuid__": "991b1964-9288-4ba7-9a92-e5fb2ab4c976"
+    },
+    "phaohoa-6": {
+      "__uuid__": "c1170201-d77f-40bf-86fc-8a22bbf3556c"
+    },
+    "phaohoa-7": {
+      "__uuid__": "f36055b0-d001-4503-8a28-1f2606d73252"
+    },
+    "phaohoa-8": {
+      "__uuid__": "fc84c6ab-a4cc-4cce-8a95-8cda068aa58b"
+    },
+    "phaohoa-9": {
+      "__uuid__": "163fd568-10b3-4d54-9bfa-3f2728d22327"
+    }
+  }
+}

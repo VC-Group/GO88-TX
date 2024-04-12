@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hbby_font_boss_number",
+    "texture": "77db306c-d4a2-4973-b5b9-456662a8014b",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      241,
+      198
+    ],
+    "offset": [
+      -6.5,
+      28
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "noibat",
+    "texture": "11e78ace-5d35-41d3-aea8-e32dbcecf0c5",
+    "atlas": "",
+    "rect": [
+      24,
+      17,
+      470,
+      447
+    ],
+    "offset": [
+      3,
+      15.5
+    ],
+    "originalSize": [
+      512,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

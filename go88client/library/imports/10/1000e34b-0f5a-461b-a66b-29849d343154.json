@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "vuongQuocRed-big-popup",
+    "texture": "9ea615c0-ec9f-413e-9926-6a3b751593f3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      764,
+      403
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      764,
+      403
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

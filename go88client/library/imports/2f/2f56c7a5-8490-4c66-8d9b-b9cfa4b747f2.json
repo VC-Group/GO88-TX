@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mini_warning0",
+    "texture": "ae9604db-3e99-4fde-80b7-f33d0ddf2bb3",
+    "atlas": "",
+    "rect": [
+      149,
+      55,
+      1,
+      1
+    ],
+    "offset": [
+      74.5,
+      -27.5
+    ],
+    "originalSize": [
+      150,
+      56
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

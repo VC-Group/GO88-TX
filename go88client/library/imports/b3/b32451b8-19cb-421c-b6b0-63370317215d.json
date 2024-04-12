@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "haidaochuan_tex",
+    "texture": "5f85021b-69de-4d94-8403-2a8d3b6cf3d6",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      1838,
+      1102
+    ],
+    "offset": [
+      -0.5,
+      1.5
+    ],
+    "originalSize": [
+      1841,
+      1107
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

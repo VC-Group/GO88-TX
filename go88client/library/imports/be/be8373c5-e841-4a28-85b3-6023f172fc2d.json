@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fish_game_menu_btn_exit",
+    "texture": "fd060de1-99eb-4ca9-9fbe-645557b39da3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      41,
+      43
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      42,
+      43
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

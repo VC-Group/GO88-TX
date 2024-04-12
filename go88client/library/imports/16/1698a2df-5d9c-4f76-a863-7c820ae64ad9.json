@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_lich_su",
+    "texture": "e22496fa-b1b4-459b-bd64-4032b35113af",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      700,
+      59
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      700,
+      59
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

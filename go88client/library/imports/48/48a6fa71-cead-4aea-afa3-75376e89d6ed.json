@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "forestpartyResultZhengshuBig",
+    "texture": "e8025f88-c853-4e36-9299-c3d398338abe",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      121,
+      119
+    ],
+    "offset": [
+      -3.5,
+      4.5
+    ],
+    "originalSize": [
+      128,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

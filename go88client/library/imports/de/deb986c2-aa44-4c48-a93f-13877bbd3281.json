@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "kyby_hall_bj_renyugangkou_tex",
+    "texture": "bcacde49-f845-41e7-b75f-a19f2e0e2891",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1023,
+      1006
+    ],
+    "offset": [
+      -0.5,
+      9
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

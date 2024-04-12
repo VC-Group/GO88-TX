@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "KhungDenToNhat",
+    "texture": "0d4a086f-43af-43d2-9882-bce5c391b025",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      995,
+      497
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      995,
+      497
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

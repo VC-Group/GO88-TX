@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bachkim",
+    "texture": "dd24a062-69fd-47da-8eed-6ad37a0b2d4a",
+    "atlas": "",
+    "rect": [
+      2,
+      3,
+      394,
+      500
+    ],
+    "offset": [
+      -57,
+      3
+    ],
+    "originalSize": [
+      512,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

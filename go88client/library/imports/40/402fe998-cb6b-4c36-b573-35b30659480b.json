@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_dai_ly",
+    "texture": "930ded2e-5a19-4631-a950-b80b3d782bdf",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      512,
+      512
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      512,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

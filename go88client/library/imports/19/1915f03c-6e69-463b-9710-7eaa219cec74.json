@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_back",
+    "texture": "8a5eab5a-cea5-43c1-8ff1-661112b4e9e6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      96,
+      80
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      96,
+      80
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

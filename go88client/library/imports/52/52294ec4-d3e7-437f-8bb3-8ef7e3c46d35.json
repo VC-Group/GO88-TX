@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "diancipaoyu_shadow_tex",
+    "texture": "33619a9f-aadb-43cc-9582-9f78cf770dc0",
+    "atlas": "",
+    "rect": [
+      1,
+      4,
+      948,
+      934
+    ],
+    "offset": [
+      -37,
+      41
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

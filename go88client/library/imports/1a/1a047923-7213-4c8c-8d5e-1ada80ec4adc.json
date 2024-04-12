@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fish_icon_tuobaoguiwang",
+    "texture": "96b06ba9-46a3-4943-92e8-0308bdda8859",
+    "atlas": "",
+    "rect": [
+      6,
+      2,
+      74,
+      68
+    ],
+    "offset": [
+      -1,
+      -1
+    ],
+    "originalSize": [
+      88,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

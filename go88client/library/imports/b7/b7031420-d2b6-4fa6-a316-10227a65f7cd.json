@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bden",
+    "texture": "f846a099-9a23-413d-9dea-067ae5210484",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      27,
+      27
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      30,
+      30
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

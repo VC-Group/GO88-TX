@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bt_LichSuGD",
+    "texture": "811a2eb9-345d-4b14-8c26-7abb4c138226",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      64,
+      65
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      64,
+      65
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

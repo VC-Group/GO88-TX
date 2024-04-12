@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Panel_ThongKe",
+    "texture": "b14cac84-b6fa-481a-bc2f-def99aaed8c1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1219,
+      755
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1219,
+      755
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

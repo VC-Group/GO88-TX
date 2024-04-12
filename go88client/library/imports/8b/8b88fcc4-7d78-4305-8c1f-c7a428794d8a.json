@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Taixiu",
+    "texture": "10c7e2c9-8036-47fd-b19f-c65555bd4d04",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      357,
+      241
+    ],
+    "offset": [
+      -74.5,
+      4.5
+    ],
+    "originalSize": [
+      512,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

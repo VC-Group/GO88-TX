@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fish_icon_xiaochouyu",
+    "texture": "0acb1802-5ddf-46f3-aa80-65e20d9e39e9",
+    "atlas": "",
+    "rect": [
+      25,
+      1,
+      42,
+      69
+    ],
+    "offset": [
+      2,
+      -0.5
+    ],
+    "originalSize": [
+      88,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

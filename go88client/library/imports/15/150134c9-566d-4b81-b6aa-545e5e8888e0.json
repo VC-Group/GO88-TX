@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "body_slot",
+    "texture": "e66b47f3-f6d5-4c83-9e4b-8e6f86a95290",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1277,
+      728
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1277,
+      728
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

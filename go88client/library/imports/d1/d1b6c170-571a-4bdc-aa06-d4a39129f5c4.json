@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "popuppaginate3",
+    "texture": "3aa8c0ed-f930-4b24-a829-ad5372dc846c",
+    "atlas": "350913a9-558f-4a22-a72f-97db6bb0baff",
+    "rect": [
+      490,
+      0,
+      49,
+      49
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      49,
+      49
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

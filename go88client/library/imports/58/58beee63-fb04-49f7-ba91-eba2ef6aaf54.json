@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fish_hall_hwyj",
+    "texture": "4be47212-fa37-4e24-9f3e-85adbadcd265",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      117,
+      142
+    ],
+    "offset": [
+      -1,
+      1
+    ],
+    "originalSize": [
+      119,
+      144
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

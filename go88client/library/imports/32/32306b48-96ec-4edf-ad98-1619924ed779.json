@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Alexander_WB-export",
+    "texture": "3d44b0d0-a85a-408e-8388-91ca8d2001ba",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      373,
+      373
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      374,
+      374
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

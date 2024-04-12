@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "HUNohu1",
+    "texture": "f7963c0d-b86a-498c-aa01-e4fea715da04",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1245,
+      592
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1245,
+      592
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

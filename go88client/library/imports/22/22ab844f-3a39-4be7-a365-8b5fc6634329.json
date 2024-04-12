@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "kyby_hall_bj_jiemian_tex",
+    "texture": "ffc5a80b-d9d2-4565-a2da-e56bc80da9c2",
+    "atlas": "",
+    "rect": [
+      1,
+      3,
+      2042,
+      1820
+    ],
+    "offset": [
+      -2,
+      111
+    ],
+    "originalSize": [
+      2048,
+      2048
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

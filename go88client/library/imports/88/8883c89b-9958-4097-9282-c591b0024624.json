@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dongtien",
+    "texture": "d44a4014-973a-4730-8db8-fb05e9fa340a",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      36,
+      50
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      36,
+      51
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

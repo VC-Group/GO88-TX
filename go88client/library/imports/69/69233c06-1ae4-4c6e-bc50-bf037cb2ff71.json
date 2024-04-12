@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "spine",
+    "texture": "c2e56569-2226-48d4-820d-2b5b56a30559",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      843,
+      1791
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      845,
+      1793
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

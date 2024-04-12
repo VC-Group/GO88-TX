@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "helvetica_w_2-export",
+    "texture": "c83828d9-9053-4a0d-834c-ec84538fc621",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      215,
+      255
+    ],
+    "offset": [
+      -20.5,
+      0.5
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

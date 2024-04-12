@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "kyby_sz_btn_mini",
+    "texture": "02dbe280-81ad-469d-b1e6-8d760efbe302",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      28,
+      44
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      28,
+      44
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "avenger_jackpot",
+    "texture": "054f2f09-cea4-4992-bf62-ab0b17b38a0d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      2048,
+      2048
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      2048,
+      2048
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

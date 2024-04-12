@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dagalobby",
+    "texture": "be857335-b5e0-4812-9a89-4f529aabc1b2",
+    "atlas": "",
+    "rect": [
+      3,
+      2,
+      882,
+      247
+    ],
+    "offset": [
+      -68,
+      2.5
+    ],
+    "originalSize": [
+      1024,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_tam_hung",
+    "texture": "3ec02037-4f56-4705-b572-ca7be4561105",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      66,
+      66
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      66,
+      66
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

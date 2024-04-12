@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_toptuan_on",
+    "texture": "f2e71586-e7f1-4327-9117-98e0744ea443",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      231,
+      103
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      233,
+      105
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "day-thua",
+    "texture": "d69d79ad-a56d-4a86-8029-6637a13b909d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      152,
+      49
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      152,
+      49
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

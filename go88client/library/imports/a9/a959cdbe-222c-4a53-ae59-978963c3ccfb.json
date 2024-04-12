@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "box_heSo",
+    "texture": "5cd71aed-4f42-4939-b0f2-c9d224036497",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      266,
+      99
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      266,
+      99
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

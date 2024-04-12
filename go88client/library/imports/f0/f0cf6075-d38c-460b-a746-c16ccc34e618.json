@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mini-toggle-check",
+    "texture": "ebc243ef-650e-462b-a022-6104d859f705",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      14,
+      14
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      16,
+      16
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

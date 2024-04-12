@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ngokhong",
+    "texture": "6668abc3-13ca-4705-b904-196f02fbd723",
+    "atlas": "",
+    "rect": [
+      0,
+      4,
+      369,
+      100
+    ],
+    "offset": [
+      0,
+      -2
+    ],
+    "originalSize": [
+      369,
+      104
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

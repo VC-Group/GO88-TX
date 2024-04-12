@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "AntiqueOlive-WB-BTfont-export",
+    "texture": "d2da7085-1819-48ab-a1bf-f774b33a2cb9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      714,
+      1009
+    ],
+    "offset": [
+      -155,
+      7.5
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

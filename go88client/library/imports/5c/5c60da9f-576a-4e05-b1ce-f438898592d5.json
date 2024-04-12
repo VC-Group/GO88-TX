@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "opfrontlobby",
+    "texture": "d5609e69-ed40-4e3d-b52e-84f51ab3aa58",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      1001,
+      234
+    ],
+    "offset": [
+      -8.5,
+      8
+    ],
+    "originalSize": [
+      1024,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

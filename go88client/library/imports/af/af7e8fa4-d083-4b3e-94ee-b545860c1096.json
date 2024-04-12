@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_phai",
+    "texture": "feb991f6-ba1d-4437-bd58-83be275c201b",
+    "atlas": "320aee53-b03d-4112-811a-1b5a623d6862",
+    "rect": [
+      1,
+      1,
+      45,
+      68
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      45,
+      68
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

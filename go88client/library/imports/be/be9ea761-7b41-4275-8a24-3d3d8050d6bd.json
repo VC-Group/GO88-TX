@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "haidaochuan_shadow_tex",
+    "texture": "a11262b5-bd30-4577-a8a2-56d227ce36f9",
+    "atlas": "",
+    "rect": [
+      2,
+      1,
+      922,
+      549
+    ],
+    "offset": [
+      -0.5,
+      3.5
+    ],
+    "originalSize": [
+      927,
+      558
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

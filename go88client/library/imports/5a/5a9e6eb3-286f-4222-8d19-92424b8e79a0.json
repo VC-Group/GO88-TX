@@ -1,0 +1,398 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "bonus",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "BBAm3SQrpKokeKzYdFtzOhYb/10",
+      "spine": "3.7.94",
+      "width": 210,
+      "height": 241,
+      "images": "./images/",
+      "audio": "C:/Users/Toanp/OneDrive/Máy tính/Zeus/SPINE/bonus"
+    },
+    "bones": [
+      {
+        "name": "root",
+        "x": -3.29,
+        "y": 1.1
+      },
+      {
+        "name": "Layer 5",
+        "parent": "root",
+        "x": -6.86,
+        "y": -14.25
+      },
+      {
+        "name": "Layer 3",
+        "parent": "root",
+        "x": -2.47,
+        "y": -52.31
+      }
+    ],
+    "slots": [
+      {
+        "name": "Layer 1",
+        "bone": "root",
+        "attachment": "Layer 1"
+      },
+      {
+        "name": "Layer 2",
+        "bone": "root",
+        "attachment": "Layer 2"
+      },
+      {
+        "name": "Layer 3",
+        "bone": "Layer 3",
+        "attachment": "Layer 3"
+      },
+      {
+        "name": "Layer 4",
+        "bone": "root",
+        "attachment": "Layer 4"
+      },
+      {
+        "name": "Layer 5",
+        "bone": "Layer 5",
+        "attachment": "Layer 9"
+      }
+    ],
+    "skins": {
+      "default": {
+        "Layer 1": {
+          "Layer 1": {
+            "x": -5.86,
+            "y": -0.71,
+            "width": 154,
+            "height": 176
+          }
+        },
+        "Layer 2": {
+          "Layer 2": {
+            "x": -9.86,
+            "y": 5.79,
+            "width": 164,
+            "height": 151
+          }
+        },
+        "Layer 3": {
+          "Layer 3": {
+            "x": -0.89,
+            "y": 2.6,
+            "width": 179,
+            "height": 74
+          }
+        },
+        "Layer 4": {
+          "Layer 4": {
+            "x": -5.86,
+            "y": 22.79,
+            "width": 194,
+            "height": 161
+          }
+        },
+        "Layer 5": {
+          "Layer 5": {
+            "x": 6.86,
+            "y": 14.25,
+            "width": 214,
+            "height": 244
+          },
+          "Layer 6": {
+            "x": 7.36,
+            "y": 14.25,
+            "width": 237,
+            "height": 222
+          },
+          "Layer 7": {
+            "x": 7.36,
+            "y": 14.75,
+            "width": 217,
+            "height": 241
+          },
+          "Layer 8": {
+            "x": 7.36,
+            "y": 14.75,
+            "width": 235,
+            "height": 243
+          },
+          "Layer 9": {
+            "x": 6.86,
+            "y": 14.75,
+            "width": 210,
+            "height": 241
+          },
+          "Layer 10": {
+            "x": 7.36,
+            "y": 14.75,
+            "width": 301,
+            "height": 223
+          },
+          "Layer 11": {
+            "x": 6.86,
+            "y": 14.75,
+            "width": 196,
+            "height": 253
+          },
+          "Layer 12": {
+            "x": 7.36,
+            "y": 14.25,
+            "width": 195,
+            "height": 218
+          },
+          "Layer 13": {
+            "x": 7.36,
+            "y": 14.25,
+            "width": 331,
+            "height": 208
+          },
+          "Layer 14": {
+            "x": 7.36,
+            "y": 14.75,
+            "width": 221,
+            "height": 187
+          },
+          "Layer 15": {
+            "x": 7.36,
+            "y": 14.25,
+            "width": 233,
+            "height": 228
+          },
+          "Layer 16": {
+            "x": 6.86,
+            "y": 14.25,
+            "width": 234,
+            "height": 254
+          },
+          "Layer 17": {
+            "x": 6.86,
+            "y": 14.75,
+            "width": 222,
+            "height": 219
+          },
+          "Layer 18": {
+            "x": 7.36,
+            "y": 14.75,
+            "width": 213,
+            "height": 215
+          },
+          "Layer 19": {
+            "x": 7.36,
+            "y": 14.75,
+            "width": 289,
+            "height": 203
+          },
+          "Layer 20": {
+            "x": 6.86,
+            "y": 14.25,
+            "width": 264,
+            "height": 226
+          },
+          "Layer 21": {
+            "x": 6.86,
+            "y": 14.25,
+            "width": 280,
+            "height": 218
+          },
+          "Layer 22": {
+            "x": 7.36,
+            "y": 14.25,
+            "width": 247,
+            "height": 128
+          },
+          "Layer 23": {
+            "x": 7.36,
+            "y": 14.25,
+            "width": 251,
+            "height": 222
+          },
+          "Layer 24": {
+            "x": 6.86,
+            "y": 14.25,
+            "width": 240,
+            "height": 230
+          },
+          "Layer 25": {
+            "x": 6.86,
+            "y": 14.25,
+            "width": 304,
+            "height": 240
+          },
+          "Layer 26": {
+            "x": 6.86,
+            "y": 14.25,
+            "width": 280,
+            "height": 228
+          },
+          "Layer 27": {
+            "x": 7.36,
+            "y": 14.75,
+            "width": 233,
+            "height": 233
+          },
+          "Layer 28": {
+            "x": 7.36,
+            "y": 14.75,
+            "width": 243,
+            "height": 217
+          },
+          "Layer 29": {
+            "x": 6.86,
+            "y": 14.75,
+            "width": 226,
+            "height": 219
+          }
+        }
+      }
+    },
+    "animations": {
+      "animation": {
+        "slots": {
+          "Layer 4": {
+            "color": [
+              {
+                "time": 0.6667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.8333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 1,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1.1667,
+                "color": "ffffff00"
+              },
+              {
+                "time": 1.3333,
+                "color": "ffffffff"
+              }
+            ]
+          },
+          "Layer 5": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.0333,
+                "name": "Layer 6"
+              },
+              {
+                "time": 0.0667,
+                "name": "Layer 7"
+              },
+              {
+                "time": 0.1,
+                "name": "Layer 9"
+              },
+              {
+                "time": 0.1333,
+                "name": "Layer 10"
+              },
+              {
+                "time": 0.1667,
+                "name": "Layer 12"
+              },
+              {
+                "time": 0.2,
+                "name": "Layer 14"
+              },
+              {
+                "time": 0.2333,
+                "name": "Layer 16"
+              },
+              {
+                "time": 0.2667,
+                "name": "Layer 17"
+              },
+              {
+                "time": 0.3,
+                "name": "Layer 20"
+              },
+              {
+                "time": 0.3333,
+                "name": "Layer 22"
+              },
+              {
+                "time": 0.3667,
+                "name": "Layer 23"
+              },
+              {
+                "time": 0.4,
+                "name": "Layer 26"
+              },
+              {
+                "time": 0.4333,
+                "name": "Layer 27"
+              },
+              {
+                "time": 0.4667,
+                "name": "Layer 29"
+              },
+              {
+                "time": 0.5,
+                "name": null
+              }
+            ]
+          }
+        },
+        "bones": {
+          "Layer 5": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 0.7,
+                "y": 0.7
+              }
+            ]
+          },
+          "Layer 3": {
+            "scale": [
+              {
+                "time": 1.3333,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1.5,
+                "x": 1.1,
+                "y": 1.1
+              },
+              {
+                "time": 1.6667,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1.8333,
+                "x": 1.1,
+                "y": 1.1
+              },
+              {
+                "time": 2,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nbonus.png\nsize: 2048,1024\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nLayer 1\n  rotate: true\n  xy: 2, 2\n  size: 154, 176\n  orig: 154, 176\n  offset: 0, 0\n  index: -1\nLayer 10\n  rotate: false\n  xy: 308, 799\n  size: 301, 223\n  orig: 301, 223\n  offset: 0, 0\n  index: -1\nLayer 11\n  rotate: false\n  xy: 212, 527\n  size: 196, 253\n  orig: 196, 253\n  offset: 0, 0\n  index: -1\nLayer 12\n  rotate: false\n  xy: 410, 579\n  size: 195, 218\n  orig: 195, 218\n  offset: 0, 0\n  index: -1\nLayer 13\n  rotate: true\n  xy: 2, 449\n  size: 331, 208\n  orig: 331, 208\n  offset: 0, 0\n  index: -1\nLayer 14\n  rotate: true\n  xy: 1096, 117\n  size: 221, 187\n  orig: 221, 187\n  offset: 0, 0\n  index: -1\nLayer 15\n  rotate: false\n  xy: 800, 340\n  size: 233, 228\n  orig: 233, 228\n  offset: 0, 0\n  index: -1\nLayer 16\n  rotate: true\n  xy: 1441, 788\n  size: 234, 254\n  orig: 234, 254\n  offset: 0, 0\n  index: -1\nLayer 17\n  rotate: true\n  xy: 860, 570\n  size: 222, 219\n  orig: 222, 219\n  offset: 0, 0\n  index: -1\nLayer 18\n  rotate: false\n  xy: 1316, 571\n  size: 213, 215\n  orig: 213, 215\n  offset: 0, 0\n  index: -1\nLayer 19\n  rotate: true\n  xy: 2, 158\n  size: 289, 203\n  orig: 289, 203\n  offset: 0, 0\n  index: -1\nLayer 2\n  rotate: false\n  xy: 1694, 634\n  size: 164, 151\n  orig: 164, 151\n  offset: 0, 0\n  index: -1\nLayer 20\n  rotate: false\n  xy: 1175, 796\n  size: 264, 226\n  orig: 264, 226\n  offset: 0, 0\n  index: -1\nLayer 21\n  rotate: false\n  xy: 893, 804\n  size: 280, 218\n  orig: 280, 218\n  offset: 0, 0\n  index: -1\nLayer 22\n  rotate: true\n  xy: 428, 330\n  size: 247, 128\n  orig: 247, 128\n  offset: 0, 0\n  index: -1\nLayer 23\n  rotate: false\n  xy: 607, 570\n  size: 251, 222\n  orig: 251, 222\n  offset: 0, 0\n  index: -1\nLayer 24\n  rotate: false\n  xy: 558, 338\n  size: 240, 230\n  orig: 240, 230\n  offset: 0, 0\n  index: -1\nLayer 25\n  rotate: false\n  xy: 2, 782\n  size: 304, 240\n  orig: 304, 240\n  offset: 0, 0\n  index: -1\nLayer 26\n  rotate: false\n  xy: 611, 794\n  size: 280, 228\n  orig: 280, 228\n  offset: 0, 0\n  index: -1\nLayer 27\n  rotate: false\n  xy: 1081, 561\n  size: 233, 233\n  orig: 233, 233\n  offset: 0, 0\n  index: -1\nLayer 28\n  rotate: true\n  xy: 446, 85\n  size: 243, 217\n  orig: 243, 217\n  offset: 0, 0\n  index: -1\nLayer 29\n  rotate: false\n  xy: 1035, 340\n  size: 226, 219\n  orig: 226, 219\n  offset: 0, 0\n  index: -1\nLayer 3\n  rotate: true\n  xy: 1942, 843\n  size: 179, 74\n  orig: 179, 74\n  offset: 0, 0\n  index: -1\nLayer 4\n  rotate: true\n  xy: 1531, 592\n  size: 194, 161\n  orig: 194, 161\n  offset: 0, 0\n  index: -1\nLayer 5\n  rotate: false\n  xy: 212, 281\n  size: 214, 244\n  orig: 214, 244\n  offset: 0, 0\n  index: -1\nLayer 6\n  rotate: false\n  xy: 207, 57\n  size: 237, 222\n  orig: 237, 222\n  offset: 0, 0\n  index: -1\nLayer 7\n  rotate: false\n  xy: 665, 95\n  size: 217, 241\n  orig: 217, 241\n  offset: 0, 0\n  index: -1\nLayer 8\n  rotate: true\n  xy: 1697, 787\n  size: 235, 243\n  orig: 235, 243\n  offset: 0, 0\n  index: -1\nLayer 9\n  rotate: false\n  xy: 884, 97\n  size: 210, 241\n  orig: 210, 241\n  offset: 0, 0\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "5c4bcf7e-cc73-429a-b6b6-e85364b78b02"
+    }
+  ],
+  "textureNames": [
+    "bonus.png"
+  ],
+  "scale": 1
+}

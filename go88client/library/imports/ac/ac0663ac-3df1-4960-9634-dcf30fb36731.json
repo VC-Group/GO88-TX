@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "HUBonus1",
+    "texture": "fb01080b-161c-4ccb-b555-1616c7e19997",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      883,
+      697
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      883,
+      697
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

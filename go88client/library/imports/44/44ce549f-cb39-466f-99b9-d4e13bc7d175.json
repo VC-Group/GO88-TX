@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "kyby_sz_progress_bg",
+    "texture": "df6e50ac-6daa-42f5-8478-6655a451fe25",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      296,
+      26
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      296,
+      26
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

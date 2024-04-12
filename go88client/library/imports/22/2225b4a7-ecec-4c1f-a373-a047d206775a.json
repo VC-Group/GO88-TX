@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "button.gitcode",
+    "texture": "b6634f1e-f262-450e-ad8d-a6589a000bd8",
+    "atlas": "7d6e41db-3760-453c-b4db-c77b9f1d0238",
+    "rect": [
+      56,
+      587,
+      104,
+      102
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      104,
+      102
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

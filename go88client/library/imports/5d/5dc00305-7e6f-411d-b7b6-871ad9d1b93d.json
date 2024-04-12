@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "topMore_kuc",
+    "texture": "26a06a2f-18c4-496b-836d-490dfed54025",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      14,
+      67
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      16,
+      69
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

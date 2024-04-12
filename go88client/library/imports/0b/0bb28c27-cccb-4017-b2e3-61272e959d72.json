@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pirate-item-3",
+    "texture": "b7698abe-1ee8-403a-b947-13592ec8d7ca",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      63,
+      58
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      63,
+      58
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

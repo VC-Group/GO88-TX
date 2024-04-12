@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Dealer",
+    "texture": "a037720e-b31d-4dc2-a3d4-7142d5b4f1f6",
+    "atlas": "",
+    "rect": [
+      2,
+      7,
+      347,
+      340
+    ],
+    "offset": [
+      0,
+      -2.5
+    ],
+    "originalSize": [
+      351,
+      349
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

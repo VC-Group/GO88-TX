@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "avenger_symbol_1_3",
+    "texture": "e1d90ff8-1c12-43a3-b50d-3f8f15ffd14d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      512,
+      256
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      512,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

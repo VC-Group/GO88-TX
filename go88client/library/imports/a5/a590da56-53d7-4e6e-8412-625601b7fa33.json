@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "333ketsat",
+    "texture": "3a6b2f81-a7c7-4eb2-8649-d55179603d00",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      83,
+      83
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      83,
+      83
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

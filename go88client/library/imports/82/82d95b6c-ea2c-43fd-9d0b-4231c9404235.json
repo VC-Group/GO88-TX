@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "AntiqueOlive-gold-BMfont-export",
+    "texture": "4d04df7b-b251-47ff-ab90-7141832da29c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      385,
+      254
+    ],
+    "offset": [
+      -63.5,
+      1
+    ],
+    "originalSize": [
+      512,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mbg_in_dialog",
+    "texture": "3044a2d5-0e48-4a2f-aa40-276c3c73d8ef",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      995,
+      517
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      997,
+      519
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sodu-portal-bg",
+    "texture": "cd6c62ec-19d4-410e-aeaa-f10c40928d3b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      339,
+      41
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      339,
+      41
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

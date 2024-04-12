@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "day-thang",
+    "texture": "e8d5ec4b-a94c-44b9-9d53-20b994fc1d53",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      152,
+      49
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      152,
+      49
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

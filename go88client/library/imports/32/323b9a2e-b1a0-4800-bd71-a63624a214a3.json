@@ -1,0 +1,14 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "candy_icon.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "candy_bg": {
+      "__uuid__": "f1e7cb3a-6d5b-4566-876e-2e251de63468"
+    },
+    "candy_title": {
+      "__uuid__": "670fac9a-8956-4864-b9ad-0602aab998a3"
+    }
+  }
+}

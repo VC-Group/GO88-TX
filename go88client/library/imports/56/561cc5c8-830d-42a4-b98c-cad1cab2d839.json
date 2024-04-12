@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Btn_ClosePanel_L",
+    "texture": "fc66ea7d-1eea-4b65-be2b-44504bc0c68e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      85,
+      44
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      85,
+      44
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

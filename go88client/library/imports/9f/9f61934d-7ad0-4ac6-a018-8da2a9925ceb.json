@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "haitun_shadow_tex",
+    "texture": "c87dbcae-6c83-4d0f-b59b-b8ab0dc55fc4",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      505,
+      973
+    ],
+    "offset": [
+      -2.5,
+      24.5
+    ],
+    "originalSize": [
+      512,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

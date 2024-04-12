@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "MyriadB_RNG_Gold-export",
+    "texture": "27c3f672-347a-46d3-93b0-b750126176e7",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      979,
+      1008
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      983,
+      1012
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

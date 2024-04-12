@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bt_NhapSoTien",
+    "texture": "2832a10c-dc1c-4103-84e5-3dfc5bb26821",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      142,
+      57
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      142,
+      57
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

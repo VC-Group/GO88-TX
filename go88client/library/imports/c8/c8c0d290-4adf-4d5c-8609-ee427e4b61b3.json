@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bo_chon",
+    "texture": "be185e77-c6b6-4ffa-9b75-ef0330d2ed09",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      204,
+      74
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      204,
+      74
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

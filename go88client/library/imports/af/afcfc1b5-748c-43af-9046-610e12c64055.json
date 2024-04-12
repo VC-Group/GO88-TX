@@ -1,0 +1,83 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "line_select.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "line01": {
+      "__uuid__": "b4aeee2f-6123-447c-93fe-25990074f4eb"
+    },
+    "line02": {
+      "__uuid__": "29a2e257-be56-4581-bc9a-c6ae5d4399a1"
+    },
+    "line03": {
+      "__uuid__": "3c099b03-f315-44ea-a669-74815fc69ad1"
+    },
+    "line04": {
+      "__uuid__": "54ca6a6b-b174-4d24-9c04-084597609276"
+    },
+    "line05": {
+      "__uuid__": "c59722e6-879f-4ed3-aa94-35b00faf9ca6"
+    },
+    "line06": {
+      "__uuid__": "5f590643-6002-40e6-b246-79c800523045"
+    },
+    "line07": {
+      "__uuid__": "652ffcc8-8ba8-4bca-9df4-2071d0d474fa"
+    },
+    "line08": {
+      "__uuid__": "db57a7cb-a074-4c7a-85c8-4595247afd5a"
+    },
+    "line09": {
+      "__uuid__": "aeb56f0b-a19f-4392-b2b0-15eba00c24a7"
+    },
+    "line10": {
+      "__uuid__": "cf03cb66-70d6-4860-8529-d01eb358845f"
+    },
+    "line11": {
+      "__uuid__": "c93d0136-f912-420a-9909-c8142221c530"
+    },
+    "line12": {
+      "__uuid__": "ef6bd3c1-efc4-4522-89dd-37b414c3124d"
+    },
+    "line13": {
+      "__uuid__": "244cc3d9-8326-4ed4-9fa3-73bd02141f43"
+    },
+    "line14": {
+      "__uuid__": "fbcdc476-5eff-4e51-8f8c-cb67b027ab73"
+    },
+    "line15": {
+      "__uuid__": "97936285-19e7-4222-b679-cba06383f465"
+    },
+    "line16": {
+      "__uuid__": "d9263981-145b-4c04-ba56-bbe01a09cad3"
+    },
+    "line17": {
+      "__uuid__": "aef1b37b-f8dc-41df-a762-8b7b2069c4d2"
+    },
+    "line18": {
+      "__uuid__": "ff7a1edb-01cd-418f-94d1-180cc04baf64"
+    },
+    "line19": {
+      "__uuid__": "3b20526f-26fd-4dd2-9df8-d402cc6aa79d"
+    },
+    "line20": {
+      "__uuid__": "dfdd91ab-37dd-4bec-8fc4-77a19848f9ba"
+    },
+    "line21": {
+      "__uuid__": "50f1440c-67b6-442b-8fef-c4c4a493d01d"
+    },
+    "line22": {
+      "__uuid__": "5ff6d02f-b687-4f60-ac11-fb24b8fe1168"
+    },
+    "line23": {
+      "__uuid__": "93e49530-f8b9-4ac3-9b1d-81ddddc5f468"
+    },
+    "line24": {
+      "__uuid__": "c0e402da-24b8-480c-a1e6-067256c2530a"
+    },
+    "line25": {
+      "__uuid__": "e5553bb7-6529-41fb-95cd-891f81638f4f"
+    }
+  }
+}

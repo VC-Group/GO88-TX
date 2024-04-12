@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Nen-Tien",
+    "texture": "596bacc0-55b2-4f8c-a180-72aaa146cffa",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      605,
+      74
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      605,
+      74
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "kyby_zidan6-hit_tex",
+    "texture": "bfcae40b-ee83-4e65-a507-806b45b23c5f",
+    "atlas": "",
+    "rect": [
+      2,
+      7,
+      1091,
+      979
+    ],
+    "offset": [
+      -476.5,
+      15.5
+    ],
+    "originalSize": [
+      2048,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

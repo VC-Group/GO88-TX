@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "notice-bg",
+    "texture": "10737eed-e4ce-4412-b562-3155da856cff",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      933,
+      104
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      933,
+      104
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

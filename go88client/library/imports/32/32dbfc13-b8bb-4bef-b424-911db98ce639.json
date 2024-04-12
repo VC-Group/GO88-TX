@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "kyby_eff_sw_dg_tex",
+    "texture": "289361b9-ac8b-4f7f-950a-3e6dcdaf594a",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      1607,
+      2242
+    ],
+    "offset": [
+      -218.5,
+      925
+    ],
+    "originalSize": [
+      2048,
+      4096
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

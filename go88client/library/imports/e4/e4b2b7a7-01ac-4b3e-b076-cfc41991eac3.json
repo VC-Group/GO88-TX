@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jinlongwang_shadow_tex",
+    "texture": "0ceb4754-0eab-45d2-845b-8fa46d626904",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      1736,
+      2033
+    ],
+    "offset": [
+      -155,
+      6.5
+    ],
+    "originalSize": [
+      2048,
+      2048
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

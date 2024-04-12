@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fish_icon_haigui",
+    "texture": "b54443cf-0956-4341-b0ad-65e32c5d783b",
+    "atlas": "",
+    "rect": [
+      5,
+      5,
+      74,
+      65
+    ],
+    "offset": [
+      -2,
+      -2.5
+    ],
+    "originalSize": [
+      88,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

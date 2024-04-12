@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "avenger_quay_btn",
+    "texture": "e5acd3eb-dfab-4f95-bc78-0663db818c5f",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      833,
+      464
+    ],
+    "offset": [
+      -92.5,
+      21
+    ],
+    "originalSize": [
+      1024,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

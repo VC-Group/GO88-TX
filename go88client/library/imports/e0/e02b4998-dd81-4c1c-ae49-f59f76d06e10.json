@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "avenger_font_line",
+    "texture": "a411715b-e359-40b3-9c92-cba0a584aef9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      95,
+      110
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      96,
+      111
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

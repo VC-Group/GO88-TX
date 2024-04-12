@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "kyby_eff_lightning_tex",
+    "texture": "b298b030-b6f7-4f9c-85a2-3cd08fbd6aa8",
+    "atlas": "",
+    "rect": [
+      1,
+      2,
+      1909,
+      976
+    ],
+    "offset": [
+      -68.5,
+      534
+    ],
+    "originalSize": [
+      2048,
+      2048
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

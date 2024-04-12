@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "GangOfThree_Y-export",
+    "texture": "091fa97e-0f7e-4d59-b6e6-87bb5af4c6e7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      155,
+      157
+    ],
+    "offset": [
+      -1.5,
+      1.5
+    ],
+    "originalSize": [
+      158,
+      160
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

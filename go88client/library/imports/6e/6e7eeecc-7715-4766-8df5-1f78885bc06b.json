@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bt_ThuNho",
+    "texture": "3451ce53-1680-4f5f-aed2-0710d4b4df54",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      64,
+      65
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      64,
+      65
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

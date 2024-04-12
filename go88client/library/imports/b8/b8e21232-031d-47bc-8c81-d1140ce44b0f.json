@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pirate-form-bg",
+    "texture": "8aafd118-c50e-4ad1-8602-ca92af59238e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      388,
+      352
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      388,
+      352
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

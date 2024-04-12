@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tx_chitietphien_xx5",
+    "texture": "6f34d92c-1cb8-44f8-ac22-4d287f96f8fa",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      39,
+      40
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      39,
+      40
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

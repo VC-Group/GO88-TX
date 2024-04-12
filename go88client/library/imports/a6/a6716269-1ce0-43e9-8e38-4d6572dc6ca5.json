@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "khung_muccuoc_chon",
+    "texture": "0d402a24-a7bb-4a4a-8c4d-8e82d8f172b5",
+    "atlas": "0185455b-3622-4ce4-ad4d-c0dbb498ae05",
+    "rect": [
+      674,
+      1280,
+      244,
+      54
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      244,
+      54
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

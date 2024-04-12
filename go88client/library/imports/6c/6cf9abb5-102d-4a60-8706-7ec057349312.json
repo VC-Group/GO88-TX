@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dailyy",
+    "texture": "6324e408-e90b-4ae1-94eb-3d881ac7ae07",
+    "atlas": "",
+    "rect": [
+      46,
+      4,
+      306,
+      109
+    ],
+    "offset": [
+      -3,
+      -2
+    ],
+    "originalSize": [
+      404,
+      113
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

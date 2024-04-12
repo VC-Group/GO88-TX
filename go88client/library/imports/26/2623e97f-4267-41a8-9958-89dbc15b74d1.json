@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shadowChim",
+    "texture": "1c01bd1f-30b0-4af4-8d41-e81b461bfb58",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      145,
+      83
+    ],
+    "offset": [
+      -0.5,
+      1
+    ],
+    "originalSize": [
+      152,
+      91
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

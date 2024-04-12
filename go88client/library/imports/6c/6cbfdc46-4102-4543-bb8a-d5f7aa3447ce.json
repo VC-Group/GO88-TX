@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "boderDay",
+    "texture": "ca092719-ccfe-4380-a429-08fc7c3b8622",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      230,
+      38
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      230,
+      38
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

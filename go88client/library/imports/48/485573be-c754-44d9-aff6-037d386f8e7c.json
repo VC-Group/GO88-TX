@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "thung",
+    "texture": "a959122e-8285-4f29-bba7-4bab231d4324",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      157,
+      63
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      157,
+      63
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

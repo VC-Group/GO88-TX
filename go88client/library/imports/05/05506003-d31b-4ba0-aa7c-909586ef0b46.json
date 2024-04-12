@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "font_time_tai-xiu",
+    "texture": "4c9b8b25-ec74-409f-bbc7-ef488f46a611",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      65,
+      273
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      69,
+      277
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

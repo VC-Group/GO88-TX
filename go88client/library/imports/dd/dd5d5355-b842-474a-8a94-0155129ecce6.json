@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sanbai",
+    "texture": "59eedcce-0b7f-492c-8054-9295154b6108",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      294,
+      114
+    ],
+    "offset": [
+      -106,
+      4
+    ],
+    "originalSize": [
+      512,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

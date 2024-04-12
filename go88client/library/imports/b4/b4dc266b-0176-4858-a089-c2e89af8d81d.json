@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Seagull_WB-export",
+    "texture": "804aeddd-000f-4f7a-a38d-3368f7114343",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      158,
+      164
+    ],
+    "offset": [
+      -1,
+      0.5
+    ],
+    "originalSize": [
+      160,
+      165
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

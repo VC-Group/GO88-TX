@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shenhaifufengwang_tex",
+    "texture": "9401763d-cba2-47d9-9794-91b63f22d01f",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      906,
+      887
+    ],
+    "offset": [
+      -58,
+      67.5
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

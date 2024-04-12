@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "huoangdan2",
+    "texture": "34d2230d-616a-4ae5-902b-449571b97f6f",
+    "atlas": "77f9c8e7-0042-40be-a7a1-b4e828ca8f45",
+    "rect": [
+      1,
+      381,
+      54,
+      59
+    ],
+    "offset": [
+      1,
+      1
+    ],
+    "originalSize": [
+      64,
+      65
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

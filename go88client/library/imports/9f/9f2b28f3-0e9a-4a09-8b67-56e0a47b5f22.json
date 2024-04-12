@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "GangOf3_L-export",
+    "texture": "6c620c17-017f-4fea-8467-b32d7b2dbc80",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      169,
+      165
+    ],
+    "offset": [
+      -1.5,
+      1.5
+    ],
+    "originalSize": [
+      172,
+      168
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

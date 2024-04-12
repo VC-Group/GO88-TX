@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "rut-het",
+    "texture": "890cd2ca-5c6b-47bb-9918-b94f22b8cbd1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      206,
+      74
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      206,
+      76
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

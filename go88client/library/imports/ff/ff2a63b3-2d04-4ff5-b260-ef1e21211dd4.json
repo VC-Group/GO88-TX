@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zhangyuwang_shadow_tex",
+    "texture": "97a1ccd3-27b1-446e-bae6-20fb8472f450",
+    "atlas": "",
+    "rect": [
+      2,
+      1,
+      968,
+      768
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      973,
+      771
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

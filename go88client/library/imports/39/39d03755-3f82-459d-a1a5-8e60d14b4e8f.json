@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fish_hall_pic_xinxidi",
+    "texture": "2dcc6e7a-ce65-434c-875b-4cf3d7ff739b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      137,
+      23
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      137,
+      23
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

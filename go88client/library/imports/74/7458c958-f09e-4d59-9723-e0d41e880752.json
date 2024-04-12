@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "icon_bigbabol.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "bigbabol1": {
+      "__uuid__": "c5f0044c-340a-483a-b068-55255e8c3573"
+    },
+    "bigbabol2": {
+      "__uuid__": "68df1b72-e52e-42f4-8f41-581d2c9f4d4e"
+    },
+    "bigbabol3": {
+      "__uuid__": "ced98bed-1015-44bb-a47f-2de99f5dbb43"
+    },
+    "bigbabol4": {
+      "__uuid__": "0faf10ea-b1aa-4d98-a28d-32e07a26a897"
+    },
+    "bigbabol5": {
+      "__uuid__": "35c1c5a4-d6d5-4e30-ad8c-a664fe4a81c4"
+    },
+    "bigbabol6": {
+      "__uuid__": "d0efe300-a9c0-4f30-8404-742ba2341467"
+    },
+    "icon_overlay": {
+      "__uuid__": "c852410a-e027-472b-a918-56e27375fa4b"
+    }
+  }
+}

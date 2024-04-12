@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fri_qurata_green-export",
+    "texture": "ffe91994-c675-492b-ae43-c7ab7ab9f4bb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      359,
+      358
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      360,
+      359
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

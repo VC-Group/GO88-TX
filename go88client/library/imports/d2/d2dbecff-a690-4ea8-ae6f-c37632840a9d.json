@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "DiemThuong",
+    "texture": "603e5637-7e97-4124-b967-79265e00ea26",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      75,
+      122
+    ],
+    "offset": [
+      -26.5,
+      3
+    ],
+    "originalSize": [
+      128,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

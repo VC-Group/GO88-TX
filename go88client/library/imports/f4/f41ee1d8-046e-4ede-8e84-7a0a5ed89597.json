@@ -1,0 +1,71 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "button_v2.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "button-": {
+      "__uuid__": "fdf8e49c-b703-4236-b161-8fd01774cec0"
+    },
+    "button-Award": {
+      "__uuid__": "7a25992c-8268-4bcf-bab3-60cecc21b351"
+    },
+    "button-arrow": {
+      "__uuid__": "4f3bfbf3-9e3d-4f71-a8ee-34f24e61a940"
+    },
+    "button-change": {
+      "__uuid__": "eeab2fd2-1b15-436b-988f-5529b6f07118"
+    },
+    "button-chat": {
+      "__uuid__": "9730cbbb-8539-42cb-85af-5b0e2b4fffe0"
+    },
+    "button-choithu-press": {
+      "__uuid__": "e7ce4a47-1672-4c23-a654-4be6093345a7"
+    },
+    "button-do-nho": {
+      "__uuid__": "d019ee55-1617-45aa-88ec-f0c52bb0d7d4"
+    },
+    "button-guide-2": {
+      "__uuid__": "65553510-50d7-420d-9726-06451c6572f9"
+    },
+    "button-guide": {
+      "__uuid__": "2dd03c9e-00b9-4529-a47d-5fac86acf4bc"
+    },
+    "button-history-2": {
+      "__uuid__": "de7654fb-9ae0-406b-9df1-409e21b058e3"
+    },
+    "button-history": {
+      "__uuid__": "6a4b54c7-9f53-46e8-be62-66475f7e0369"
+    },
+    "button-loc": {
+      "__uuid__": "54f30d9e-1d64-4c0f-a562-99a842264b4f"
+    },
+    "button-money-press": {
+      "__uuid__": "75387cf9-f939-4e00-9406-43c96e72d39e"
+    },
+    "button-money": {
+      "__uuid__": "7ddcc119-9afd-4095-bc6d-68a0ebb8d19a"
+    },
+    "button-rutloc": {
+      "__uuid__": "8e0fe409-bbed-4f18-853f-f5efd9e6fe39"
+    },
+    "button-vang-nho": {
+      "__uuid__": "2fe43eba-d2e3-4fd1-b253-ee2d94301884"
+    },
+    "button-x": {
+      "__uuid__": "85db1033-eee7-40be-9f1a-eb1050b2a765"
+    },
+    "button-yellow-small": {
+      "__uuid__": "aa8d85bf-6298-474f-b4bc-d4b51e130538"
+    },
+    "button_cong": {
+      "__uuid__": "5f6882a6-de02-44b5-8d16-ffc6cf506afd"
+    },
+    "buttons": {
+      "__uuid__": "c24b3bd2-b3dc-40ca-918a-bf93f652bdec"
+    },
+    "coming-soon": {
+      "__uuid__": "26b00a58-8082-4eb6-bb20-49ef59769efe"
+    }
+  }
+}

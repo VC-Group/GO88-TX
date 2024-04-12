@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "logovinh",
+    "texture": "6c7b6c56-7008-4afd-8b3c-436fafb4e34a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      437,
+      194
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      437,
+      194
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

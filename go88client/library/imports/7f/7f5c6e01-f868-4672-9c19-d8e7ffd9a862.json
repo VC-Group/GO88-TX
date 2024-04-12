@@ -1,0 +1,17 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "bg_dialog.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "bg-c": {
+      "__uuid__": "e816f370-c059-471c-a6fa-9c262651a48e"
+    },
+    "big-l": {
+      "__uuid__": "d019ce97-82ef-4dcb-b00d-50657f960933"
+    },
+    "big-r": {
+      "__uuid__": "0706add3-9d7b-41d5-9ed0-1c1b9a4369f7"
+    }
+  }
+}

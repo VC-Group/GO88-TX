@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tabLight",
+    "texture": "3a5789f7-e15a-45b6-a07e-16a8f81af623",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1041,
+      49
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1041,
+      49
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

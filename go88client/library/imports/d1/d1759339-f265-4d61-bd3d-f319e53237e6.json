@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icoHoTro",
+    "texture": "381a786f-bb30-4885-9a17-b663da9c888d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      78,
+      66
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      78,
+      67
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

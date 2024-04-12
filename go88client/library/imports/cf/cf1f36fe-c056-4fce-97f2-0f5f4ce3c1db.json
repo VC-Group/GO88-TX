@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "vong_quay",
+    "texture": "676a83c5-4483-4bf5-9fe6-f67f205b4672",
+    "atlas": "",
+    "rect": [
+      2,
+      0,
+      210,
+      212
+    ],
+    "offset": [
+      1,
+      0
+    ],
+    "originalSize": [
+      212,
+      212
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

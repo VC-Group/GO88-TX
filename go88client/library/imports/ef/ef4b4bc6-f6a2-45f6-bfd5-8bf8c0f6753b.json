@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "cowboy",
+    "texture": "2f4635d2-2c7d-4342-a3fe-012579ad6922",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      263,
+      400
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      263,
+      400
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

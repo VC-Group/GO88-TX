@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fish_rewardOther",
+    "texture": "84ce8dd3-bdb0-4047-a8cd-dcf9cea4b462",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      121,
+      180
+    ],
+    "offset": [
+      -1,
+      1
+    ],
+    "originalSize": [
+      123,
+      182
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dcpk_room_item_bg3",
+    "texture": "647d71d8-cb1d-4afa-8347-7ee66a752761",
+    "atlas": "",
+    "rect": [
+      2,
+      0,
+      409,
+      210
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      413,
+      210
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

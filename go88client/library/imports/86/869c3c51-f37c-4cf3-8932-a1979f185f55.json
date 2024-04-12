@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "textbox-small",
+    "texture": "6a587262-a579-4002-9aa6-6387c57e2d74",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      256,
+      63
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      256,
+      63
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

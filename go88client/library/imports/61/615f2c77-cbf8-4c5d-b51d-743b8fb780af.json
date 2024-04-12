@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "AntiqueOlive_WB-export",
+    "texture": "59b03b56-cead-49e5-93bc-ee6eb7edf016",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      204,
+      252
+    ],
+    "offset": [
+      -26,
+      2
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

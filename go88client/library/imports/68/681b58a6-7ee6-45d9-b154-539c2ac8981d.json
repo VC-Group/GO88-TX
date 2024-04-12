@@ -1,0 +1,35 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "btn_Long.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "bgForMiniGame": {
+      "__uuid__": "0805d208-c7c7-499d-a50d-586507792099"
+    },
+    "bt_Long": {
+      "__uuid__": "0ad2d0b8-8659-4e7d-a36e-9496e50ad5fb"
+    },
+    "btn_bet_off": {
+      "__uuid__": "3a96c926-6949-4cb7-b775-e862717726be"
+    },
+    "btn_bet_on": {
+      "__uuid__": "a70661c6-153c-45c2-a9f6-07004076c65e"
+    },
+    "btn_close": {
+      "__uuid__": "b88de373-1a15-45ae-85ad-61c5aeb104ff"
+    },
+    "btn_giaithuong": {
+      "__uuid__": "c395607f-ece9-4a85-a8e3-ab5a35c61877"
+    },
+    "btn_help": {
+      "__uuid__": "58741b7f-28be-46e7-aeaf-e9ca2f366973"
+    },
+    "btn_history": {
+      "__uuid__": "9dcb7ff6-c5c0-41c0-8c23-c3302cd19f43"
+    },
+    "btn_top": {
+      "__uuid__": "73e77c9e-c776-48a3-8dc6-49d8a5f75bbb"
+    }
+  }
+}

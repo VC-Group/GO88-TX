@@ -1,0 +1,26 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "header_login.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "background_header_1": {
+      "__uuid__": "114491d4-06f1-4497-9182-4dcb36cdde8a"
+    },
+    "background_header_2": {
+      "__uuid__": "a4da6538-531d-4a2a-8d31-8858515521f0"
+    },
+    "btn_facebook_header": {
+      "__uuid__": "f9e7389c-b6b7-49fb-9a90-16b5ebfd1bc5"
+    },
+    "btn_forgot_password_header": {
+      "__uuid__": "0fcb932e-ff03-4ec3-b4de-e7925e7e2929"
+    },
+    "btn_login_header": {
+      "__uuid__": "2dcee538-7b45-4536-815a-b33911b0d546"
+    },
+    "btn_register_header": {
+      "__uuid__": "6875c73a-aa91-4f5a-94f4-812fd5d69563"
+    }
+  }
+}

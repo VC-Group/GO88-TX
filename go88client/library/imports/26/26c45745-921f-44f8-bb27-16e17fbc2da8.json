@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ankangyu_tex",
+    "texture": "8f6a3aa1-9af5-4a27-9e26-453506df45eb",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      355,
+      749
+    ],
+    "offset": [
+      -77.5,
+      136.5
+    ],
+    "originalSize": [
+      512,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

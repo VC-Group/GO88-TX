@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon-tienlen",
+    "texture": "694e5e0e-4b45-4cd4-81d6-fa80d683f40d",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      226,
+      210
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      228,
+      210
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

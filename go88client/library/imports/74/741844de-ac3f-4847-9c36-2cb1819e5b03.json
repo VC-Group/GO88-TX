@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "PhunLua_020",
+    "texture": "a6bef5d9-5ae3-4f97-bdcb-75e4363ac1e6",
+    "atlas": "3c513206-5a77-4816-aff6-cdd24564c044",
+    "rect": [
+      2949,
+      1159,
+      389,
+      383
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      430,
+      400
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

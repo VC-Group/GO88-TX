@@ -1,0 +1,26 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "CanGatAnimation.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "res-Minigame-ResMiniPoker-CanGat-cangat0": {
+      "__uuid__": "9e9a7a13-a108-474c-b160-f50ce7b02a41"
+    },
+    "res-Minigame-ResMiniPoker-CanGat-cangat1": {
+      "__uuid__": "8532ab7c-3a9f-497a-8ad8-117196276e9c"
+    },
+    "res-Minigame-ResMiniPoker-CanGat-cangat2": {
+      "__uuid__": "439e1853-111a-4c4f-845d-cd9cdcb31068"
+    },
+    "res-Minigame-ResMiniPoker-CanGat-cangat3": {
+      "__uuid__": "2b4bdb0d-96d7-4000-8749-b4d68d63a1c2"
+    },
+    "res-Minigame-ResMiniPoker-CanGat-cangat4": {
+      "__uuid__": "4507b678-cefc-4a28-a80b-7190969d49a2"
+    },
+    "res-Minigame-ResMiniPoker-CanGat-cangat5": {
+      "__uuid__": "f39f9d6e-8070-4331-aa85-384962f05245"
+    }
+  }
+}

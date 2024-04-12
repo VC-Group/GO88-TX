@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gaupanda",
+    "texture": "9b09ab8b-0ff5-4782-aeb7-23ad8bc51617",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      450,
+      280
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      454,
+      284
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

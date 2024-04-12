@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Font_phong_mucuoc",
+    "texture": "7dae7671-a5d9-4cb7-b4c3-0dbce9d60545",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      78,
+      64
+    ],
+    "offset": [
+      -25,
+      0
+    ],
+    "originalSize": [
+      128,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

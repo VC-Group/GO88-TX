@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mgjp_nohu_font",
+    "texture": "c2f840d9-e552-4f54-a10d-977ec12a0d27",
+    "atlas": "",
+    "rect": [
+      20,
+      20,
+      213,
+      166
+    ],
+    "offset": [
+      -1.5,
+      0.5
+    ],
+    "originalSize": [
+      256,
+      207
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

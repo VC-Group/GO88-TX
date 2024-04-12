@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "diatx",
+    "texture": "bfd7efb3-6cdd-480b-b42a-3f9ea2cd8d3d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      220,
+      220
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      220,
+      220
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

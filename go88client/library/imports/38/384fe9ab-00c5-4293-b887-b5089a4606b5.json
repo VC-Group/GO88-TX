@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fish_icon_longliyu",
+    "texture": "b5b5ecbc-00a3-417f-bbf0-f430e457a72d",
+    "atlas": "",
+    "rect": [
+      3,
+      17,
+      85,
+      43
+    ],
+    "offset": [
+      1.5,
+      -3.5
+    ],
+    "originalSize": [
+      88,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

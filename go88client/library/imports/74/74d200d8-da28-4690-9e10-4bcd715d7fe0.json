@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bgslot",
+    "texture": "6bf4e46f-0731-465a-af4b-50efa382869d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1114,
+      737
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1114,
+      737
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

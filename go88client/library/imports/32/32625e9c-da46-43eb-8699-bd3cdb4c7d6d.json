@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fri_qurata_gold-export",
+    "texture": "21162ea9-00c0-47d6-bd4b-25e9e748d0f3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      359,
+      358
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      360,
+      359
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

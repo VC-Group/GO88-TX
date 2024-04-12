@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "round_top_hu",
+    "texture": "47100579-65e9-4a63-a4c3-19babe8c7108",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      293,
+      77
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      293,
+      77
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

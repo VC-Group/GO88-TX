@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "douxia_tex",
+    "texture": "db125fd5-7b46-41a9-bc31-64c5940a8842",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      207,
+      492
+    ],
+    "offset": [
+      -23.5,
+      9
+    ],
+    "originalSize": [
+      256,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

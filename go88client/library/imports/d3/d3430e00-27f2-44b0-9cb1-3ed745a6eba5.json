@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "muiten",
+    "texture": "feb991f6-ba1d-4437-bd58-83be275c201b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      47,
+      140
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      47,
+      140
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dapHu",
+    "texture": "3242d1ee-a482-4b38-a93d-f483bbc4f3d8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      527,
+      204
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      527,
+      204
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

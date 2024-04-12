@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "FrankoNumber_Gold-export",
+    "texture": "1b907307-9768-4bdc-80db-645e02fdfce3",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      979,
+      1008
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      983,
+      1012
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

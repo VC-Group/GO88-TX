@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bigbaboll",
+    "texture": "c707d23b-7899-478a-b7ff-949eca0ec578",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      141,
+      142
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      141,
+      142
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

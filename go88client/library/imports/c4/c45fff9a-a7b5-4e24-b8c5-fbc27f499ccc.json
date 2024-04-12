@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "longliyu_shadow_tex",
+    "texture": "c6728a0e-724e-49e5-a5fc-6b6e062fa80d",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      856,
+      1004
+    ],
+    "offset": [
+      -83,
+      9
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

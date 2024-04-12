@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_choiTiep",
+    "texture": "62a19bc7-15f5-4896-8fd0-7ad05ccdf63e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      200,
+      66
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      200,
+      66
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

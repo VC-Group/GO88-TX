@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xacnhan-btn",
+    "texture": "136b3609-9cba-4af7-805d-043c6080db8a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      203,
+      66
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      203,
+      66
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

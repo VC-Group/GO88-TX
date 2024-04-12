@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "loso-btn-chat",
+    "texture": "6a522043-990b-4c23-917e-dd1be68c9e09",
+    "atlas": "c08d52be-c699-4de4-9240-e127b4418e4a",
+    "rect": [
+      1727,
+      1501,
+      140,
+      64
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      140,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

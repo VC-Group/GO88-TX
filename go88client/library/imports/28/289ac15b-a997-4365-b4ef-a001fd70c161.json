@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "denglongyu_tex",
+    "texture": "148a264f-7750-4770-8063-da2e92b849a2",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      491,
+      396
+    ],
+    "offset": [
+      -9.5,
+      57
+    ],
+    "originalSize": [
+      512,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

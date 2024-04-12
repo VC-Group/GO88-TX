@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_chim_dien",
+    "texture": "1c56b58b-9cd0-44e5-bcd1-7e63462a7575",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      66,
+      66
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      66,
+      66
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

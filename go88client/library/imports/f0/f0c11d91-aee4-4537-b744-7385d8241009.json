@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "game88pro",
+    "texture": "245070f1-ce65-421a-aba6-da3482d41495",
+    "atlas": "",
+    "rect": [
+      121,
+      16,
+      1071,
+      634
+    ],
+    "offset": [
+      16.5,
+      27
+    ],
+    "originalSize": [
+      1280,
+      720
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

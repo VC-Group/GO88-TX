@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "taiden",
+    "texture": "a1ea670f-bd86-4a6c-a10b-03e900b1f046",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      21,
+      21
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      21,
+      21
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

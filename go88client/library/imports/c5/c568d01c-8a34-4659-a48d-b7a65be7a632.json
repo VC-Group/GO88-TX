@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "megajackpot_rank_bt",
+    "texture": "2a9d45ed-9967-4fc3-9507-03a51ff005ae",
+    "atlas": "34fcf837-0b7c-4967-abd4-d0e698e6e1b6",
+    "rect": [
+      316,
+      365,
+      86,
+      77
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      86,
+      77
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

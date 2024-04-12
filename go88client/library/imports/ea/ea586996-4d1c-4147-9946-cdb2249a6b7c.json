@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xoc dia",
+    "texture": "81db2020-442a-4fbc-a9d9-8428649150ad",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      1005,
+      506
+    ],
+    "offset": [
+      -6.5,
+      0
+    ],
+    "originalSize": [
+      1024,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

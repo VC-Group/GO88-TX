@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xiun",
+    "texture": "7e3658fb-7b5a-4207-8f32-1db62b09baa1",
+    "atlas": "",
+    "rect": [
+      17,
+      8,
+      81,
+      73
+    ],
+    "offset": [
+      -0.5,
+      -4
+    ],
+    "originalSize": [
+      116,
+      81
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

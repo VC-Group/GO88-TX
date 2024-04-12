@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xiutrang",
+    "texture": "bc56db58-a0bd-4f09-aa72-c67596bbd661",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      21,
+      21
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      21,
+      21
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "slots_avenger_loading.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "avenger_bg_loading": {
+      "__uuid__": "d0c31e8c-b313-466d-bb1e-237dd03b061c"
+    }
+  }
+}

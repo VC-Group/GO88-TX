@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "kyby_longgongbaoxiang_tex",
+    "texture": "5224e9a8-e59d-40d9-9302-92a36974af63",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      966,
+      897
+    ],
+    "offset": [
+      -29,
+      62.5
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

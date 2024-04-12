@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "khobaured",
+    "texture": "5a7d1458-59dd-42da-885a-b4c3b247eb18",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      263,
+      479
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      263,
+      479
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

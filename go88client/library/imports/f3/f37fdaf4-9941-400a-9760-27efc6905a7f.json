@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pirate-button-1",
+    "texture": "2742744b-784c-4d80-8389-ffa80f7904bb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      148,
+      59
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      148,
+      59
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

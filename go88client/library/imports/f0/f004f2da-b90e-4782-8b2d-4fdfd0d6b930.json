@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "light_top_hu_2",
+    "texture": "23de9a02-917e-4a77-a9ca-670d48e33ebf",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      287,
+      430
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      287,
+      430
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

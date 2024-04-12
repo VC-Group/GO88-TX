@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lvlongwang_shadow_tex",
+    "texture": "71949945-d4a5-4d7c-98e3-d9336c39d801",
+    "atlas": "",
+    "rect": [
+      2,
+      3,
+      1629,
+      2014
+    ],
+    "offset": [
+      -207.5,
+      14
+    ],
+    "originalSize": [
+      2048,
+      2048
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

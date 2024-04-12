@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "HUthanglon1",
+    "texture": "e1b20dad-10d3-4d73-8503-7840f1ce2f4a",
+    "atlas": "9b87ccef-095d-429f-9f5a-07744ded72d0",
+    "rect": [
+      346,
+      285,
+      311,
+      308
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      311,
+      308
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

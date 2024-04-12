@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "CAPTAIN MARVEL2",
+    "texture": "ab411ffd-3200-43e9-856b-431a44b96345",
+    "atlas": "",
+    "rect": [
+      1,
+      4,
+      457,
+      470
+    ],
+    "offset": [
+      -26.5,
+      17
+    ],
+    "originalSize": [
+      512,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

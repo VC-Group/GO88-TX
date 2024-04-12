@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "avenger_text_game",
+    "texture": "7d556132-2bba-43e0-b93e-07c323e24f57",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      553,
+      554
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      554,
+      555
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

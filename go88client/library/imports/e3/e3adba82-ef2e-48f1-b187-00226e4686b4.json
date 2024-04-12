@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mntx_font_phien_cau1",
+    "texture": "dd12c373-03d6-4719-a63f-5f3c7474de9c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      85,
+      63
+    ],
+    "offset": [
+      -21.5,
+      0.5
+    ],
+    "originalSize": [
+      128,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

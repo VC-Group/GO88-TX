@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg-gonzo",
+    "texture": "a8cc5719-a2e5-4bbc-8e1f-a1469dee4e1c",
+    "atlas": "",
+    "rect": [
+      9,
+      8,
+      223,
+      380
+    ],
+    "offset": [
+      4.5,
+      1
+    ],
+    "originalSize": [
+      232,
+      398
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

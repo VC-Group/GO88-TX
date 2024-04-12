@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "denglongyu_shadow_tex",
+    "texture": "7f1f5113-e593-450d-a974-414b974fe746",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      496,
+      496
+    ],
+    "offset": [
+      -7,
+      7
+    ],
+    "originalSize": [
+      512,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_event",
+    "texture": "9a5bbbb6-4806-4157-bb62-fd2528d1f996",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      79,
+      97
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      79,
+      97
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

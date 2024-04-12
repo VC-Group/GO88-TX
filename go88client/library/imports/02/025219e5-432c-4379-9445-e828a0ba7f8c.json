@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_off",
+    "texture": "26000ee5-5d6c-4353-a48a-ac7979e4c4e6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      90,
+      35
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      90,
+      35
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "footer_may",
+    "texture": "7adb220b-fd77-4081-911b-3da555240d9b",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      1333,
+      252
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      1333,
+      253
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sanh_thung",
+    "texture": "22301c53-1c3d-4c7f-b332-2c2aa62fb433",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      271,
+      61
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      271,
+      61
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

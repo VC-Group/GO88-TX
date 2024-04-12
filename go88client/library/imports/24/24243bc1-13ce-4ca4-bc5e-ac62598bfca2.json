@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "quadinh88",
+    "texture": "8b7ce983-53f2-4406-9e51-d5e273dc6ac8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      437,
+      194
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      437,
+      194
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

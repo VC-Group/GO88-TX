@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "leave_room",
+    "texture": "58bc1797-f4dd-4cce-97a1-eac03102c354",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      34,
+      33
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      34,
+      33
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

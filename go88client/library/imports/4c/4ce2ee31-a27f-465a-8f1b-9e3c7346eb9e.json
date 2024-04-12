@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "vippointBG",
+    "texture": "27400241-040a-4a1b-bf26-010bef0334fd",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1024,
+      674
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      1024,
+      676
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

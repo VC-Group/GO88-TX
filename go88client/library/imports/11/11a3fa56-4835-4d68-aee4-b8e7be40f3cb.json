@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "QuaCauThuyTinh",
+    "texture": "14605bdc-c184-41e1-8460-322cbee8b129",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      280,
+      271
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      280,
+      271
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

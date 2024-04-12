@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fish_hall_rygk",
+    "texture": "5e3bef3e-60fb-44ba-b3a6-e912d1af8fbd",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      76,
+      125
+    ],
+    "offset": [
+      -1,
+      1
+    ],
+    "originalSize": [
+      78,
+      127
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

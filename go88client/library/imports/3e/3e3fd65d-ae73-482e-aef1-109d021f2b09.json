@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "777luckyicon",
+    "texture": "71522955-1ad5-4271-9695-fda79819369e",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      244,
+      251
+    ],
+    "offset": [
+      -3,
+      -0.5
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

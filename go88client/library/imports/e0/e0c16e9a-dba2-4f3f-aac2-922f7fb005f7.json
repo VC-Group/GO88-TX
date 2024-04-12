@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fish_game_conCost",
+    "texture": "4b623763-9234-458b-beb0-89a13b0dcf0d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      60,
+      56
+    ],
+    "offset": [
+      -1,
+      1
+    ],
+    "originalSize": [
+      62,
+      58
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

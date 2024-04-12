@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "font_trutien",
+    "texture": "7c8c92fb-b107-475c-a250-d0c3e0a55392",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      301,
+      305
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      302,
+      306
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,362 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "avenger.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "avenger_bangthuong_btn_close": {
+      "__uuid__": "4b60c685-2a35-4b76-98e1-438edba54492"
+    },
+    "avenger_bangthuong_btn_left": {
+      "__uuid__": "09a2cbb3-effa-401b-9afb-06ca11427ce2"
+    },
+    "avenger_bangthuong_btn_right": {
+      "__uuid__": "10dabdef-8644-4475-b7c4-023fe039b429"
+    },
+    "avenger_bg_freespins": {
+      "__uuid__": "867185d3-504f-4235-8c21-b0d91c6b2d05"
+    },
+    "avenger_bg_play_trial": {
+      "__uuid__": "cd972683-73fe-401b-b976-22ba57d97e3c"
+    },
+    "avenger_bg_slots": {
+      "__uuid__": "a9b1b864-833a-4fef-8749-d490465bfea1"
+    },
+    "avenger_bg_so_phong": {
+      "__uuid__": "829c9e01-b2f3-490f-a031-3f7e158b73ee"
+    },
+    "avenger_bottom": {
+      "__uuid__": "638e9c64-b133-45f5-9135-c0b250769853"
+    },
+    "avenger_btn_back": {
+      "__uuid__": "aff34863-6f5f-43fa-8f73-cef5f40f30c6"
+    },
+    "avenger_btn_back_2": {
+      "__uuid__": "9b93402d-d9fe-4d51-bb68-6a5733c9d3b5"
+    },
+    "avenger_btn_bangthuong": {
+      "__uuid__": "1146a799-6520-43de-a468-397a7c7e8cbf"
+    },
+    "avenger_btn_lsgd": {
+      "__uuid__": "be3fadfe-2f1a-4433-8a4d-5750cee54bc2"
+    },
+    "avenger_btn_settings": {
+      "__uuid__": "d92cd43b-9bc8-4f18-8862-abb56a1aac83"
+    },
+    "avenger_btn_settings_2": {
+      "__uuid__": "ae59f152-d531-45ed-a33d-5ba0dbc75c79"
+    },
+    "avenger_btn_sieutoc": {
+      "__uuid__": "edb94039-221d-4024-b6a2-976068665eb6"
+    },
+    "avenger_btn_sieutoc2": {
+      "__uuid__": "c6257cba-a68d-4421-a7b8-5dbdb6d11084"
+    },
+    "avenger_coin": {
+      "__uuid__": "9a6f2504-47cc-4dc3-9318-4940412f7976"
+    },
+    "avenger_line_numb_0": {
+      "__uuid__": "8c7b8f6c-27a8-4b4a-b8c4-c3df6380f962"
+    },
+    "avenger_line_numb_1": {
+      "__uuid__": "694d409e-dc07-4dac-99eb-0f6dd2b0e155"
+    },
+    "avenger_mng_bg_thongbao": {
+      "__uuid__": "8ebefdd2-d096-4037-a8b0-b61837f25d6c"
+    },
+    "avenger_mng_btn_close": {
+      "__uuid__": "302b6b30-f606-42b1-9199-d30a759b96a3"
+    },
+    "avenger_numb_0": {
+      "__uuid__": "d4e5830d-ee32-43b6-a988-6555d03ee8ce"
+    },
+    "avenger_setting_bg": {
+      "__uuid__": "9cb8a7a6-7243-479c-a7b1-91399d55c944"
+    },
+    "avenger_setting_btn_close": {
+      "__uuid__": "5438ee77-9808-4b0c-8b2d-281eb3dd365a"
+    },
+    "avenger_symbol_1_0": {
+      "__uuid__": "9e41217b-174e-4603-9186-f51ea7ba7ecd"
+    },
+    "avenger_symbol_1_1": {
+      "__uuid__": "6e1fc369-ba55-4a78-a50b-1a1ce64cc509"
+    },
+    "avenger_symbol_1_10": {
+      "__uuid__": "34de5020-9f5a-4d1c-9c0c-27cfe6c90c47"
+    },
+    "avenger_symbol_1_11": {
+      "__uuid__": "1310fb80-8d72-4b97-8c22-3865bcf25bf8"
+    },
+    "avenger_symbol_1_12": {
+      "__uuid__": "265a012c-e175-4a5f-bf37-abf0ac3b7d7a"
+    },
+    "avenger_symbol_1_13": {
+      "__uuid__": "e914935a-c7c1-4b32-b2b3-f2580d768d17"
+    },
+    "avenger_symbol_1_14": {
+      "__uuid__": "57000c95-d0e7-4185-b8d5-946051460845"
+    },
+    "avenger_symbol_1_2": {
+      "__uuid__": "fe7341b7-577d-40fe-802f-c48fa7ef0841"
+    },
+    "avenger_symbol_1_3": {
+      "__uuid__": "7c6a0cdf-1e25-4b33-93dd-eeada292ad0f"
+    },
+    "avenger_symbol_1_4": {
+      "__uuid__": "229e01d8-24af-4549-a9e2-da24857a2ff4"
+    },
+    "avenger_symbol_1_5": {
+      "__uuid__": "7d2c5e53-29d2-4882-8269-f7d68022ee81"
+    },
+    "avenger_symbol_1_6": {
+      "__uuid__": "18bb63c3-fb5f-4fcb-937a-2e63c31656bc"
+    },
+    "avenger_symbol_1_7": {
+      "__uuid__": "33a1041e-1486-4500-88cc-9abb2807dad1"
+    },
+    "avenger_symbol_1_8": {
+      "__uuid__": "ba6be85d-4f0f-47f6-9f2c-7a330399f47b"
+    },
+    "avenger_symbol_1_9": {
+      "__uuid__": "a0483931-21fc-401f-84ca-5fb189d2508b"
+    },
+    "avenger_symbol_2_0": {
+      "__uuid__": "adc5eab1-1e52-4ab5-a9d9-89fb4d2c4232"
+    },
+    "avenger_symbol_2_1": {
+      "__uuid__": "b0715b2a-b2ee-4e50-8b29-d551b6b41fc5"
+    },
+    "avenger_symbol_2_10": {
+      "__uuid__": "1ec9df77-9b37-4ad8-a054-2d93e4d49d1d"
+    },
+    "avenger_symbol_2_11": {
+      "__uuid__": "4612fbfe-6b2f-4737-ba94-3ba0993eb687"
+    },
+    "avenger_symbol_2_12": {
+      "__uuid__": "ae241fef-ab0e-4aa6-b79f-19960a94a4dd"
+    },
+    "avenger_symbol_2_13": {
+      "__uuid__": "462773a2-3f03-4c0d-9cd9-67e3265b518a"
+    },
+    "avenger_symbol_2_14": {
+      "__uuid__": "38fba827-2358-41d4-886f-8209a9da6103"
+    },
+    "avenger_symbol_2_2": {
+      "__uuid__": "d8449a0d-0cf2-41af-971b-d633110a9a1f"
+    },
+    "avenger_symbol_2_3": {
+      "__uuid__": "8240adf8-1669-4bc8-89d5-21199214708b"
+    },
+    "avenger_symbol_2_4": {
+      "__uuid__": "231b9ddf-d66a-4f6d-a05e-cb58e35a4a23"
+    },
+    "avenger_symbol_2_5": {
+      "__uuid__": "b4b25384-8354-4279-830e-051d8a6b1da1"
+    },
+    "avenger_symbol_2_6": {
+      "__uuid__": "6ff06879-c813-4cd1-a4a9-67eadee17275"
+    },
+    "avenger_symbol_2_7": {
+      "__uuid__": "09150476-02b2-4b2c-b17d-5f50cbde0ceb"
+    },
+    "avenger_symbol_2_8": {
+      "__uuid__": "38434bca-0126-438e-8a32-7f3832e7388b"
+    },
+    "avenger_symbol_2_9": {
+      "__uuid__": "5e7d0a54-e549-4073-8970-f68da99e0c5a"
+    },
+    "avenger_symbol_3_0": {
+      "__uuid__": "a7d91aaf-63e4-4b14-a143-778fe735f4e9"
+    },
+    "avenger_symbol_3_1": {
+      "__uuid__": "514340af-383c-4c9c-a394-fe33af20f8df"
+    },
+    "avenger_symbol_3_10": {
+      "__uuid__": "5aed27e9-9d3e-4c59-a571-b7941928f232"
+    },
+    "avenger_symbol_3_11": {
+      "__uuid__": "62bbce19-4bfa-4417-b1fc-329041802038"
+    },
+    "avenger_symbol_3_12": {
+      "__uuid__": "c92a2111-ce3d-43ac-a9f9-bbd70de81ef6"
+    },
+    "avenger_symbol_3_13": {
+      "__uuid__": "05322358-5516-434d-8baa-e1e1ed212eeb"
+    },
+    "avenger_symbol_3_14": {
+      "__uuid__": "9b86d809-9413-4d71-bcd7-7b941cd1bde0"
+    },
+    "avenger_symbol_3_2": {
+      "__uuid__": "e416f5b0-d128-445f-9b0f-f2cab506ce79"
+    },
+    "avenger_symbol_3_3": {
+      "__uuid__": "2aa96574-cba5-42e4-bf22-16ae236b0ccf"
+    },
+    "avenger_symbol_3_4": {
+      "__uuid__": "ac26332d-b953-4910-8f7e-3cd17979ca29"
+    },
+    "avenger_symbol_3_5": {
+      "__uuid__": "505ca8b4-0103-4008-aca9-9b970eebdc9a"
+    },
+    "avenger_symbol_3_6": {
+      "__uuid__": "88d3c62a-125f-4f52-97d8-4c141fa35a5e"
+    },
+    "avenger_symbol_3_7": {
+      "__uuid__": "8f94c52d-84f2-47cd-9861-c3cbf8320841"
+    },
+    "avenger_symbol_3_8": {
+      "__uuid__": "a868b62f-42fe-49d7-b8bd-7458ad7c9552"
+    },
+    "avenger_symbol_3_9": {
+      "__uuid__": "ce844a61-658c-4745-bff0-d04bf18baa6f"
+    },
+    "avenger_symbol_blur_1_0": {
+      "__uuid__": "91963888-d979-4395-86e7-66ff12f7f8c8"
+    },
+    "avenger_symbol_blur_1_1": {
+      "__uuid__": "de83854c-fc8d-42bc-8141-cfb72187e9a7"
+    },
+    "avenger_symbol_blur_1_10": {
+      "__uuid__": "3bb44385-8155-497a-930c-e17007a534a3"
+    },
+    "avenger_symbol_blur_1_11": {
+      "__uuid__": "99b97112-bbd1-4cfd-9fdf-9899e0ca3a1d"
+    },
+    "avenger_symbol_blur_1_12": {
+      "__uuid__": "dcd90184-9ce9-4501-ae9e-97bef20e8698"
+    },
+    "avenger_symbol_blur_1_13": {
+      "__uuid__": "4c1803f4-0a13-438d-8770-8087662a2a22"
+    },
+    "avenger_symbol_blur_1_14": {
+      "__uuid__": "e0afa76f-610a-4be3-9cfe-3c627445180b"
+    },
+    "avenger_symbol_blur_1_2": {
+      "__uuid__": "6fad555d-65ac-4a94-8e2f-16c8e33b4211"
+    },
+    "avenger_symbol_blur_1_3": {
+      "__uuid__": "b7eacb37-64ec-47ed-8ec7-b4bcb94f560a"
+    },
+    "avenger_symbol_blur_1_4": {
+      "__uuid__": "88372254-cd65-4868-bb8e-4b207cc9d87f"
+    },
+    "avenger_symbol_blur_1_5": {
+      "__uuid__": "18d5167b-e8f3-41ca-bc33-47dfae20df6f"
+    },
+    "avenger_symbol_blur_1_6": {
+      "__uuid__": "de69907b-30ff-4c1a-a043-83959b57a8ba"
+    },
+    "avenger_symbol_blur_1_7": {
+      "__uuid__": "d143379e-3d3d-4260-b441-2a9552af2fdf"
+    },
+    "avenger_symbol_blur_1_8": {
+      "__uuid__": "b25a4c8b-408b-42ae-af83-74b8d3b7d556"
+    },
+    "avenger_symbol_blur_1_9": {
+      "__uuid__": "56db4cba-107a-4e87-8adb-790cef44ae2d"
+    },
+    "avenger_symbol_blur_2_0": {
+      "__uuid__": "54466b6e-7eee-4162-a8b1-4d157f65d3c5"
+    },
+    "avenger_symbol_blur_2_1": {
+      "__uuid__": "2c339c76-6359-4861-b40b-6e88ee50f769"
+    },
+    "avenger_symbol_blur_2_10": {
+      "__uuid__": "f5bb09fd-a7ee-4a5e-9f41-fa5400a7c50d"
+    },
+    "avenger_symbol_blur_2_11": {
+      "__uuid__": "4989b84b-cc34-45a7-90fc-fc68e057bbf5"
+    },
+    "avenger_symbol_blur_2_12": {
+      "__uuid__": "23106d1f-456d-4a56-b234-24435f8cba77"
+    },
+    "avenger_symbol_blur_2_13": {
+      "__uuid__": "15fe8647-ad60-4835-854b-4abb8ae3d75f"
+    },
+    "avenger_symbol_blur_2_14": {
+      "__uuid__": "efc61de0-2128-49be-a9ef-9b914656ef60"
+    },
+    "avenger_symbol_blur_2_2": {
+      "__uuid__": "09cd9847-e17e-4cf3-8f1f-3108311b46f1"
+    },
+    "avenger_symbol_blur_2_3": {
+      "__uuid__": "9421f760-c0c6-412c-a683-c50bb4935fed"
+    },
+    "avenger_symbol_blur_2_4": {
+      "__uuid__": "931a1d2f-c838-4549-b94d-4770dfee6722"
+    },
+    "avenger_symbol_blur_2_5": {
+      "__uuid__": "8b11e3df-4b38-4d2d-802b-a2dc119e6e92"
+    },
+    "avenger_symbol_blur_2_6": {
+      "__uuid__": "641da26a-8d40-4a8d-854b-12cf9e321e5c"
+    },
+    "avenger_symbol_blur_2_7": {
+      "__uuid__": "816e2c18-d30e-4731-ad53-fe3792e65c45"
+    },
+    "avenger_symbol_blur_2_8": {
+      "__uuid__": "8ba442e8-039d-4327-ac41-70ba9b1ed888"
+    },
+    "avenger_symbol_blur_2_9": {
+      "__uuid__": "9c92d885-2956-4f69-81c0-c3de3f22cdf9"
+    },
+    "avenger_symbol_blur_3_0": {
+      "__uuid__": "bf19f4da-28de-470e-9b56-16b6bc32e4de"
+    },
+    "avenger_symbol_blur_3_1": {
+      "__uuid__": "41715a70-74b5-4a38-8a21-45094ca5d50a"
+    },
+    "avenger_symbol_blur_3_10": {
+      "__uuid__": "e3c1c28c-a88e-4a30-9f6f-f22d11a33969"
+    },
+    "avenger_symbol_blur_3_11": {
+      "__uuid__": "c5286345-3997-42dd-8525-4303ef24b189"
+    },
+    "avenger_symbol_blur_3_12": {
+      "__uuid__": "3c59bbbb-17ac-4fdc-b5f9-0ae302de94a9"
+    },
+    "avenger_symbol_blur_3_13": {
+      "__uuid__": "2c86475f-dc27-4c2f-b458-aa0c4c3cbbe7"
+    },
+    "avenger_symbol_blur_3_14": {
+      "__uuid__": "8a76ccf6-fe0e-471f-a134-f92b62a25df9"
+    },
+    "avenger_symbol_blur_3_2": {
+      "__uuid__": "35c19211-28fa-4b4b-af0b-80c6c98dd383"
+    },
+    "avenger_symbol_blur_3_3": {
+      "__uuid__": "d305408d-be14-4dae-9f6d-17abf283dfa9"
+    },
+    "avenger_symbol_blur_3_4": {
+      "__uuid__": "4ecb5e85-0e92-4744-b8c5-2ca7971dbbcb"
+    },
+    "avenger_symbol_blur_3_5": {
+      "__uuid__": "4a523670-c4e4-4cea-b265-a95d96377236"
+    },
+    "avenger_symbol_blur_3_6": {
+      "__uuid__": "5c6d8194-9db6-4823-bf12-12394e7abd85"
+    },
+    "avenger_symbol_blur_3_7": {
+      "__uuid__": "63ba89f0-c700-4390-83e5-32506e14a081"
+    },
+    "avenger_symbol_blur_3_8": {
+      "__uuid__": "4e033f24-6ef9-4096-98d7-437862bcabc9"
+    },
+    "avenger_symbol_blur_3_9": {
+      "__uuid__": "4c3bb5d8-a0ba-4837-a6e8-18111e5810ae"
+    },
+    "avenger_tick": {
+      "__uuid__": "39ece214-5d9f-4985-951a-b8db5c83517d"
+    },
+    "avenger_top_0 copy": {
+      "__uuid__": "8d074ae9-d75b-4459-ab58-dfd84f40cc03"
+    },
+    "avenger_top_0": {
+      "__uuid__": "13d7bde5-851e-4497-948a-8bcaaeae8b4f"
+    },
+    "avenger_untick": {
+      "__uuid__": "db4f2d46-4dbc-467c-abe0-e32fb0892fdd"
+    }
+  }
+}

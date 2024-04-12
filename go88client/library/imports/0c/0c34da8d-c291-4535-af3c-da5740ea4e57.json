@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_chondong",
+    "texture": "e77d8800-8847-4b83-8c18-e4a0cc13feed",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      298,
+      56
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      298,
+      56
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

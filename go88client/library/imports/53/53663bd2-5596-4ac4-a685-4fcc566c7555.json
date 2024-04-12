@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "CAPTAIN MARVEL3",
+    "texture": "1348b1ac-eec2-41a0-9a0f-94ed40027952",
+    "atlas": "",
+    "rect": [
+      1,
+      13,
+      476,
+      467
+    ],
+    "offset": [
+      -17,
+      9.5
+    ],
+    "originalSize": [
+      512,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

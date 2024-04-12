@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fontdemnguoc_font",
+    "texture": "ef4b43ba-fbe7-4933-a926-6cb9fe4dcdd1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      214,
+      250
+    ],
+    "offset": [
+      -5,
+      5
+    ],
+    "originalSize": [
+      224,
+      260
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

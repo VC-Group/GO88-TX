@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "i-pass",
+    "texture": "68447a71-a616-4ca1-82a7-39bbf71033c3",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      73,
+      73
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      75,
+      75
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

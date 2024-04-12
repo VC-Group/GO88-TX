@@ -1,0 +1,41 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "aladdin_item_main.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "item_1": {
+      "__uuid__": "bcde01b4-7e1b-48d9-86df-67b185715a86"
+    },
+    "item_2": {
+      "__uuid__": "44de3bde-f6f3-41b0-bce4-01685ada78ec"
+    },
+    "item_3": {
+      "__uuid__": "4067514d-a968-4a6d-af76-9076454719dc"
+    },
+    "item_4": {
+      "__uuid__": "c91b606d-d9f7-4808-8c2f-c02b1adb55a0"
+    },
+    "item_5": {
+      "__uuid__": "80fff1c7-d5e2-49e1-be7e-33512ef9b033"
+    },
+    "item_6": {
+      "__uuid__": "5d19aea2-f2fe-4b4c-9371-303ccc762551"
+    },
+    "item_7": {
+      "__uuid__": "1dd8dbea-4bec-43f8-bff6-fc1db7ebf6e4"
+    },
+    "item_8": {
+      "__uuid__": "db98595c-06d9-418f-943c-420f9f9a36fc"
+    },
+    "item_9": {
+      "__uuid__": "03f12fd6-48b9-43a1-965c-ebba2a18593a"
+    },
+    "item_10": {
+      "__uuid__": "0a9b8b26-805b-4b2a-bc00-9f1276571f60"
+    },
+    "item_11": {
+      "__uuid__": "9e3b6463-c115-4393-b28c-afa09c1947cd"
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "button.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "button.2": {
+      "__uuid__": "51bfb2c5-c4fa-4596-8af4-6bfb0cbd4c73"
+    },
+    "button.3": {
+      "__uuid__": "174c33ad-e30b-45ac-b6b4-ecad07085192"
+    },
+    "button.4": {
+      "__uuid__": "201906b9-a354-4280-be48-a49ba6bd8f6b"
+    },
+    "button.5": {
+      "__uuid__": "7b823f1a-6882-4133-ac4e-140b5fe9da10"
+    },
+    "button.6": {
+      "__uuid__": "1382ce78-d14a-4f23-9def-6bff51266850"
+    },
+    "button.fanpage": {
+      "__uuid__": "88a0d280-47df-44b2-a181-e2df9aaaf1af"
+    },
+    "button.fb": {
+      "__uuid__": "1624166d-8fd8-4bb2-80f6-f353335520ed"
+    },
+    "button.gitcode": {
+      "__uuid__": "2225b4a7-ecec-4c1f-a373-a047d206775a"
+    },
+    "button.message": {
+      "__uuid__": "853c99d1-c30f-438b-b26b-e96c3a83192d"
+    },
+    "button.setting": {
+      "__uuid__": "350108eb-7f1c-4454-a279-da86e7500de4"
+    },
+    "button.shop": {
+      "__uuid__": "2f13771f-8994-48d0-9d0c-78bf68c3d297"
+    },
+    "button.sub": {
+      "__uuid__": "dfdc1806-ce83-4e18-87ba-6f19a52e4aa1"
+    },
+    "button.subActive": {
+      "__uuid__": "9e68bc30-2014-4830-9dc4-a730af5de22a"
+    },
+    "button.subActiveLeft": {
+      "__uuid__": "d79c1eb2-c02b-40d8-95ca-a10ced94065e"
+    },
+    "button.subLeft": {
+      "__uuid__": "3e8e9c5f-2fae-4827-aa32-9b24b575d61b"
+    },
+    "button.un": {
+      "__uuid__": "c63625e6-4e4d-46ae-9ace-c68f990eb8e2"
+    },
+    "close": {
+      "__uuid__": "f94c510a-53f4-497b-b344-7704e93ce486"
+    },
+    "mui_ten": {
+      "__uuid__": "9a8e1479-3b36-4122-ad27-419137cf56a7"
+    },
+    "plus": {
+      "__uuid__": "b1a14519-c47e-42db-b77a-5cd4f251f2c8"
+    }
+  }
+}

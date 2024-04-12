@@ -1,0 +1,26 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "bgHistory.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "bgTitle_center": {
+      "__uuid__": "f87df2dc-62a2-45f0-b9cf-9a32b928458c"
+    },
+    "bgTitle_left": {
+      "__uuid__": "c70c15f2-35fd-4d57-9d84-918260d70255"
+    },
+    "bgTitle_right": {
+      "__uuid__": "f93d923a-3f1c-4f63-a6c7-d960589f542a"
+    },
+    "bg_dialog_6": {
+      "__uuid__": "63188bbe-473d-4a9c-9d2c-b68f44dec1af"
+    },
+    "history_play": {
+      "__uuid__": "2351e8ec-678b-4cc1-a369-082b7ec5dd3a"
+    },
+    "vinhDanh": {
+      "__uuid__": "09662e11-4ec6-4089-b0bf-ca7d6aca8d7c"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fish_icon_douxia",
+    "texture": "9d05b53c-0447-4e53-a85f-c55a96bfd977",
+    "atlas": "",
+    "rect": [
+      10,
+      3,
+      66,
+      67
+    ],
+    "offset": [
+      -1,
+      -1.5
+    ],
+    "originalSize": [
+      88,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_dow",
+    "texture": "e9fb0a32-fbd2-4007-9cc3-aa1f21abd45d",
+    "atlas": "3b21503b-3d9e-455b-9771-1576b6d4d0ed",
+    "rect": [
+      169,
+      1,
+      96,
+      65
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      96,
+      65
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "NV_4",
+    "texture": "c0a1b7d3-be9b-4324-9049-f28215dace45",
+    "atlas": "",
+    "rect": [
+      5,
+      3,
+      1017,
+      507
+    ],
+    "offset": [
+      1.5,
+      -0.5
+    ],
+    "originalSize": [
+      1024,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fish_game_btn_lock",
+    "texture": "0e8b7555-13b5-47b9-888b-624a7d371dc3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      88,
+      88
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      88,
+      88
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

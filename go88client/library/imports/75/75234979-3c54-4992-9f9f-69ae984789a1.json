@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bigWin_shadow",
+    "texture": "2f016430-275b-4be7-9119-aa4a6d71b34c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      365,
+      300
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      365,
+      300
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

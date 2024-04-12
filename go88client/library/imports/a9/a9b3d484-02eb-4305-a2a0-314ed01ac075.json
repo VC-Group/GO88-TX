@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gf_room_gold_ee3aaffbdfd6f93fddc55e6fa565c537",
+    "texture": "8e0e0329-d164-4ac5-ab74-25400fa4e460",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      24,
+      24
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      24,
+      24
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

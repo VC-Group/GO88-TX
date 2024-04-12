@@ -1,0 +1,89 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "ARB_line.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "line1": {
+      "__uuid__": "ebaef345-46ae-457d-ae16-88b45e641d60"
+    },
+    "line10": {
+      "__uuid__": "32614139-c4d0-42af-87df-b8bee1006a08"
+    },
+    "line11": {
+      "__uuid__": "8f674ac3-8e1f-4ab2-aee3-497791e7c24f"
+    },
+    "line12": {
+      "__uuid__": "e6ed2511-f97d-41d1-8e64-0a65d701b659"
+    },
+    "line13": {
+      "__uuid__": "2ffda91f-3f5a-4f5a-bc75-96f63ac314ee"
+    },
+    "line14": {
+      "__uuid__": "c7a24666-cbb5-4045-be88-f3dc5851a3bf"
+    },
+    "line15": {
+      "__uuid__": "6c1dbe8b-daaa-4fe0-b4d2-482805d69a92"
+    },
+    "line16": {
+      "__uuid__": "1e3ad39f-6441-4762-83e2-82fd73267efe"
+    },
+    "line17": {
+      "__uuid__": "42bfe324-c43e-42fb-9970-7e86a734a7c2"
+    },
+    "line18": {
+      "__uuid__": "f5a2db0f-e0fb-4fbd-b437-1f823fe4ee71"
+    },
+    "line19": {
+      "__uuid__": "72490f76-44d5-44e3-b1fb-fe633c319303"
+    },
+    "line2": {
+      "__uuid__": "00f5e55a-4782-466b-bbfb-2d2c30fafe03"
+    },
+    "line20": {
+      "__uuid__": "1b15ba61-5177-4b60-a8fc-5928e5bc284f"
+    },
+    "line21": {
+      "__uuid__": "85758a01-7e73-4624-8480-bcf4beac411f"
+    },
+    "line22": {
+      "__uuid__": "a23481d6-a406-4312-9d71-cac01eb504f8"
+    },
+    "line23": {
+      "__uuid__": "a300aa0a-5077-4fdf-bd6d-968873736158"
+    },
+    "line24": {
+      "__uuid__": "2241fbb4-83b0-455a-8170-b2f8d48d32bf"
+    },
+    "line25": {
+      "__uuid__": "59a6594b-39f0-4741-9476-446632837fa1"
+    },
+    "line26": {
+      "__uuid__": "e905f630-ac08-4ca2-85a5-4d375919a588"
+    },
+    "line27": {
+      "__uuid__": "1bdbaf94-db6e-4c27-80b1-f12112842051"
+    },
+    "line3": {
+      "__uuid__": "7fa2b786-4c75-4064-8e61-22ae1af72d53"
+    },
+    "line4": {
+      "__uuid__": "08d18c43-633f-4480-aedd-7257a599e41a"
+    },
+    "line5": {
+      "__uuid__": "e7723709-7ccb-4da4-a4d5-ee0d9561883f"
+    },
+    "line6": {
+      "__uuid__": "6fd72d0c-4751-43f4-a521-65d4d6942ba2"
+    },
+    "line7": {
+      "__uuid__": "89c66b6d-92ba-44e6-8b2f-4957bb0f4c48"
+    },
+    "line8": {
+      "__uuid__": "e392eebc-d558-4a28-a7a5-652626eb1351"
+    },
+    "line9": {
+      "__uuid__": "78314276-b330-47a4-beee-34e692820a04"
+    }
+  }
+}

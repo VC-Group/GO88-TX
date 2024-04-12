@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dapHu_shadow",
+    "texture": "d5d35d17-c313-4ecb-b81e-77bdfce5f353",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      664,
+      263
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      664,
+      263
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

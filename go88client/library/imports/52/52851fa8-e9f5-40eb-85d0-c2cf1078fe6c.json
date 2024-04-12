@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "cu_lu",
+    "texture": "cf779680-33b4-4b5c-b46b-79df18dd36ac",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      134,
+      60
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      134,
+      60
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

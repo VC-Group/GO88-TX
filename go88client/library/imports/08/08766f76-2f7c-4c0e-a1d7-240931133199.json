@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lode",
+    "texture": "7aa98b14-b971-4f55-b310-9ed433401493",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      1011,
+      503
+    ],
+    "offset": [
+      -3.5,
+      1.5
+    ],
+    "originalSize": [
+      1024,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

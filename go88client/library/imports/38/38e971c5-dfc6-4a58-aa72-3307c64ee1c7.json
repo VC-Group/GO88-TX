@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pubg-icon",
+    "texture": "2bc2ef4c-9adb-4dd0-9c7f-ff1b890a1f93",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      76,
+      75
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      77,
+      75
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

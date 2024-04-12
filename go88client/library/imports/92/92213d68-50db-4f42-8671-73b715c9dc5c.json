@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_bigbabol",
+    "texture": "35b45220-7eaa-494c-aabb-6092cd445841",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      225,
+      679
+    ],
+    "offset": [
+      -0.5,
+      -0.5
+    ],
+    "originalSize": [
+      226,
+      680
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

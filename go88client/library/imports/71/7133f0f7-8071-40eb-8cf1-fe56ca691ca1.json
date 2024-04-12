@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_vqred",
+    "texture": "47fdbd51-7505-4449-9b33-49056c8ad0c0",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      224,
+      972
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      226,
+      973
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

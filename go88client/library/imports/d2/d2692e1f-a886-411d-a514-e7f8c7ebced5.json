@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tuquay-dung-btn",
+    "texture": "924e370e-56c9-41cf-84eb-8de8853e6291",
+    "atlas": "",
+    "rect": [
+      1,
+      5,
+      165,
+      69
+    ],
+    "offset": [
+      -0.5,
+      -1.5
+    ],
+    "originalSize": [
+      168,
+      76
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

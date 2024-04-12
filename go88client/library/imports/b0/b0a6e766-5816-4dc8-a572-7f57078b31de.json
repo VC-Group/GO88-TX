@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "MiniPoker-Quay",
+    "texture": "47de6fac-faa8-4d43-8100-3ecf694f9b7f",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      488,
+      53
+    ],
+    "offset": [
+      -10,
+      3.5
+    ],
+    "originalSize": [
+      512,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "icon_caothap.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "bg_A": {
+      "__uuid__": "1aa953ca-f920-4644-bd90-8421dbfba46d"
+    },
+    "bg_caothap": {
+      "__uuid__": "0fdb75de-afef-4496-8c5d-25389850be49"
+    },
+    "bg_caothap_log": {
+      "__uuid__": "bd85dbdd-ece3-4415-8c47-b7450f934215"
+    },
+    "bg_hu": {
+      "__uuid__": "66647f27-2592-441c-9b22-d2d29c8a827e"
+    },
+    "buttom_an_non": {
+      "__uuid__": "05218ea0-e35f-4095-9396-4e7ab07aada4"
+    },
+    "button-play": {
+      "__uuid__": "af40235f-75f8-4e42-8095-2ee3f265fd3e"
+    },
+    "caothap_down": {
+      "__uuid__": "65c28f42-dbff-4ce6-9cfe-d9842d50f27f"
+    },
+    "caothap_up": {
+      "__uuid__": "d465c61b-0ffa-4dd6-b463-383fe0d3a386"
+    }
+  }
+}

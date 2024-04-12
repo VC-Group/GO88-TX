@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "effect_nohu.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "GLOW": {
+      "__uuid__": "650d3ccd-c578-4030-8b3d-d8f7779aba06"
+    },
+    "Layer222": {
+      "__uuid__": "6eea998d-0d2c-4dd6-a312-2f12fcd73b2b"
+    },
+    "Spot": {
+      "__uuid__": "5161a959-2cba-4377-8d6d-390fcef9d90a"
+    },
+    "StarBigFull": {
+      "__uuid__": "404299a4-ed0a-40a0-9ee2-dde124ae3bb0"
+    },
+    "nohu": {
+      "__uuid__": "b1eb6e22-fa43-430f-8fab-4b96eb8cbe89"
+    }
+  }
+}

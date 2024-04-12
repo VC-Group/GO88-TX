@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Rodfat_YBr_L-export",
+    "texture": "4df9d31c-634b-4f84-8404-33cfece51f01",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      290,
+      279
+    ],
+    "offset": [
+      -3,
+      0.5
+    ],
+    "originalSize": [
+      296,
+      280
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

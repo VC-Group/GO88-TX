@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "aladdin_guide_5",
+    "texture": "f9d53523-1482-4a56-90f5-41e634d26a5d",
+    "atlas": "",
+    "rect": [
+      4,
+      0,
+      495,
+      105
+    ],
+    "offset": [
+      2,
+      4
+    ],
+    "originalSize": [
+      499,
+      113
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

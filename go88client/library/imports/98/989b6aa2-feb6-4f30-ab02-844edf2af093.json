@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "BIG WIN2",
+    "texture": "d9282654-6900-448e-b378-7839367f40e3",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      505,
+      502
+    ],
+    "offset": [
+      -3.5,
+      4
+    ],
+    "originalSize": [
+      512,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

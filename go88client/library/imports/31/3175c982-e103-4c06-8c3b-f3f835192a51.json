@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_bigbaboll",
+    "texture": "af300dc5-ba02-40cb-a60c-ee5f41a4d792",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      78,
+      78
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      78,
+      78
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

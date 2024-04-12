@@ -1,0 +1,119 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "MegaJackpot_Popup.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "megajackpot_bg_cell": {
+      "__uuid__": "6eddded6-0bef-48f4-be6e-5500de24b751"
+    },
+    "megajackpot_icon_coin": {
+      "__uuid__": "6979eaf9-0aa2-4523-8315-304ec70d3fb8"
+    },
+    "megajackpot_icon_ticket_1": {
+      "__uuid__": "dc3424f2-049e-4d50-97dd-0cf1c2ef84d8"
+    },
+    "megajackpot_icon_ticket_2": {
+      "__uuid__": "a36ffb6f-c56a-446d-a286-07e461915403"
+    },
+    "megajackpot_icon_ticket_3": {
+      "__uuid__": "568baf6a-3a39-4b19-84cf-b3af0cd62bc0"
+    },
+    "megajackpot_popup_btn_close": {
+      "__uuid__": "daafe7f7-5fdc-4584-95d5-0b6810bd6b50"
+    },
+    "megajackpot_popup_btn_next_page": {
+      "__uuid__": "464fe1b7-d54a-46a7-97ef-4ab710d932bf"
+    },
+    "megajackpot_popup_btn_prev_page": {
+      "__uuid__": "7a50d576-29a9-47ab-9031-975f7825108b"
+    },
+    "megajackpot_popup_btn_select_page": {
+      "__uuid__": "d7298f06-601e-4c38-a4ad-4d3217e803d9"
+    },
+    "megajackpot_popup_btn_unselect_page": {
+      "__uuid__": "c70b0f7e-f447-4945-9837-f0601384e968"
+    },
+    "megajackpot_popup_fg": {
+      "__uuid__": "9c8dffb5-c768-4bd7-a84d-f904b1c2cf77"
+    },
+    "megajackpot_popup_history_tab_0": {
+      "__uuid__": "221beae1-4755-4bbc-94c7-f14d9097fff1"
+    },
+    "megajackpot_popup_history_tab_0_selected": {
+      "__uuid__": "bd1722a1-bcbd-4fb5-9314-5ae85031a4d6"
+    },
+    "megajackpot_popup_history_tab_1": {
+      "__uuid__": "e72c8840-2ac2-49bd-bc30-54b4fe9150fc"
+    },
+    "megajackpot_popup_history_tab_1_selected": {
+      "__uuid__": "88903ce5-f966-4cc8-a978-eaabedac4cb1"
+    },
+    "megajackpot_popup_history_title_spin": {
+      "__uuid__": "bd8e24dc-1f8a-451c-b4f7-c4e40fe54b22"
+    },
+    "megajackpot_popup_history_title_ticket": {
+      "__uuid__": "010f808b-c586-4349-9ddc-bdbf5f3cc762"
+    },
+    "megajackpot_popup_ranking_tab_0": {
+      "__uuid__": "08c90b6a-0ea7-4150-b618-ebb74eb2808b"
+    },
+    "megajackpot_popup_ranking_tab_0_selected": {
+      "__uuid__": "948e2492-88e4-46ae-85f0-a1205ab2b027"
+    },
+    "megajackpot_popup_ranking_tab_1": {
+      "__uuid__": "ed0ad57a-e4fa-4066-8f03-9eb0bf347cbf"
+    },
+    "megajackpot_popup_ranking_tab_1_selected": {
+      "__uuid__": "cc76fc0f-0cfa-4d50-ad91-e8e5cb06744d"
+    },
+    "megajackpot_popup_ranking_title_list": {
+      "__uuid__": "c9ea30ea-d4be-472d-beeb-af20ab3e003d"
+    },
+    "megajackpot_popup_rule_content": {
+      "__uuid__": "76dc4843-5a7d-4392-8ad2-d65666532646"
+    },
+    "megajackpot_popup_ticket_bg": {
+      "__uuid__": "0185f64f-3ff9-475b-a059-cd5f05e89732"
+    },
+    "megajackpot_popup_ticket_tab_0": {
+      "__uuid__": "dc0c711a-45bc-41a9-bc2e-56dd920e6c28"
+    },
+    "megajackpot_popup_ticket_tab_0_selected": {
+      "__uuid__": "3130321c-425f-44b6-a971-1678155fec03"
+    },
+    "megajackpot_popup_ticket_tab_1": {
+      "__uuid__": "8d5724c9-b288-44bf-b398-48c0929efbe1"
+    },
+    "megajackpot_popup_ticket_tab_1_selected": {
+      "__uuid__": "13396bdd-cefd-4151-9e75-d88af7a5657b"
+    },
+    "megajackpot_popup_ticket_tab_2": {
+      "__uuid__": "bee65412-c75e-4c8f-a959-db47a1533610"
+    },
+    "megajackpot_popup_ticket_tab_2_selected": {
+      "__uuid__": "2af457ad-ad80-42d8-8016-951c80bd570e"
+    },
+    "megajackpot_popup_ticket_tab_3": {
+      "__uuid__": "c8513b0a-ce0f-442d-a0cd-6ff9fdc8a040"
+    },
+    "megajackpot_popup_ticket_tab_3_selected": {
+      "__uuid__": "33e4adc5-3aea-4d33-91c7-c3cf7cce8887"
+    },
+    "megajackpot_popup_title": {
+      "__uuid__": "a375b906-6775-4ebe-8594-6887a980ffcf"
+    },
+    "megajackpot_popup_title_history": {
+      "__uuid__": "dd955e16-679d-45a2-8c2a-16ad22e5f3cb"
+    },
+    "megajackpot_popup_title_ranking": {
+      "__uuid__": "d5912820-e3fe-4954-b884-64927a5e10cd"
+    },
+    "megajackpot_popup_title_rule": {
+      "__uuid__": "e361ac83-5a91-41c3-8625-0353e562a969"
+    },
+    "megajackpot_popup_title_ticket": {
+      "__uuid__": "045c45b2-a3fe-4b81-a9f8-ce26063647a5"
+    }
+  }
+}

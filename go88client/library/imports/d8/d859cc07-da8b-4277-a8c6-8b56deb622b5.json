@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "MegaJackpot_Popup",
+    "texture": "eed060a7-3526-4320-8c45-f024b6a50999",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      3178,
+      1005
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      3178,
+      1005
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

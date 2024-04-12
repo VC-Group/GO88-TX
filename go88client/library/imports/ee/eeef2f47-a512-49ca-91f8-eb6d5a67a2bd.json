@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "amthanh-inactive",
+    "texture": "ba4f3e00-5d64-423a-bd7e-4239fd46fb91",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      53,
+      50
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      53,
+      50
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

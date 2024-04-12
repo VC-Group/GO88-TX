@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bt_HuyBe",
+    "texture": "2aa582c3-969b-413a-8977-b72de204c201",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      156,
+      65
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      156,
+      65
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

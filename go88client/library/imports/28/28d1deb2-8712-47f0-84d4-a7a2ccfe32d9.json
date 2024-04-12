@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Grey_Blk-export",
+    "texture": "7bb83c01-1303-4a17-9a7c-cc7d7d92d670",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      118,
+      111
+    ],
+    "offset": [
+      -1.5,
+      1.5
+    ],
+    "originalSize": [
+      121,
+      114
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

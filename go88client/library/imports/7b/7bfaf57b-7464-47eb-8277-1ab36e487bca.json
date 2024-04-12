@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jiewenyu_shadow_tex",
+    "texture": "9705df06-4517-451b-93b0-290bb084cc99",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      510,
+      477
+    ],
+    "offset": [
+      0,
+      16.5
+    ],
+    "originalSize": [
+      512,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

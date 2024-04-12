@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lichsugiaodich-title",
+    "texture": "9f96cf66-588f-47a7-9a10-b34fd3c544de",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      455,
+      64
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      455,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

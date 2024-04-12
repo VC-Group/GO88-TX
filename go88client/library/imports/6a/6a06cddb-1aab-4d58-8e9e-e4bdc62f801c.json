@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "JPno_M-export",
+    "texture": "0455998e-578a-487e-94d2-31c69d9ada4a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      231,
+      202
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      232,
+      203
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

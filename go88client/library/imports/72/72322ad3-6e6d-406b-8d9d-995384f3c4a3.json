@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fish_icon_shenhaifufengwwang",
+    "texture": "6347db85-9d4e-40ad-9d03-b318143efb25",
+    "atlas": "",
+    "rect": [
+      6,
+      3,
+      79,
+      66
+    ],
+    "offset": [
+      1.5,
+      -1
+    ],
+    "originalSize": [
+      88,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

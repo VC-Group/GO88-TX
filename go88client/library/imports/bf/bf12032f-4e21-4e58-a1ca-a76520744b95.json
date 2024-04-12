@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "avenger_font_countdown",
+    "texture": "ba25dad1-24cf-4a82-8e32-4959a306d489",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      156,
+      176
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      157,
+      177
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

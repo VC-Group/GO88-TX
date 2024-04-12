@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "selectLine",
+    "texture": "1a988e67-fd1d-43c0-9c1b-803a05d70815",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      947,
+      573
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      949,
+      575
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

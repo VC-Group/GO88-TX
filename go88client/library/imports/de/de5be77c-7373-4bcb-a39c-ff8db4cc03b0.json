@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jinlongyu_tex",
+    "texture": "dc321a0c-13d6-4884-af2e-132bde9dd16a",
+    "atlas": "",
+    "rect": [
+      3,
+      2,
+      876,
+      605
+    ],
+    "offset": [
+      -71,
+      207.5
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

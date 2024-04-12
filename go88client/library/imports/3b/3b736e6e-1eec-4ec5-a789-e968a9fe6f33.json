@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "boderKetQua",
+    "texture": "6f009f99-cca9-4691-826f-cae454c83d96",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      1500,
+      637
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      1500,
+      638
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_top_hu",
+    "texture": "25d24a89-3de1-4017-ae1e-690f159942eb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      113,
+      97
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      113,
+      97
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

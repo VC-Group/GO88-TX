@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "spin",
+    "texture": "5f90bfb5-c0f6-4cb4-839a-5ccb4a526079",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      106,
+      68
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      108,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

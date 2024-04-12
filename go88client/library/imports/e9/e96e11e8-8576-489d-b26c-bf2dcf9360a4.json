@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fish_game_btn_jian",
+    "texture": "29fb20be-2cba-45f3-86f6-d48732483094",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      63,
+      43
+    ],
+    "offset": [
+      -0.5,
+      -0.5
+    ],
+    "originalSize": [
+      64,
+      44
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

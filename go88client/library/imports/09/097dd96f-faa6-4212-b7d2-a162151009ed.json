@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "thongKe",
+    "texture": "639b65d0-9659-4235-9409-42c7ad59310d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      65,
+      65
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      65,
+      65
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "ARB_icon.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "icon_0": {
+      "__uuid__": "595a98c7-f9dd-4838-921f-9475f16f88eb"
+    },
+    "icon_1": {
+      "__uuid__": "2f2d7ce2-bedc-47c1-a8b9-f7a8e2553067"
+    },
+    "icon_2": {
+      "__uuid__": "1d43dd53-5a02-43d5-af27-66e7714c387c"
+    },
+    "icon_3": {
+      "__uuid__": "1d5bf594-2cb5-450d-8c51-a8e0ba130228"
+    },
+    "icon_4": {
+      "__uuid__": "5a153b47-3b40-427a-b73b-65b391e32294"
+    },
+    "icon_5": {
+      "__uuid__": "c796c60f-b9cc-43ed-9cb5-3bacedc15a73"
+    }
+  }
+}

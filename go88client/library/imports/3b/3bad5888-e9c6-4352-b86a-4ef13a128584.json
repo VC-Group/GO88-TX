@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tick",
+    "texture": "35a96654-4d4a-408c-a650-11f26e17cbb7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      38,
+      39
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      38,
+      39
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

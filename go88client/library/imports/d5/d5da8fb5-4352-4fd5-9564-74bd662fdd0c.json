@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "locked",
+    "texture": "05e2d025-bc27-43e0-9883-075025d24e88",
+    "atlas": "",
+    "rect": [
+      4,
+      0,
+      24,
+      32
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      32,
+      32
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

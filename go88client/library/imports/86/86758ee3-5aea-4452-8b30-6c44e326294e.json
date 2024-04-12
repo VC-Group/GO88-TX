@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gf_room_user_bg_b4dc5f7d386ab7161c55eee62ae02c2d",
+    "texture": "733cd982-fcc1-4ce6-bde1-3b93b7b130b4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1280,
+      101
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1280,
+      101
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "bigbabol-logo.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "babol": {
+      "__uuid__": "ddcc3cc6-fdc0-4398-8dab-df7b5db95bbb"
+    },
+    "big": {
+      "__uuid__": "dd1bddfe-3b9f-4027-a3f5-ed9616c38eb4"
+    }
+  }
+}

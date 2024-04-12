@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "NenSauQuaCau",
+    "texture": "c3421f29-66e9-49a6-95c0-b267e8266357",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      347,
+      349
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      347,
+      349
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

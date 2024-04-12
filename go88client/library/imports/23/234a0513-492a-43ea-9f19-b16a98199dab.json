@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "thantai_font_nohu",
+    "texture": "a69e9406-f3e0-4313-8b6e-cd6a8a344021",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      285,
+      252
+    ],
+    "offset": [
+      -113.5,
+      2
+    ],
+    "originalSize": [
+      512,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

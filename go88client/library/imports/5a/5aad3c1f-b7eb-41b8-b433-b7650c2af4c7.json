@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "imgMusicOn",
+    "texture": "4f586905-5124-4c94-80df-55aa7a88a711",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      38,
+      42
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      38,
+      42
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

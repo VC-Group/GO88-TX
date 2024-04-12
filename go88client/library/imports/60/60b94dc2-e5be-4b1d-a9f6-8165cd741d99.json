@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "item_wild1_ani",
+    "texture": "7d6e0859-5caf-4de8-a8e0-8f4660612f4d",
+    "atlas": "",
+    "rect": [
+      1,
+      2,
+      379,
+      378
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      381,
+      381
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

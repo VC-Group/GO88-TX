@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zoneFx_1",
+    "texture": "9639ac98-e13f-4319-94bb-eb406710acee",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      2048,
+      512
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      2048,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

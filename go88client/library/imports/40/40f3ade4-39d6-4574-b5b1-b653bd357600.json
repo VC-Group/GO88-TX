@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "button-huongdan",
+    "texture": "93c6558d-2111-49de-9321-0cdc48123d7a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      66,
+      61
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      66,
+      61
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

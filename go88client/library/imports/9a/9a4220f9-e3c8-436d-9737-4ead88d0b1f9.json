@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_quen_mat_khau",
+    "texture": "b4ff7405-eb51-4fc2-822a-efc0db140a77",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      152,
+      31
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      152,
+      31
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

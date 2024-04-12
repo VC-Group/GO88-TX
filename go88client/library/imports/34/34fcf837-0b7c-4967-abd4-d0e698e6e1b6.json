@@ -1,0 +1,62 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "MegaJackpot.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "megajackpot_betting_1": {
+      "__uuid__": "c4397bd9-82f3-4cec-a1be-d68b8d11893f"
+    },
+    "megajackpot_betting_1_off": {
+      "__uuid__": "47b2714d-96f9-48ba-8628-ead000f6ce3d"
+    },
+    "megajackpot_betting_2": {
+      "__uuid__": "b08de064-c68c-44ce-b8c1-9738ec9069db"
+    },
+    "megajackpot_betting_2_off": {
+      "__uuid__": "c99e6cef-9907-45d9-b563-cb601d7f90c1"
+    },
+    "megajackpot_betting_3": {
+      "__uuid__": "eebfd03d-7d85-4c49-a6c8-5b9e1ce817dc"
+    },
+    "megajackpot_betting_3_off": {
+      "__uuid__": "4a60aca6-f46c-42f8-9aba-c076e825c150"
+    },
+    "megajackpot_bg_0": {
+      "__uuid__": "8a08ee93-f08b-4ea6-8224-a6a56f071275"
+    },
+    "megajackpot_close_bt": {
+      "__uuid__": "5e0d3940-1f92-4781-9f2a-7141f96edb60"
+    },
+    "megajackpot_history_bt": {
+      "__uuid__": "403c8830-2b9a-4fc0-be4c-4a376eaec39d"
+    },
+    "megajackpot_info_bt": {
+      "__uuid__": "e96e95a1-c573-4c06-934e-ecfc1d1db6de"
+    },
+    "megajackpot_rank_bt": {
+      "__uuid__": "c568d01c-8a34-4659-a48d-b7a65be7a632"
+    },
+    "megajackpot_spin": {
+      "__uuid__": "02d66ed3-7c44-4d38-97d6-10d0909c2d26"
+    },
+    "megajackpot_spin_1": {
+      "__uuid__": "55212294-4e3b-4811-8e1a-5e6605253f7e"
+    },
+    "megajackpot_spin_2": {
+      "__uuid__": "dbe62f13-8e8d-4d65-b22a-d7928e36d87d"
+    },
+    "megajackpot_spin_3": {
+      "__uuid__": "afec584c-1453-498b-b876-2c7bc71f4489"
+    },
+    "megajackpot_spin_bt": {
+      "__uuid__": "0747bef3-35ea-44c4-9094-15c6a06f466f"
+    },
+    "megajackpot_spin_bt_off": {
+      "__uuid__": "5a3c023a-cb5a-4c3a-bc23-8aaa4bf7d15f"
+    },
+    "megajackpot_win_highlight": {
+      "__uuid__": "197bdfe4-a9e0-442a-8933-cffb3a4fda45"
+    }
+  }
+}

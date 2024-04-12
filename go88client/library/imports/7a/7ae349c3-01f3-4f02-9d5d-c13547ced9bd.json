@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Helve-Gold-BMfont-export",
+    "texture": "ac2da0fd-842a-4bf1-8b7b-33a33cdb6009",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      512,
+      1024
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      512,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

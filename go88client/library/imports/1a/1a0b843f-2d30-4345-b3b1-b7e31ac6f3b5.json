@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "avenger_font_money2",
+    "texture": "51b7517a-d9b0-4010-bb26-ae60d9a6bd1b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      139,
+      138
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      140,
+      139
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

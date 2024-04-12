@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tiencuoc-text",
+    "texture": "0656fd5f-b116-4f89-80cf-88abf8d50f55",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      131,
+      35
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      131,
+      35
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

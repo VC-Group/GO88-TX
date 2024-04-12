@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "aladdin_black",
+    "texture": "8e4bf08b-5b91-4718-98b6-1a1f3e9c44f9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      153,
+      157
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      153,
+      157
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

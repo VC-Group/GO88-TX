@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "kyby_effect_zhuanpan2_tex",
+    "texture": "6c0634d3-fc50-422e-ba6f-a8dfd7cf22e1",
+    "atlas": "",
+    "rect": [
+      1,
+      6,
+      816,
+      977
+    ],
+    "offset": [
+      -103,
+      17.5
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

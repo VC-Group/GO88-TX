@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sieuhulobby",
+    "texture": "5b60a6f8-000e-47d8-80c6-3dfc0accb1aa",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      1018,
+      495
+    ],
+    "offset": [
+      0,
+      5.5
+    ],
+    "originalSize": [
+      1024,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

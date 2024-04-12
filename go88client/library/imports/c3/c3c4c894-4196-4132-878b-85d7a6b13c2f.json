@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "SanThuong_ani",
+    "texture": "4b095a3f-b2ce-4630-89a9-4c01bb442f54",
+    "atlas": "",
+    "rect": [
+      3,
+      242,
+      936,
+      699
+    ],
+    "offset": [
+      -3,
+      -118
+    ],
+    "originalSize": [
+      948,
+      947
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "sprites.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "PhunLua_000": {
+      "__uuid__": "9927a966-08ee-4054-8b14-fcf259dd10a4"
+    },
+    "PhunLua_001": {
+      "__uuid__": "f16e9afa-b1ac-4cef-82ad-3acc0fa3750f"
+    },
+    "PhunLua_002": {
+      "__uuid__": "b4c5bae4-4b16-4c7c-aa15-c480f8fa0073"
+    },
+    "PhunLua_003": {
+      "__uuid__": "3613b1f5-8293-420b-882e-3518636519e2"
+    },
+    "PhunLua_004": {
+      "__uuid__": "f65addfd-6281-4567-9ae1-8399c8f0b393"
+    },
+    "PhunLua_005": {
+      "__uuid__": "484e12d8-dfc5-4b68-bffb-c75afa7ab9c2"
+    },
+    "PhunLua_006": {
+      "__uuid__": "bd22f511-bc65-4d66-a0f3-742caa7b8cd9"
+    },
+    "PhunLua_007": {
+      "__uuid__": "bfc997ce-f032-48e9-869e-046681739724"
+    },
+    "PhunLua_008": {
+      "__uuid__": "c3138b16-3bc7-4eab-8504-f1a421d7debf"
+    },
+    "PhunLua_009": {
+      "__uuid__": "907ba557-dac7-4858-b57f-2115ea0cf5f1"
+    },
+    "PhunLua_010": {
+      "__uuid__": "0a4a0343-2788-4c24-9670-c1d139d57fc2"
+    },
+    "PhunLua_011": {
+      "__uuid__": "b6fc0b23-6280-436d-9a3f-b4aefb78efd9"
+    },
+    "PhunLua_012": {
+      "__uuid__": "2d54b102-5afb-4760-9f89-43816f684d08"
+    },
+    "PhunLua_013": {
+      "__uuid__": "4d6084b2-a7a5-4a6a-8247-e77c17ec7211"
+    },
+    "PhunLua_014": {
+      "__uuid__": "4ea1e127-a355-4484-a6d9-657da6cdaf4a"
+    },
+    "PhunLua_015": {
+      "__uuid__": "6e10d8a6-cf4c-4736-9845-fec83e3ee56f"
+    },
+    "PhunLua_016": {
+      "__uuid__": "e36fc381-c6b1-49fd-aa82-584b10565955"
+    },
+    "PhunLua_017": {
+      "__uuid__": "5688a3d2-94c6-4f8c-be47-f75d747fd7cf"
+    },
+    "PhunLua_018": {
+      "__uuid__": "118da771-0f9f-4429-93c0-936effa46914"
+    },
+    "PhunLua_019": {
+      "__uuid__": "9b359199-c16b-4f12-addf-764adb824c8d"
+    },
+    "PhunLua_020": {
+      "__uuid__": "741844de-ac3f-4847-9c36-2cb1819e5b03"
+    },
+    "PhunLua_021": {
+      "__uuid__": "e0928397-45d8-45a8-a924-7510cfb9478a"
+    },
+    "PhunLua_022": {
+      "__uuid__": "dd16e4ac-4315-4220-b2e0-8ca47da49f76"
+    },
+    "PhunLua_023": {
+      "__uuid__": "d20431b0-8da3-4bcd-8c16-afa5c625e5c4"
+    },
+    "PhunLua_024": {
+      "__uuid__": "301bf516-121d-4d96-99a7-9269200e273f"
+    },
+    "PhunLua_025": {
+      "__uuid__": "93d538e9-c42b-49d4-a0ad-b56921cd0a83"
+    },
+    "PhunLua_026": {
+      "__uuid__": "942aa9ff-aab9-43c9-9eea-1b92d7ac0dd5"
+    },
+    "PhunLua_027": {
+      "__uuid__": "f42dc32e-62da-4685-9ea1-d7296f73c380"
+    },
+    "PhunLua_028": {
+      "__uuid__": "762614dc-57ca-48ea-8560-f6ae57db9634"
+    },
+    "PhunLua_029": {
+      "__uuid__": "76da8969-798a-4c18-909b-6bcf062f23be"
+    },
+    "PhunLua_030": {
+      "__uuid__": "3c50df71-103c-4e64-b1ca-df6b8512fe14"
+    },
+    "PhunLua_031": {
+      "__uuid__": "649716eb-d26e-49c9-9021-5522c07dc45f"
+    },
+    "PhunLua_032": {
+      "__uuid__": "18b3f94b-c85a-4332-acc2-2bd2c52777c6"
+    },
+    "PhunLua_033": {
+      "__uuid__": "d37750eb-4ae2-48e5-bfdc-0297bb0e00a0"
+    },
+    "PhunLua_034": {
+      "__uuid__": "802b6eab-f968-4e7f-a953-eacd62fb2563"
+    },
+    "PhunLua_035": {
+      "__uuid__": "6c30b321-be74-40a5-baed-7b9396275d17"
+    },
+    "PhunLua_036": {
+      "__uuid__": "f77a867a-eb41-4344-9117-0bde5bb5a6d2"
+    },
+    "PhunLua_037": {
+      "__uuid__": "d95f0d56-2318-4d00-8071-fa617ff965f1"
+    },
+    "PhunLua_038": {
+      "__uuid__": "1565dad9-96b0-4bc5-9497-27e163378ac6"
+    },
+    "PhunLua_039": {
+      "__uuid__": "e20f80a0-111f-47f2-bedb-45bf414302fa"
+    },
+    "PhunLua_040": {
+      "__uuid__": "3d9d7d4d-5875-48c8-b291-cefa7725e0a2"
+    },
+    "PhunLua_041": {
+      "__uuid__": "27faf809-2473-4708-bd0e-0a5178e5d9d7"
+    },
+    "PhunLua_042": {
+      "__uuid__": "67857871-799c-409f-b6cb-817ca501fc31"
+    },
+    "PhunLua_043": {
+      "__uuid__": "d4a182ed-7d18-4cc6-9e6f-24c67a416860"
+    },
+    "PhunLua_044": {
+      "__uuid__": "7128741b-c086-4299-8117-14d9e14a01bc"
+    }
+  }
+}

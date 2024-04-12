@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "thung_pha_sanh",
+    "texture": "bf9cc411-04f7-4aa1-841e-9ef0affafff3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      355,
+      61
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      355,
+      61
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

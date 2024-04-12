@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mini_thienthu",
+    "texture": "502ffee2-6a10-413b-932b-51684d667665",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      104,
+      91
+    ],
+    "offset": [
+      0.5,
+      0.5
+    ],
+    "originalSize": [
+      105,
+      92
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

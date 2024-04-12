@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Rodfat_Free-export",
+    "texture": "319c0c6b-e315-4666-9c37-23f3aa67ecfe",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      212,
+      210
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      213,
+      211
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hoa",
+    "texture": "b7e76321-26f4-4392-a438-5ec16ae9a7ac",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      142,
+      33
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      142,
+      34
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

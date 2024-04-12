@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fish_icon_haidaochuan",
+    "texture": "1782becd-ef5c-4624-9c91-1ad2a4016ff3",
+    "atlas": "",
+    "rect": [
+      0,
+      12,
+      93,
+      71
+    ],
+    "offset": [
+      -0.5,
+      -0.5
+    ],
+    "originalSize": [
+      94,
+      94
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

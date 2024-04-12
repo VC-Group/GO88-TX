@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "phaohoa_jackpot",
+    "texture": "6445d4c3-264a-4e25-9c65-9fcf95240736",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1915,
+      1091
+    ],
+    "offset": [
+      -2.5,
+      6.5
+    ],
+    "originalSize": [
+      1920,
+      1104
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

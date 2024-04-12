@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dropDow",
+    "texture": "5223994f-2f5f-4f1c-a299-7fc4f27178cc",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      28,
+      22
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      28,
+      22
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

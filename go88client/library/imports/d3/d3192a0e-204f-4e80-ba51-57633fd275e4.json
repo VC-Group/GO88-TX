@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "thandoantx",
+    "texture": "a9367c4e-154a-4a3c-bbdf-8afcfca08d53",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      171,
+      92
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      173,
+      94
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

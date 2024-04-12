@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "T_hu_10k",
+    "texture": "acfa775a-bb89-4357-bbca-0c1b719f4990",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      44,
+      22
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      44,
+      22
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

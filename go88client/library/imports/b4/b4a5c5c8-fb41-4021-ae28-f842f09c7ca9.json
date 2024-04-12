@@ -1,0 +1,62 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "XoSo.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "XoSo_botton_back1": {
+      "__uuid__": "cb18b9e7-81c7-4e7a-bef9-dbbb4bfcec4a"
+    },
+    "XoSo_botton_back2": {
+      "__uuid__": "140b0ce3-347a-4b57-8eee-fdfe203deee4"
+    },
+    "XoSo_botton_main": {
+      "__uuid__": "3be5e04d-0dce-4d57-8fd6-c3790a190601"
+    },
+    "XoSo_botton_top1": {
+      "__uuid__": "e3777416-abcf-470a-9372-a1a4b6a2b9da"
+    },
+    "XoSo_botton_top2": {
+      "__uuid__": "6aba5cef-1d17-435b-baa4-13b7bb0bdfc6"
+    },
+    "XoSo_botton_top4": {
+      "__uuid__": "f871e30d-b0b8-4d81-9444-69cb50121587"
+    },
+    "XoSo_box_comingsome": {
+      "__uuid__": "498d2888-a47d-422a-8e22-2455f6a109f2"
+    },
+    "XoSo_box_game": {
+      "__uuid__": "6db8dd1a-d742-451d-a6ea-930b2708cef9"
+    },
+    "XoSo_box_kq_loc": {
+      "__uuid__": "95d597a4-3d8e-416b-aad9-b843c05ea579"
+    },
+    "XoSo_box_lines1": {
+      "__uuid__": "855f7462-472e-4a61-b5e3-f01b94a368d4"
+    },
+    "XoSo_box_lines2": {
+      "__uuid__": "af5047fc-c933-495b-a534-d13bbc7c4b2b"
+    },
+    "XoSo_box_linesmaill_title": {
+      "__uuid__": "efa13612-2095-4339-b027-f22ca8a48261"
+    },
+    "XoSo_btn_refresh": {
+      "__uuid__": "1bf3c22e-4775-459a-a3b3-6dc4fa5506ba"
+    },
+    "XoSo_btn_top3": {
+      "__uuid__": "9eaf74c7-3300-4008-ac21-aa6739b3d9ac"
+    },
+    "XoSo_line": {
+      "__uuid__": "594f8270-6e8a-4d9b-a7cc-bc3a55ea6199"
+    },
+    "XoSo_select_off": {
+      "__uuid__": "b9dad5ac-35ed-4472-b4b0-36d544707b60"
+    },
+    "XoSo_select_on": {
+      "__uuid__": "7d897198-e3e5-4bdb-a553-66f1f058cf12"
+    },
+    "XoSo_thongke_title": {
+      "__uuid__": "4953bcdf-43b2-44ff-9024-4c70bf54d396"
+    }
+  }
+}

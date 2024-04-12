@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "obecontinue",
+    "texture": "57474564-31e5-4a62-9e82-d0eac02ea0aa",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      146,
+      43
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      146,
+      43
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

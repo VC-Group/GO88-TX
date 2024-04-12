@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "choi nhanh",
+    "texture": "03b22591-a8bc-45eb-a12d-2c4fdd618365",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      163,
+      115
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      163,
+      115
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

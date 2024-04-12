@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "HUnohu2",
+    "texture": "e88fcc1b-2881-42cb-91b6-df99bbed5989",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      673,
+      456
+    ],
+    "offset": [
+      -0.5,
+      4
+    ],
+    "originalSize": [
+      674,
+      466
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

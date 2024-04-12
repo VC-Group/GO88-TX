@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "huongdan-minipoker",
+    "texture": "cfde50e8-dac6-46a9-8886-76ae581563b6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1016,
+      822
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1016,
+      822
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Xocxoc",
+    "texture": "3a1bda68-95c2-4d43-bc8f-8660abff9345",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      461,
+      115
+    ],
+    "offset": [
+      -22.5,
+      3.5
+    ],
+    "originalSize": [
+      512,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

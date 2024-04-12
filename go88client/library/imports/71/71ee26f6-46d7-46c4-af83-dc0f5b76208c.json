@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "AntiqueOlive_Gold-export",
+    "texture": "c969a441-7f85-4b7f-b902-b07c937e4c8d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      203,
+      249
+    ],
+    "offset": [
+      -26.5,
+      3.5
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

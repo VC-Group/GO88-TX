@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "raise_font_game_to",
+    "texture": "5f3fa437-2128-4b7a-9283-2b57ff9aa3e4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      81,
+      255
+    ],
+    "offset": [
+      -23.5,
+      0.5
+    ],
+    "originalSize": [
+      128,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chon-dong_22",
+    "texture": "d7f90d0f-6dc0-4d0d-855d-1261580c3e32",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      153,
+      74
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      153,
+      74
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

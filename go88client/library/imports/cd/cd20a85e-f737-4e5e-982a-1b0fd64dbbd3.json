@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "imgSoundOff",
+    "texture": "2ccef82c-f4a1-464d-afab-aa14a2add653",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      52,
+      45
+    ],
+    "offset": [
+      -40.5,
+      0
+    ],
+    "originalSize": [
+      133,
+      45
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

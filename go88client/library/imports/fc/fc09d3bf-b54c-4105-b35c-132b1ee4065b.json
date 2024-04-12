@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_chơi",
+    "texture": "c98c1bd6-92ea-49a7-b34e-b027d43bf58d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      146,
+      156
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      146,
+      156
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

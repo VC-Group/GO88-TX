@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon-chip-bg",
+    "texture": "08217d6e-87df-4363-9080-5847dec796e5",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      50,
+      50
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      52,
+      51
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

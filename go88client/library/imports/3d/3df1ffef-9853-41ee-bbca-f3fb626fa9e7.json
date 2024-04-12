@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "loso-info-bg-status-close-betting",
+    "texture": "6a522043-990b-4c23-917e-dd1be68c9e09",
+    "atlas": "c08d52be-c699-4de4-9240-e127b4418e4a",
+    "rect": [
+      541,
+      1774,
+      320,
+      51
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      320,
+      51
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "font_effect_xam",
+    "texture": "a4a2e46a-716f-46e6-ae87-2e8a5d8b2baf",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      862,
+      874
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      863,
+      875
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

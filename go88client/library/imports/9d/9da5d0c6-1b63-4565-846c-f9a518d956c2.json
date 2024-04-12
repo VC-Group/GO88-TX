@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Lobby-Ico-LH",
+    "texture": "21c68262-0347-4d8d-b288-4e57a5520dd4",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      1953,
+      569
+    ],
+    "offset": [
+      -5,
+      -0.5
+    ],
+    "originalSize": [
+      1965,
+      570
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

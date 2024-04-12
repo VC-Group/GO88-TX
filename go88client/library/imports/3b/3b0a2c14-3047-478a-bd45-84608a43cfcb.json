@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "HULK BUSTER3",
+    "texture": "1c76eb39-db5b-402a-983b-387d51152978",
+    "atlas": "",
+    "rect": [
+      4,
+      2,
+      472,
+      472
+    ],
+    "offset": [
+      -16,
+      18
+    ],
+    "originalSize": [
+      512,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

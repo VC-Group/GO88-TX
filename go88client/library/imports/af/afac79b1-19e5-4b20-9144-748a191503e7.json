@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "MTDH",
+    "texture": "2a8aaa71-fc6b-4417-aa57-01de807a9754",
+    "atlas": "",
+    "rect": [
+      3,
+      13,
+      722,
+      238
+    ],
+    "offset": [
+      -148,
+      -4
+    ],
+    "originalSize": [
+      1024,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

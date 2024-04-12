@@ -1,0 +1,174 @@
+{
+  "__type__": "cc.BitmapFont",
+  "_name": "DiemThuong",
+  "_objFlags": 0,
+  "_native": "",
+  "fntDataStr": "",
+  "spriteFrame": {
+    "__uuid__": "d2dbecff-a690-4ea8-ae6f-c37632840a9d"
+  },
+  "fontSize": 32,
+  "_fntConfig": {
+    "commonHeight": 59,
+    "fontSize": 32,
+    "atlasName": "DiemThuong.png",
+    "fontDefDictionary": {
+      "9": {
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "xOffset": 0,
+        "yOffset": 0,
+        "xAdvance": 152
+      },
+      "32": {
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "xOffset": 0,
+        "yOffset": 0,
+        "xAdvance": 19
+      },
+      "43": {
+        "rect": {
+          "x": 51,
+          "y": 87,
+          "width": 21,
+          "height": 20
+        },
+        "xOffset": 0,
+        "yOffset": 38,
+        "xAdvance": 24
+      },
+      "44": {
+        "rect": {
+          "x": 51,
+          "y": 108,
+          "width": 11,
+          "height": 14
+        },
+        "xOffset": 0,
+        "yOffset": 50,
+        "xAdvance": 14
+      },
+      "48": {
+        "rect": {
+          "x": 0,
+          "y": 87,
+          "width": 25,
+          "height": 28
+        },
+        "xOffset": 0,
+        "yOffset": 31,
+        "xAdvance": 28
+      },
+      "49": {
+        "rect": {
+          "x": 52,
+          "y": 29,
+          "width": 22,
+          "height": 28
+        },
+        "xOffset": 0,
+        "yOffset": 31,
+        "xAdvance": 25
+      },
+      "50": {
+        "rect": {
+          "x": 51,
+          "y": 58,
+          "width": 24,
+          "height": 28
+        },
+        "xOffset": 0,
+        "yOffset": 31,
+        "xAdvance": 27
+      },
+      "51": {
+        "rect": {
+          "x": 26,
+          "y": 29,
+          "width": 25,
+          "height": 28
+        },
+        "xOffset": 0,
+        "yOffset": 31,
+        "xAdvance": 28
+      },
+      "52": {
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 26,
+          "height": 28
+        },
+        "xOffset": 0,
+        "yOffset": 31,
+        "xAdvance": 29
+      },
+      "53": {
+        "rect": {
+          "x": 26,
+          "y": 87,
+          "width": 24,
+          "height": 28
+        },
+        "xOffset": 0,
+        "yOffset": 31,
+        "xAdvance": 27
+      },
+      "54": {
+        "rect": {
+          "x": 0,
+          "y": 29,
+          "width": 25,
+          "height": 28
+        },
+        "xOffset": 0,
+        "yOffset": 31,
+        "xAdvance": 28
+      },
+      "55": {
+        "rect": {
+          "x": 26,
+          "y": 58,
+          "width": 24,
+          "height": 28
+        },
+        "xOffset": 0,
+        "yOffset": 31,
+        "xAdvance": 27
+      },
+      "56": {
+        "rect": {
+          "x": 27,
+          "y": 0,
+          "width": 25,
+          "height": 28
+        },
+        "xOffset": 0,
+        "yOffset": 31,
+        "xAdvance": 28
+      },
+      "57": {
+        "rect": {
+          "x": 0,
+          "y": 58,
+          "width": 25,
+          "height": 28
+        },
+        "xOffset": 0,
+        "yOffset": 31,
+        "xAdvance": 28
+      }
+    },
+    "kerningDict": {}
+  },
+  "_fontDefDictionary": null
+}

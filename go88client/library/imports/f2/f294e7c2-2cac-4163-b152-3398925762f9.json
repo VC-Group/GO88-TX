@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gf_lowBetNumber",
+    "texture": "3edbc451-7490-46d6-9d32-de3241da6c91",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      105,
+      58
+    ],
+    "offset": [
+      -11.5,
+      3
+    ],
+    "originalSize": [
+      128,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

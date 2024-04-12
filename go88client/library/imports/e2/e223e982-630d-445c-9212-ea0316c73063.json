@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "loso-btn-4",
+    "texture": "6a522043-990b-4c23-917e-dd1be68c9e09",
+    "atlas": "c08d52be-c699-4de4-9240-e127b4418e4a",
+    "rect": [
+      1810,
+      1699,
+      118,
+      34
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      140,
+      100
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

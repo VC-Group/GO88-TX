@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "NameSuKien",
+    "texture": "a93c2381-9234-4d25-ac22-91c97b0999c7",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      347,
+      127
+    ],
+    "offset": [
+      -0.5,
+      -0.5
+    ],
+    "originalSize": [
+      348,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

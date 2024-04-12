@@ -1,0 +1,41 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "TaiXiu_v2.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "dia": {
+      "__uuid__": "0594ae36-756f-4b4b-b2a4-bc7039474449"
+    },
+    "icon_tai": {
+      "__uuid__": "4b395b88-ed25-4169-9b78-c1d478c010d7"
+    },
+    "icon_xiu": {
+      "__uuid__": "96956f38-52ee-4820-b81c-14b21f77128d"
+    },
+    "nenDia": {
+      "__uuid__": "12b77da9-3d94-4c20-ac7f-05838b5b16ac"
+    },
+    "tx_bgChat": {
+      "__uuid__": "4edd7620-37c2-42b4-b59a-616fe104adc6"
+    },
+    "tx_bgInput2": {
+      "__uuid__": "832a5e5d-b508-4f61-81b3-ab973c240eb3"
+    },
+    "tx_bg_board": {
+      "__uuid__": "5be23f92-edab-4a7d-badd-6376effb38a3"
+    },
+    "tx_bg_input": {
+      "__uuid__": "94d1c68b-c756-43fe-9388-a3c1cd1443bc"
+    },
+    "tx_bg_logMain": {
+      "__uuid__": "1f123eb2-8171-4296-8c90-a5108b832a06"
+    },
+    "tx_bgphien": {
+      "__uuid__": "6b8253c4-22c2-4958-b827-29038d2ae721"
+    },
+    "tx_ef_c": {
+      "__uuid__": "a757795c-2e3d-4405-be71-19df1fe6cabe"
+    }
+  }
+}

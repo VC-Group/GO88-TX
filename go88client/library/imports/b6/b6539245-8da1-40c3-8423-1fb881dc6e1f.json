@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "button_ket_3",
+    "texture": "59125e92-e0f5-494d-8f01-c6a0927f5578",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      149,
+      69
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      151,
+      71
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "NPC_Form",
+    "texture": "43132041-c7d4-45ed-8288-9e00786c609e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      515,
+      1264
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      515,
+      1266
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

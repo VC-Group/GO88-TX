@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "phong2_ani",
+    "texture": "c44b978a-245f-4260-8f72-ae38223135f3",
+    "atlas": "",
+    "rect": [
+      1,
+      6,
+      501,
+      495
+    ],
+    "offset": [
+      0,
+      -2.5
+    ],
+    "originalSize": [
+      503,
+      502
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

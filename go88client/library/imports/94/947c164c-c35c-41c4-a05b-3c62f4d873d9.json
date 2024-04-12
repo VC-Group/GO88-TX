@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "line_panda",
+    "texture": "3aa8c0ed-f930-4b24-a829-ad5372dc846c",
+    "atlas": "350913a9-558f-4a22-a72f-97db6bb0baff",
+    "rect": [
+      251,
+      916,
+      132,
+      23
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      132,
+      23
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "kyby_hailang_tex",
+    "texture": "6c38229e-84cf-450a-9d3a-a11c9bfcdfe4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1011,
+      720
+    ],
+    "offset": [
+      -1,
+      0
+    ],
+    "originalSize": [
+      1013,
+      720
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bieudotrang",
+    "texture": "714a1097-5312-428e-8ab0-10a57fe166e3",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      28,
+      28
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      30,
+      30
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

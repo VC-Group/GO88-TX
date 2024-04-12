@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Sukien-RongThan-2",
+    "texture": "199b58a6-da68-4fbd-bfc4-c5ff259e9e1d",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      250,
+      246
+    ],
+    "offset": [
+      0,
+      2
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

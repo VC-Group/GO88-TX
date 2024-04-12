@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_morong",
+    "texture": "1835e386-51ec-4524-ad13-e144fec98433",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      74,
+      63
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      74,
+      63
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

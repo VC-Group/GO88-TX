@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_thele_off",
+    "texture": "36270e89-8958-447c-bad9-a52cf53fa54f",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      229,
+      103
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      231,
+      105
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

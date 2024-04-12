@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "huangjinchuitousha_tex",
+    "texture": "3fb30f6b-90e1-40ee-a5df-efd61baa5327",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      853,
+      811
+    ],
+    "offset": [
+      -84.5,
+      105.5
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

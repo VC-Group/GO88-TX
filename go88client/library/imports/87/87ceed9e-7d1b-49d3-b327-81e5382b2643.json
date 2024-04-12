@@ -1,0 +1,17 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "icon_mini3cay.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "3c1": {
+      "__uuid__": "043ea41f-abe9-4454-b456-8956b81822e0"
+    },
+    "3c2": {
+      "__uuid__": "3702e967-0415-407a-bf62-a27f0ad2fc23"
+    },
+    "3c3": {
+      "__uuid__": "e3d90aa8-b3e3-45d1-a0cb-19ebf5a677be"
+    }
+  }
+}

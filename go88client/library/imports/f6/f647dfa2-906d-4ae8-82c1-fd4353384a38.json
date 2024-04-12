@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_CoTrang",
+    "texture": "dc92aa09-392d-41c3-b751-47039a0f274f",
+    "atlas": "",
+    "rect": [
+      4,
+      1,
+      211,
+      425
+    ],
+    "offset": [
+      2,
+      0
+    ],
+    "originalSize": [
+      215,
+      427
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

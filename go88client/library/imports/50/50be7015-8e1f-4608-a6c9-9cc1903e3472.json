@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "duobaoyu_shadow_tex",
+    "texture": "c216d8a8-e1d7-4168-8ef5-0bdb52c58d53",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      246,
+      249
+    ],
+    "offset": [
+      -4,
+      2.5
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "baolongwang_tex",
+    "texture": "9a6039a8-ecf3-4339-9be9-2be72706e426",
+    "atlas": "",
+    "rect": [
+      4,
+      12,
+      1875,
+      1430
+    ],
+    "offset": [
+      -2,
+      -4
+    ],
+    "originalSize": [
+      1887,
+      1446
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

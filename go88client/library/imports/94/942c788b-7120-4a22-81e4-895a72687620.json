@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_linewin_off",
+    "texture": "35d19651-5150-44b2-b0b4-420f1d8d5434",
+    "atlas": "",
+    "rect": [
+      0,
+      5,
+      196,
+      72
+    ],
+    "offset": [
+      -14.5,
+      -2.5
+    ],
+    "originalSize": [
+      225,
+      77
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

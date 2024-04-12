@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Spot",
+    "texture": "7179e248-097c-4a3f-b1d4-b0bfecd8660a",
+    "atlas": "e5de2eff-f1ac-4004-b4f8-acfcfc1e8d4a",
+    "rect": [
+      2,
+      2,
+      526,
+      409
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      526,
+      409
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

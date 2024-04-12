@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "theCaoOn",
+    "texture": "771430a8-876c-4faf-b5a0-1d3b2c16e39d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      166,
+      46
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      166,
+      46
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

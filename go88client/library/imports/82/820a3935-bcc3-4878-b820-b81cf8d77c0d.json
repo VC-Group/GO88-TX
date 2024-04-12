@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "MegaJackpot",
+    "texture": "2a9d45ed-9967-4fc3-9507-03a51ff005ae",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      492,
+      1340
+    ],
+    "offset": [
+      -1,
+      1
+    ],
+    "originalSize": [
+      494,
+      1342
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

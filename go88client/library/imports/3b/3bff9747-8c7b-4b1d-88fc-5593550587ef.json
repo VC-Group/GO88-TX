@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ankangyu_shadow_tex",
+    "texture": "c470ebd8-1ea2-48be-9241-05265154732e",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      445,
+      431
+    ],
+    "offset": [
+      -32.5,
+      39.5
+    ],
+    "originalSize": [
+      512,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

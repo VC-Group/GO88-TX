@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fish_icon_ankangyu",
+    "texture": "d9a33b2d-17eb-49a5-892f-f5409423a09c",
+    "atlas": "",
+    "rect": [
+      1,
+      10,
+      87,
+      50
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      88,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

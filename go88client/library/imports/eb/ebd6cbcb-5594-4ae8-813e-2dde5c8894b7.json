@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "THOR ANIM5",
+    "texture": "4f28cc2a-387a-4f8d-809d-22f8607f6d05",
+    "atlas": "",
+    "rect": [
+      4,
+      3,
+      272,
+      460
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      281,
+      467
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

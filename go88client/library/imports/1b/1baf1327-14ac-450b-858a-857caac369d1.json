@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gf_btn_turn_970b702432d1a550fd0d1526bb4ec77d",
+    "texture": "46cc27b9-cea4-4bd7-9543-b84c0a224aef",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      68,
+      69
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      68,
+      69
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

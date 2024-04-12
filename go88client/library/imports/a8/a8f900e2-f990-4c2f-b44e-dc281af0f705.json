@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sp_sukien",
+    "texture": "592be31c-aff6-4292-b7a5-1d3fa39870b3",
+    "atlas": "",
+    "rect": [
+      3,
+      2,
+      341,
+      137
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      347,
+      140
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

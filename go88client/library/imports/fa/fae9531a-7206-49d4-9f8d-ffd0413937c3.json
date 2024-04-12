@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fish_icon_caishenyu",
+    "texture": "97f5d659-31ee-4a36-8a65-a64bd91da010",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      74,
+      70
+    ],
+    "offset": [
+      -6,
+      0
+    ],
+    "originalSize": [
+      88,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,1745 @@
+{
+  "mtimes": {
+    "82027314-6a5e-4671-9302-25e7275784c9": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749574
+    },
+    "03aa668d-8a79-47ac-b125-190c7179233f": {
+      "assetMtime": 1618053540566,
+      "metaMtime": 1622715749628
+    },
+    "75f8fa2e-c722-45fc-86aa-1c286c78cd55": {
+      "assetMtime": 1618053540566,
+      "metaMtime": 1622715749628
+    },
+    "065dc15a-e278-4f14-af82-c2cf50b860c7": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749655
+    },
+    "cbdecc97-cbab-42f9-98c6-42ef2992c414": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749655
+    },
+    "09fc93d8-4eb8-432c-8b33-a741d535e450": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749704
+    },
+    "33c0ea94-bf04-49d5-9dd2-736b9d33b483": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749704
+    },
+    "0a5cac79-ced1-4d1b-b768-344a37d3478d": {
+      "assetMtime": 1618165778000,
+      "metaMtime": 1622715749681
+    },
+    "9a5bbbb6-4806-4157-bb62-fd2528d1f996": {
+      "assetMtime": 1618165778000,
+      "metaMtime": 1622715749681
+    },
+    "10a96f5a-5e91-408b-9ea2-92c4ce5d3d08": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749618
+    },
+    "c707d23b-7899-478a-b7ff-949eca0ec578": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749618
+    },
+    "16ea09fb-1cec-42b5-96fe-688c9e4dee53": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749716
+    },
+    "1238e368-4c6d-47ee-9fcf-9f73e20bb349": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749716
+    },
+    "1915f03c-6e69-463b-9710-7eaa219cec74": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749662
+    },
+    "8a5eab5a-cea5-43c1-8ff1-661112b4e9e6": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749662
+    },
+    "1aeed2ba-bbd7-4f23-a0f2-b3708edb582b": {
+      "assetMtime": 1618165778000,
+      "metaMtime": 1622715749718
+    },
+    "de5438fa-1cac-490f-9be0-214668db3d77": {
+      "assetMtime": 1618165778000,
+      "metaMtime": 1622715749718
+    },
+    "1d0051e2-79b5-4c83-ba8e-4be5d8652e42": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749737
+    },
+    "22e6a20f-f97d-4b17-8c75-55565c36cb86": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749737
+    },
+    "1df3601e-8acd-4c85-9d80-ae8d19223980": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749772
+    },
+    "512c641d-85ca-4585-9663-647042f9f9f6": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749772
+    },
+    "23553b87-a8bc-404a-8bf2-a17641705850": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749729
+    },
+    "8a1b692b-89ae-41a7-8514-903fc26e5085": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749729
+    },
+    "26d0bf39-af73-4643-9cd2-6c98e269d152": {
+      "assetMtime": 1618995858625,
+      "metaMtime": 1622715749762
+    },
+    "4f180b33-f1d0-46c2-b710-365ff7fb2fab": {
+      "assetMtime": 1618995858625,
+      "metaMtime": 1622715749762
+    },
+    "2cd8abff-4a9b-4bad-a8e8-77d6e0c9df7d": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749668
+    },
+    "f435833d-3463-4e56-b42b-fd12892b8645": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749668
+    },
+    "2ff17af8-9eb5-4775-ac8c-c45442bd32e5": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749676
+    },
+    "f14349ef-eef2-4bb9-9f4d-ab33d989de19": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749676
+    },
+    "35326018-55ae-4ca5-98eb-539805170e0d": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749761
+    },
+    "773729e0-08f2-46e3-8101-ed57846d6c82": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749761
+    },
+    "377f7b6f-b08c-4b77-a8ad-f2e36a45bdc5": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749727
+    },
+    "70eaf7ae-0679-44dc-8e6a-4da1c6f4a633": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749727
+    },
+    "437ee645-d802-4ba6-8a09-0df2368642f3": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749659
+    },
+    "c217463a-3845-4bc8-b449-838bd763961e": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749659
+    },
+    "5d149496-aacb-4fa7-80f7-68b053447f44": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749711
+    },
+    "3ec02037-4f56-4705-b572-ca7be4561105": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749711
+    },
+    "6932cf7a-e134-433b-ad56-faffe2d0077f": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749733
+    },
+    "1665c301-9fe1-457f-8471-1de413ef9816": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749733
+    },
+    "6b40a927-e6c5-4285-ad6f-dbfede20f129": {
+      "assetMtime": 1617978000000,
+      "metaMtime": 1622715749626
+    },
+    "7e654190-f926-403b-9088-6260ccf71e4e": {
+      "assetMtime": 1617978000000,
+      "metaMtime": 1622715749626
+    },
+    "6dccf976-7820-4c8d-9f51-dbce4db9a534": {
+      "assetMtime": 1618165778000,
+      "metaMtime": 1622715749687
+    },
+    "9735117a-3007-413d-af9e-05287c01885f": {
+      "assetMtime": 1618165778000,
+      "metaMtime": 1622715749687
+    },
+    "70c8ee8c-0650-4f41-b75c-cd4fe94ec2ea": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749677
+    },
+    "1c56b58b-9cd0-44e5-bcd1-7e63462a7575": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749677
+    },
+    "73859cd7-7da3-4027-81d5-1b636e986564": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749779
+    },
+    "fff3125d-9811-4972-b3e3-8547e574c76d": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749779
+    },
+    "748dd8e5-4855-4431-add4-b68ba8d22c2b": {
+      "assetMtime": 1618062341455,
+      "metaMtime": 1622715749784
+    },
+    "bd18f382-952d-4e2f-963f-968f6480a78f": {
+      "assetMtime": 1618062341455,
+      "metaMtime": 1622715749784
+    },
+    "779b8956-413a-42f5-bd14-8a4e121fff5f": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749767
+    },
+    "47100579-65e9-4a63-a4c3-19babe8c7108": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749767
+    },
+    "791feb1e-824e-4c84-917c-83e803b67b65": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749695
+    },
+    "d10c064f-1d0c-47ae-bfe2-46f56be019dc": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749695
+    },
+    "7bc16fb3-7ebe-42f0-b465-98977c61bd7d": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749699
+    },
+    "7ad9bd3f-6004-48e4-a895-7d1ca2c836f8": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749699
+    },
+    "7dd96cae-b78c-4999-9f2b-f6f0d3b2f403": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749694
+    },
+    "ba01d74c-959e-4937-9a2d-20297df9d3bb": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749694
+    },
+    "7e5110bd-a045-4b43-8428-d2016ab8be14": {
+      "assetMtime": 1618077889572,
+      "metaMtime": 1622715749636
+    },
+    "c2a964e7-9d03-4433-834f-24e95c985f5d": {
+      "assetMtime": 1618077889572,
+      "metaMtime": 1622715749636
+    },
+    "94fb6dbb-1c46-4a47-9bbb-378235e4b3ca": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749670
+    },
+    "d21959eb-d83f-4de9-ab72-3996d5613dfc": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749670
+    },
+    "9c1cbc5d-ee43-457e-8711-e59e260701cb": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749579
+    },
+    "3816c69d-5547-4bf2-94a1-e5c37c145891": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749579
+    },
+    "9eaa66c0-9936-41c3-8a69-5d5722f3133a": {
+      "assetMtime": 1617978000000,
+      "metaMtime": 1622715749634
+    },
+    "eeff7747-17fa-495e-9c5e-f52b92183523": {
+      "assetMtime": 1617978000000,
+      "metaMtime": 1622715749634
+    },
+    "a413c0b5-c6e9-4c51-8412-c0362933034a": {
+      "assetMtime": 1617978000000,
+      "metaMtime": 1622715749595
+    },
+    "97652bb8-e7bc-4d02-a02b-f44b476e44fe": {
+      "assetMtime": 1617978000000,
+      "metaMtime": 1622715749595
+    },
+    "a7777977-d74d-436a-883e-a6fe088f75e4": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749596
+    },
+    "98ebbd75-ebda-48f9-86f4-3c5cb3e32d12": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749596
+    },
+    "aa4b23bb-c4aa-48a8-9552-9000a65fbc25": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749665
+    },
+    "efd79e66-baf6-4a52-bc67-ac4b2ec8452b": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749665
+    },
+    "b181992c-826a-498e-a553-d4a181cf2697": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749768
+    },
+    "c152b41c-9ec1-4637-ae44-205a8d10157e": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749768
+    },
+    "b2aaa4f2-0b69-4b8d-9c79-965f56a26bd9": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749723
+    },
+    "25d24a89-3de1-4017-ae1e-690f159942eb": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749723
+    },
+    "b9bc8b68-2ea8-46d0-a906-a5124b833fff": {
+      "assetMtime": 1588844189635,
+      "metaMtime": 1622715749612
+    },
+    "ca6130ee-a9bc-48a5-bf43-afd45090cd56": {
+      "assetMtime": 1588844189635,
+      "metaMtime": 1622715749612
+    },
+    "ba19e4f2-45f9-41d1-b869-e486dfb5f81e": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749751
+    },
+    "f1d9e131-dda1-476e-b311-008611373c0b": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749751
+    },
+    "bb35eaad-d934-4ce9-84fd-6303668f8d1f": {
+      "assetMtime": 1618165778000,
+      "metaMtime": 1622715749682
+    },
+    "7e5fba93-c1dc-47d4-9e87-236035019787": {
+      "assetMtime": 1618165778000,
+      "metaMtime": 1622715749682
+    },
+    "c2d263af-0247-4450-9095-378f022d5a0d": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749773
+    },
+    "64b4c5df-a9a5-4477-a6d8-a04e420d532c": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749773
+    },
+    "c5bc6e78-53ce-49b3-87e1-6c5715d7fac6": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749794
+    },
+    "f6c0edf5-0077-4ee9-a611-4b8f02c8649b": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749794
+    },
+    "c9933dfd-805c-4f15-8338-6bd7f71eb306": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749588
+    },
+    "cb779c96-0dd8-41a1-8f6f-597a1dafd259": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749588
+    },
+    "d0509950-2dfc-4bf4-80d7-74e1cc2fa6ff": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749653
+    },
+    "235c7305-cdd9-48fb-af14-61165035e52b": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749653
+    },
+    "d509268e-8598-462d-b366-b9750f04aa86": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749589
+    },
+    "ab4375c0-d1ce-43fe-8488-44620aece82c": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749589
+    },
+    "d5b02493-7a9d-48f3-8c72-8213ee74d518": {
+      "assetMtime": 1618062564770,
+      "metaMtime": 1622715749792
+    },
+    "a2c7843c-bf2e-42df-a143-dedef3820a16": {
+      "assetMtime": 1618062564770,
+      "metaMtime": 1622715749792
+    },
+    "e306bfa2-8f75-42e3-b80f-38df030c1892": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749689
+    },
+    "43b5fb74-71be-4e49-92a0-4e76be48e56c": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749689
+    },
+    "e64ed5df-12ba-4c4d-a699-f680a44aa04b": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749583
+    },
+    "edef152f-20f4-4889-b4ee-8e4eddffd93a": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749583
+    },
+    "f004f2da-b90e-4782-8b2d-4fdfd0d6b930": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749755
+    },
+    "23de9a02-917e-4a77-a9ca-670d48e33ebf": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749755
+    },
+    "f388aeed-3e4b-4831-a3ce-27f4dbaff50c": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749786
+    },
+    "be85f96e-e386-4c4d-b80d-cbda0f6f1290": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749786
+    },
+    "f85ca2bd-3430-4170-9730-b8b19fca1de8": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749710
+    },
+    "248e314b-11eb-4508-911d-4e9e027a0755": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749710
+    },
+    "fab8b2f2-c885-40ce-a7e6-7cc36999d931": {
+      "assetMtime": 1588844166884,
+      "metaMtime": 1622715749608
+    },
+    "90b682ad-f95a-445f-9061-7e3f6865ee30": {
+      "assetMtime": 1588844166884,
+      "metaMtime": 1622715749608
+    },
+    "fd572cad-d677-454b-af01-6a4f3c548dcb": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749705
+    },
+    "f730ac7a-51e0-4389-b204-0168f19685d1": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749705
+    },
+    "fff49cb2-99f9-4aae-b532-b4b9f85fae34": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749778
+    },
+    "acfa775a-bb89-4357-bbca-0c1b719f4990": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1622715749778
+    }
+  },
+  "result": {
+    "name": "AutoAtlas",
+    "width": 2048,
+    "height": 2048,
+    "ver": "1.2.0",
+    "uuid": "82027314-6a5e-4671-9302-25e7275784c9",
+    "maxWidth": 2048,
+    "maxHeight": 2048,
+    "padding": 2,
+    "allowRotation": true,
+    "forceSquared": false,
+    "powerOfTwo": false,
+    "algorithm": "MaxRects",
+    "format": "png",
+    "quality": 80,
+    "contourBleed": true,
+    "paddingBleed": true,
+    "filterUnused": false,
+    "packable": false,
+    "premultiplyAlpha": false,
+    "filterMode": "bilinear",
+    "platformSettings": {},
+    "subMetas": {},
+    "bleed": 1,
+    "atlases": [
+      {
+        "files": [
+          {
+            "name": "bg",
+            "uuid": "03aa668d-8a79-47ac-b125-190c7179233f",
+            "textureUuid": "75f8fa2e-c722-45fc-86aa-1c286c78cd55",
+            "path": "D:\\Go99\\Client\\temp\\trimImages\\spritesheet_js_1622889883674_image_0.png",
+            "trim": {
+              "x": 3,
+              "y": 3,
+              "width": 661,
+              "height": 661,
+              "rotatedWidth": 661,
+              "rotatedHeight": 661
+            },
+            "rawWidth": 661,
+            "rawHeight": 661,
+            "width": 667,
+            "height": 667,
+            "originalPath": "D:/Go99/Client/library/imports/75/75f8fa2e-c722-45fc-86aa-1c286c78cd55.png",
+            "x": 0,
+            "y": 0,
+            "rotatedWidth": 667,
+            "rotatedHeight": 667
+          },
+          {
+            "name": "bg_coin",
+            "uuid": "d509268e-8598-462d-b366-b9750f04aa86",
+            "textureUuid": "ab4375c0-d1ce-43fe-8488-44620aece82c",
+            "path": "D:\\Go99\\Client\\temp\\trimImages\\spritesheet_js_1622889883682_image_44.png",
+            "trim": {
+              "x": 670,
+              "y": 3,
+              "width": 328,
+              "height": 59,
+              "rotatedWidth": 328,
+              "rotatedHeight": 59
+            },
+            "rawWidth": 328,
+            "rawHeight": 59,
+            "width": 334,
+            "height": 65,
+            "originalPath": "D:/Go99/Client/library/imports/ab/ab4375c0-d1ce-43fe-8488-44620aece82c.png",
+            "x": 667,
+            "y": 0,
+            "rotatedWidth": 334,
+            "rotatedHeight": 65
+          },
+          {
+            "name": "bg_top_hu_1",
+            "uuid": "fab8b2f2-c885-40ce-a7e6-7cc36999d931",
+            "textureUuid": "90b682ad-f95a-445f-9061-7e3f6865ee30",
+            "path": "D:\\Go99\\Client\\temp\\trimImages\\spritesheet_js_1622889883683_image_51.png",
+            "trim": {
+              "x": 670,
+              "y": 68,
+              "width": 300,
+              "height": 65,
+              "rotatedWidth": 300,
+              "rotatedHeight": 65
+            },
+            "rawWidth": 300,
+            "rawHeight": 65,
+            "width": 306,
+            "height": 71,
+            "originalPath": "D:/Go99/Client/library/imports/90/90b682ad-f95a-445f-9061-7e3f6865ee30.png",
+            "x": 667,
+            "y": 65,
+            "rotatedWidth": 306,
+            "rotatedHeight": 71
+          },
+          {
+            "name": "bg_input",
+            "uuid": "a413c0b5-c6e9-4c51-8412-c0362933034a",
+            "textureUuid": "97652bb8-e7bc-4d02-a02b-f44b476e44fe",
+            "path": "D:\\Go99\\Client\\temp\\trimImages\\spritesheet_js_1622889883680_image_32.png",
+            "trim": {
+              "x": 976,
+              "y": 68,
+              "width": 267,
+              "height": 45,
+              "rotatedWidth": 45,
+              "rotatedHeight": 267
+            },
+            "rawWidth": 267,
+            "rawHeight": 45,
+            "width": 273,
+            "height": 51,
+            "originalPath": "D:/Go99/Client/library/imports/97/97652bb8-e7bc-4d02-a02b-f44b476e44fe.png",
+            "x": 973,
+            "y": 65,
+            "rotated": true,
+            "rotatedWidth": 51,
+            "rotatedHeight": 273
+          },
+          {
+            "name": "bg_top_hu_2",
+            "uuid": "b9bc8b68-2ea8-46d0-a906-a5124b833fff",
+            "textureUuid": "ca6130ee-a9bc-48a5-bf43-afd45090cd56",
+            "path": "D:\\Go99\\Client\\temp\\trimImages\\spritesheet_js_1622889883681_image_37.png",
+            "trim": {
+              "x": 670,
+              "y": 139,
+              "width": 296,
+              "height": 428,
+              "rotatedWidth": 296,
+              "rotatedHeight": 428
+            },
+            "rawWidth": 296,
+            "rawHeight": 428,
+            "width": 302,
+            "height": 434,
+            "originalPath": "D:/Go99/Client/library/imports/ca/ca6130ee-a9bc-48a5-bf43-afd45090cd56.png",
+            "x": 667,
+            "y": 136,
+            "rotatedWidth": 302,
+            "rotatedHeight": 434
+          },
+          {
+            "name": "bg_time",
+            "uuid": "a7777977-d74d-436a-883e-a6fe088f75e4",
+            "textureUuid": "98ebbd75-ebda-48f9-86f4-3c5cb3e32d12",
+            "path": "D:\\Go99\\Client\\temp\\trimImages\\spritesheet_js_1622889883681_image_33.png",
+            "trim": {
+              "x": 972,
+              "y": 341,
+              "width": 49,
+              "height": 51,
+              "rotatedWidth": 49,
+              "rotatedHeight": 51
+            },
+            "rawWidth": 49,
+            "rawHeight": 51,
+            "width": 55,
+            "height": 57,
+            "originalPath": "D:/Go99/Client/library/imports/98/98ebbd75-ebda-48f9-86f4-3c5cb3e32d12.png",
+            "x": 969,
+            "y": 338,
+            "rotatedWidth": 55,
+            "rotatedHeight": 57
+          },
+          {
+            "name": "ic_user",
+            "uuid": "377f7b6f-b08c-4b77-a8ad-f2e36a45bdc5",
+            "textureUuid": "70eaf7ae-0679-44dc-8e6a-4da1c6f4a633",
+            "path": "D:\\Go99\\Client\\temp\\trimImages\\spritesheet_js_1622889883679_image_15.png",
+            "trim": {
+              "x": 972,
+              "y": 398,
+              "width": 39,
+              "height": 47,
+              "rotatedWidth": 47,
+              "rotatedHeight": 39
+            },
+            "rawWidth": 39,
+            "rawHeight": 47,
+            "width": 45,
+            "height": 53,
+            "originalPath": "D:/Go99/Client/library/imports/70/70eaf7ae-0679-44dc-8e6a-4da1c6f4a633.png",
+            "x": 969,
+            "y": 395,
+            "rotated": true,
+            "rotatedWidth": 53,
+            "rotatedHeight": 45
+          },
+          {
+            "name": "ic_lock",
+            "uuid": "7dd96cae-b78c-4999-9f2b-f6f0d3b2f403",
+            "textureUuid": "ba01d74c-959e-4937-9a2d-20297df9d3bb",
+            "path": "D:\\Go99\\Client\\temp\\trimImages\\spritesheet_js_1622889883680_image_27.png",
+            "trim": {
+              "x": 972,
+              "y": 443,
+              "width": 37,
+              "height": 47,
+              "rotatedWidth": 47,
+              "rotatedHeight": 37
+            },
+            "rawWidth": 37,
+            "rawHeight": 47,
+            "width": 43,
+            "height": 53,
+            "originalPath": "D:/Go99/Client/library/imports/ba/ba01d74c-959e-4937-9a2d-20297df9d3bb.png",
+            "x": 969,
+            "y": 440,
+            "rotated": true,
+            "rotatedWidth": 53,
+            "rotatedHeight": 43
+          },
+          {
+            "name": "T_hu_10k_un",
+            "uuid": "c2d263af-0247-4450-9095-378f022d5a0d",
+            "textureUuid": "64b4c5df-a9a5-4477-a6d8-a04e420d532c",
+            "path": "D:\\Go99\\Client\\temp\\trimImages\\spritesheet_js_1622889883681_image_40.png",
+            "trim": {
+              "x": 972,
+              "y": 486,
+              "width": 44,
+              "height": 22,
+              "rotatedWidth": 44,
+              "rotatedHeight": 22
+            },
+            "rawWidth": 44,
+            "rawHeight": 22,
+            "width": 50,
+            "height": 28,
+            "originalPath": "D:/Go99/Client/library/imports/64/64b4c5df-a9a5-4477-a6d8-a04e420d532c.png",
+            "x": 969,
+            "y": 483,
+            "rotatedWidth": 50,
+            "rotatedHeight": 28
+          },
+          {
+            "name": "T_hu_10k",
+            "uuid": "fff49cb2-99f9-4aae-b532-b4b9f85fae34",
+            "textureUuid": "acfa775a-bb89-4357-bbca-0c1b719f4990",
+            "path": "D:\\Go99\\Client\\temp\\trimImages\\spritesheet_js_1622889883683_image_53.png",
+            "trim": {
+              "x": 972,
+              "y": 514,
+              "width": 44,
+              "height": 22,
+              "rotatedWidth": 44,
+              "rotatedHeight": 22
+            },
+            "rawWidth": 44,
+            "rawHeight": 22,
+            "width": 50,
+            "height": 28,
+            "originalPath": "D:/Go99/Client/library/imports/ac/acfa775a-bb89-4357-bbca-0c1b719f4990.png",
+            "x": 969,
+            "y": 511,
+            "rotatedWidth": 50,
+            "rotatedHeight": 28
+          },
+          {
+            "name": "tabSelect",
+            "uuid": "748dd8e5-4855-4431-add4-b68ba8d22c2b",
+            "textureUuid": "bd18f382-952d-4e2f-963f-968f6480a78f",
+            "path": "D:\\Go99\\Client\\temp\\trimImages\\spritesheet_js_1622889883679_image_23.png",
+            "trim": {
+              "x": 972,
+              "y": 542,
+              "width": 188,
+              "height": 43,
+              "rotatedWidth": 43,
+              "rotatedHeight": 188
+            },
+            "rawWidth": 188,
+            "rawHeight": 43,
+            "width": 194,
+            "height": 49,
+            "originalPath": "D:/Go99/Client/library/imports/bd/bd18f382-952d-4e2f-963f-968f6480a78f.png",
+            "x": 969,
+            "y": 539,
+            "rotated": true,
+            "rotatedWidth": 49,
+            "rotatedHeight": 194
+          },
+          {
+            "name": "round_top_hu",
+            "uuid": "779b8956-413a-42f5-bd14-8a4e121fff5f",
+            "textureUuid": "47100579-65e9-4a63-a4c3-19babe8c7108",
+            "path": "D:\\Go99\\Client\\temp\\trimImages\\spritesheet_js_1622889883680_image_24.png",
+            "trim": {
+              "x": 670,
+              "y": 573,
+              "width": 293,
+              "height": 77,
+              "rotatedWidth": 293,
+              "rotatedHeight": 77
+            },
+            "rawWidth": 293,
+            "rawHeight": 77,
+            "width": 299,
+            "height": 83,
+            "originalPath": "D:/Go99/Client/library/imports/47/47100579-65e9-4a63-a4c3-19babe8c7108.png",
+            "x": 667,
+            "y": 570,
+            "rotatedWidth": 299,
+            "rotatedHeight": 83
+          },
+          {
+            "name": "light_top_hu_1",
+            "uuid": "ba19e4f2-45f9-41d1-b869-e486dfb5f81e",
+            "textureUuid": "f1d9e131-dda1-476e-b311-008611373c0b",
+            "path": "D:\\Go99\\Client\\temp\\trimImages\\spritesheet_js_1622889883681_image_38.png",
+            "trim": {
+              "x": 670,
+              "y": 656,
+              "width": 287,
+              "height": 430,
+              "rotatedWidth": 287,
+              "rotatedHeight": 430
+            },
+            "rawWidth": 287,
+            "rawHeight": 430,
+            "width": 293,
+            "height": 436,
+            "originalPath": "D:/Go99/Client/library/imports/f1/f1d9e131-dda1-476e-b311-008611373c0b.png",
+            "x": 667,
+            "y": 653,
+            "rotatedWidth": 293,
+            "rotatedHeight": 436
+          },
+          {
+            "name": "coin",
+            "uuid": "437ee645-d802-4ba6-8a09-0df2368642f3",
+            "textureUuid": "c217463a-3845-4bc8-b449-838bd763961e",
+            "path": "D:\\Go99\\Client\\temp\\trimImages\\spritesheet_js_1622889883679_image_16.png",
+            "trim": {
+              "x": 963,
+              "y": 736,
+              "width": 58,
+              "height": 56,
+              "rotatedWidth": 58,
+              "rotatedHeight": 56
+            },
+            "rawWidth": 58,
+            "rawHeight": 56,
+            "width": 64,
+            "height": 62,
+            "originalPath": "D:/Go99/Client/library/imports/c2/c217463a-3845-4bc8-b449-838bd763961e.png",
+            "x": 960,
+            "y": 733,
+            "rotatedWidth": 64,
+            "rotatedHeight": 62
+          },
+          {
+            "name": "btn_dangky",
+            "uuid": "6b40a927-e6c5-4285-ad6f-dbfede20f129",
+            "textureUuid": "7e654190-f926-403b-9088-6260ccf71e4e",
+            "path": "D:\\Go99\\Client\\temp\\trimImages\\spritesheet_js_1622889883679_image_19.png",
+            "trim": {
+              "x": 963,
+              "y": 798,
+              "width": 152,
+              "height": 56,
+              "rotatedWidth": 56,
+              "rotatedHeight": 152
+            },
+            "rawWidth": 152,
+            "rawHeight": 56,
+            "width": 158,
+            "height": 62,
+            "originalPath": "D:/Go99/Client/library/imports/7e/7e654190-f926-403b-9088-6260ccf71e4e.png",
+            "x": 960,
+            "y": 795,
+            "rotated": true,
+            "rotatedWidth": 62,
+            "rotatedHeight": 158
+          },
+          {
+            "name": "btn_dangnhap",
+            "uuid": "9eaa66c0-9936-41c3-8a69-5d5722f3133a",
+            "textureUuid": "eeff7747-17fa-495e-9c5e-f52b92183523",
+            "path": "D:\\Go99\\Client\\temp\\trimImages\\spritesheet_js_1622889883680_image_31.png",
+            "trim": {
+              "x": 963,
+              "y": 956,
+              "width": 152,
+              "height": 56,
+              "rotatedWidth": 56,
+              "rotatedHeight": 152
+            },
+            "rawWidth": 152,
+            "rawHeight": 56,
+            "width": 158,
+            "height": 62,
+            "originalPath": "D:/Go99/Client/library/imports/ee/eeff7747-17fa-495e-9c5e-f52b92183523.png",
+            "x": 960,
+            "y": 953,
+            "rotated": true,
+            "rotatedWidth": 62,
+            "rotatedHeight": 158
+          },
+          {
+            "name": "light_top_hu_2",
+            "uuid": "f004f2da-b90e-4782-8b2d-4fdfd0d6b930",
+            "textureUuid": "23de9a02-917e-4a77-a9ca-670d48e33ebf",
+            "path": "D:\\Go99\\Client\\temp\\trimImages\\spritesheet_js_1622889883682_image_48.png",
+            "trim": {
+              "x": 3,
+              "y": 1114,
+              "width": 287,
+              "height": 430,
+              "rotatedWidth": 430,
+              "rotatedHeight": 287
+            },
+            "rawWidth": 287,
+            "rawHeight": 430,
+            "width": 293,
+            "height": 436,
+            "originalPath": "D:/Go99/Client/library/imports/23/23de9a02-917e-4a77-a9ca-670d48e33ebf.png",
+            "x": 0,
+            "y": 1111,
+            "rotated": true,
+            "rotatedWidth": 436,
+            "rotatedHeight": 293
+          },
+          {
+            "name": "btn_facebook",
+            "uuid": "7e5110bd-a045-4b43-8428-d2016ab8be14",
+            "textureUuid": "c2a964e7-9d03-4433-834f-24e95c985f5d",
+            "path": "D:\\Go99\\Client\\temp\\trimImages\\spritesheet_js_1622889883680_image_28.png",
+            "trim": {
+              "x": 439,
+              "y": 670,
+              "width": 218,
+              "height": 86,
+              "rotatedWidth": 218,
+              "rotatedHeight": 86
+            },
+            "rawWidth": 218,
+            "rawHeight": 86,
+            "width": 224,
+            "height": 92,
+            "originalPath": "D:/Go99/Client/library/imports/c2/c2a964e7-9d03-4433-834f-24e95c985f5d.png",
+            "x": 436,
+            "y": 667,
+            "rotatedWidth": 224,
+            "rotatedHeight": 92
+          },
+          {
+            "name": "icon-loading",
+            "uuid": "1d0051e2-79b5-4c83-ba8e-4be5d8652e42",
+            "textureUuid": "22e6a20f-f97d-4b17-8c75-55565c36cb86",
+            "path": "D:\\Go99\\Client\\temp\\trimImages\\spritesheet_js_1622889883677_image_8.png",
+            "trim": {
+              "x": 439,
+              "y": 762,
+              "width": 190,
+              "height": 191,
+              "rotatedWidth": 191,
+              "rotatedHeight": 190
+            },
+            "rawWidth": 190,
+            "rawHeight": 191,
+            "width": 196,
+            "height": 197,
+            "originalPath": "D:/Go99/Client/library/imports/22/22e6a20f-f97d-4b17-8c75-55565c36cb86.png",
+            "x": 436,
+            "y": 759,
+            "rotated": true,
+            "rotatedWidth": 197,
+            "rotatedHeight": 196
+          },
+          {
+            "name": "baucua",
+            "uuid": "e64ed5df-12ba-4c4d-a699-f680a44aa04b",
+            "textureUuid": "edef152f-20f4-4889-b4ee-8e4eddffd93a",
+            "path": "D:\\Go99\\Client\\temp\\trimImages\\spritesheet_js_1622889883682_image_47.png",
+            "trim": {
+              "x": 3,
+              "y": 958,
+              "width": 149,
+              "height": 160,
+              "rotatedWidth": 160,
+              "rotatedHeight": 149
+            },
+            "rawWidth": 149,
+            "rawHeight": 160,
+            "width": 155,
+            "height": 166,
+            "originalPath": "D:/Go99/Client/library/imports/ed/edef152f-20f4-4889-b4ee-8e4eddffd93a.png",
+            "x": 0,
+            "y": 955,
+            "rotated": true,
+            "rotatedWidth": 166,
+            "rotatedHeight": 155
+          },
+          {
+            "name": "chimdien",
+            "uuid": "065dc15a-e278-4f14-af82-c2cf50b860c7",
+            "textureUuid": "cbdecc97-cbab-42f9-98c6-42ef2992c414",
+            "path": "D:\\Go99\\Client\\temp\\trimImages\\spritesheet_js_1622889883676_image_1.png",
+            "trim": {
+              "x": 169,
+              "y": 958,
+              "width": 148,
+              "height": 137,
+              "rotatedWidth": 137,
+              "rotatedHeight": 148
+            },
+            "rawWidth": 148,
+            "rawHeight": 137,
+            "width": 154,
+            "height": 143,
+            "originalPath": "D:/Go99/Client/library/imports/cb/cbdecc97-cbab-42f9-98c6-42ef2992c414.png",
+            "x": 166,
+            "y": 955,
+            "rotated": true,
+            "rotatedWidth": 143,
+            "rotatedHeight": 154
+          },
+          {
+            "name": "t_hu_100",
+            "uuid": "1df3601e-8acd-4c85-9d80-ae8d19223980",
+            "textureUuid": "512c641d-85ca-4585-9663-647042f9f9f6",
+            "path": "D:\\Go99\\Client\\temp\\trimImages\\spritesheet_js_1622889883678_image_9.png",
+            "trim": {
+              "x": 636,
+              "y": 762,
+              "width": 43,
+              "height": 22,
+              "rotatedWidth": 22,
+              "rotatedHeight": 43
+            },
+            "rawWidth": 43,
+            "rawHeight": 22,
+            "width": 49,
+            "height": 28,
+            "originalPath": "D:/Go99/Client/library/imports/51/512c641d-85ca-4585-9663-647042f9f9f6.png",
+            "x": 633,
+            "y": 759,
+            "rotated": true,
+            "rotatedWidth": 28,
+            "rotatedHeight": 49
+          },
+          {
+            "name": "t_hu_100_un",
+            "uuid": "b181992c-826a-498e-a553-d4a181cf2697",
+            "textureUuid": "c152b41c-9ec1-4637-ae44-205a8d10157e",
+            "path": "D:\\Go99\\Client\\temp\\trimImages\\spritesheet_js_1622889883681_image_35.png",
+            "trim": {
+              "x": 636,
+              "y": 811,
+              "width": 43,
+              "height": 22,
+              "rotatedWidth": 22,
+              "rotatedHeight": 43
+            },
+            "rawWidth": 43,
+            "rawHeight": 22,
+            "width": 49,
+            "height": 28,
+            "originalPath": "D:/Go99/Client/library/imports/c1/c152b41c-9ec1-4637-ae44-205a8d10157e.png",
+            "x": 633,
+            "y": 808,
+            "rotated": true,
+            "rotatedWidth": 28,
+            "rotatedHeight": 49
+          },
+          {
+            "name": "t_hu_1k_un",
+            "uuid": "73859cd7-7da3-4027-81d5-1b636e986564",
+            "textureUuid": "fff3125d-9811-4972-b3e3-8547e574c76d",
+            "path": "D:\\Go99\\Client\\temp\\trimImages\\spritesheet_js_1622889883679_image_22.png",
+            "trim": {
+              "x": 636,
+              "y": 860,
+              "width": 30,
+              "height": 21,
+              "rotatedWidth": 21,
+              "rotatedHeight": 30
+            },
+            "rawWidth": 30,
+            "rawHeight": 21,
+            "width": 36,
+            "height": 27,
+            "originalPath": "D:/Go99/Client/library/imports/ff/fff3125d-9811-4972-b3e3-8547e574c76d.png",
+            "x": 633,
+            "y": 857,
+            "rotated": true,
+            "rotatedWidth": 27,
+            "rotatedHeight": 36
+          },
+          {
+            "name": "t_hu_1k",
+            "uuid": "f388aeed-3e4b-4831-a3ce-27f4dbaff50c",
+            "textureUuid": "be85f96e-e386-4c4d-b80d-cbda0f6f1290",
+            "path": "D:\\Go99\\Client\\temp\\trimImages\\spritesheet_js_1622889883682_image_49.png",
+            "trim": {
+              "x": 636,
+              "y": 896,
+              "width": 30,
+              "height": 21,
+              "rotatedWidth": 21,
+              "rotatedHeight": 30
+            },
+            "rawWidth": 30,
+            "rawHeight": 21,
+            "width": 36,
+            "height": 27,
+            "originalPath": "D:/Go99/Client/library/imports/be/be85f96e-e386-4c4d-b80d-cbda0f6f1290.png",
+            "x": 633,
+            "y": 893,
+            "rotated": true,
+            "rotatedWidth": 27,
+            "rotatedHeight": 36
+          },
+          {
+            "name": "caothap",
+            "uuid": "d0509950-2dfc-4bf4-80d7-74e1cc2fa6ff",
+            "textureUuid": "235c7305-cdd9-48fb-af14-61165035e52b",
+            "path": "D:\\Go99\\Client\\temp\\trimImages\\spritesheet_js_1622889883682_image_43.png",
+            "trim": {
+              "x": 312,
+              "y": 958,
+              "width": 142,
+              "height": 163,
+              "rotatedWidth": 163,
+              "rotatedHeight": 142
+            },
+            "rawWidth": 142,
+            "rawHeight": 163,
+            "width": 148,
+            "height": 169,
+            "originalPath": "D:/Go99/Client/library/imports/23/235c7305-cdd9-48fb-af14-61165035e52b.png",
+            "x": 309,
+            "y": 955,
+            "rotated": true,
+            "rotatedWidth": 169,
+            "rotatedHeight": 148
+          },
+          {
+            "name": "ic_noti_new",
+            "uuid": "fd572cad-d677-454b-af01-6a4f3c548dcb",
+            "textureUuid": "f730ac7a-51e0-4389-b204-0168f19685d1",
+            "path": "D:\\Go99\\Client\\temp\\trimImages\\spritesheet_js_1622889883683_image_52.png",
+            "trim": {
+              "x": 636,
+              "y": 932,
+              "width": 20,
+              "height": 20,
+              "rotatedWidth": 20,
+              "rotatedHeight": 20
+            },
+            "rawWidth": 20,
+            "rawHeight": 20,
+            "width": 26,
+            "height": 26,
+            "originalPath": "D:/Go99/Client/library/imports/f7/f730ac7a-51e0-4389-b204-0168f19685d1.png",
+            "x": 633,
+            "y": 929,
+            "rotatedWidth": 26,
+            "rotatedHeight": 26
+          },
+          {
+            "name": "minipoker",
+            "uuid": "35326018-55ae-4ca5-98eb-539805170e0d",
+            "textureUuid": "773729e0-08f2-46e3-8101-ed57846d6c82",
+            "path": "D:\\Go99\\Client\\temp\\trimImages\\spritesheet_js_1622889883678_image_14.png",
+            "trim": {
+              "x": 481,
+              "y": 958,
+              "width": 164,
+              "height": 137,
+              "rotatedWidth": 164,
+              "rotatedHeight": 137
+            },
+            "rawWidth": 164,
+            "rawHeight": 137,
+            "width": 170,
+            "height": 143,
+            "originalPath": "D:/Go99/Client/library/imports/77/773729e0-08f2-46e3-8101-ed57846d6c82.png",
+            "x": 478,
+            "y": 955,
+            "rotatedWidth": 170,
+            "rotatedHeight": 143
+          },
+          {
+            "name": "tabUnselect",
+            "uuid": "d5b02493-7a9d-48f3-8c72-8213ee74d518",
+            "textureUuid": "a2c7843c-bf2e-42df-a143-dedef3820a16",
+            "path": "D:\\Go99\\Client\\temp\\trimImages\\spritesheet_js_1622889883682_image_45.png",
+            "trim": {
+              "x": 3,
+              "y": 670,
+              "width": 188,
+              "height": 43,
+              "rotatedWidth": 43,
+              "rotatedHeight": 188
+            },
+            "rawWidth": 188,
+            "rawHeight": 43,
+            "width": 194,
+            "height": 49,
+            "originalPath": "D:/Go99/Client/library/imports/a2/a2c7843c-bf2e-42df-a143-dedef3820a16.png",
+            "x": 0,
+            "y": 667,
+            "rotated": true,
+            "rotatedWidth": 49,
+            "rotatedHeight": 194
+          },
+          {
+            "name": "ic_setting",
+            "uuid": "f85ca2bd-3430-4170-9730-b8b19fca1de8",
+            "textureUuid": "248e314b-11eb-4508-911d-4e9e027a0755",
+            "path": "D:\\Go99\\Client\\temp\\trimImages\\spritesheet_js_1622889883682_image_50.png",
+            "trim": {
+              "x": 3,
+              "y": 864,
+              "width": 81,
+              "height": 83,
+              "rotatedWidth": 81,
+              "rotatedHeight": 83
+            },
+            "rawWidth": 81,
+            "rawHeight": 83,
+            "width": 87,
+            "height": 89,
+            "originalPath": "D:/Go99/Client/library/imports/24/248e314b-11eb-4508-911d-4e9e027a0755.png",
+            "x": 0,
+            "y": 861,
+            "rotatedWidth": 87,
+            "rotatedHeight": 89
+          },
+          {
+            "name": "mng_btn",
+            "uuid": "26d0bf39-af73-4643-9cd2-6c98e269d152",
+            "textureUuid": "4f180b33-f1d0-46c2-b710-365ff7fb2fab",
+            "path": "D:\\Go99\\Client\\temp\\trimImages\\spritesheet_js_1622889883678_image_11.png",
+            "trim": {
+              "x": 52,
+              "y": 670,
+              "width": 151,
+              "height": 151,
+              "rotatedWidth": 151,
+              "rotatedHeight": 151
+            },
+            "rawWidth": 151,
+            "rawHeight": 151,
+            "width": 157,
+            "height": 157,
+            "originalPath": "D:/Go99/Client/library/imports/4f/4f180b33-f1d0-46c2-b710-365ff7fb2fab.png",
+            "x": 49,
+            "y": 667,
+            "rotatedWidth": 157,
+            "rotatedHeight": 157
+          },
+          {
+            "name": "ic_top_hu",
+            "uuid": "b2aaa4f2-0b69-4b8d-9c79-965f56a26bd9",
+            "textureUuid": "25d24a89-3de1-4017-ae1e-690f159942eb",
+            "path": "D:\\Go99\\Client\\temp\\trimImages\\spritesheet_js_1622889883681_image_36.png",
+            "trim": {
+              "x": 90,
+              "y": 827,
+              "width": 113,
+              "height": 97,
+              "rotatedWidth": 97,
+              "rotatedHeight": 113
+            },
+            "rawWidth": 113,
+            "rawHeight": 97,
+            "width": 119,
+            "height": 103,
+            "originalPath": "D:/Go99/Client/library/imports/25/25d24a89-3de1-4017-ae1e-690f159942eb.png",
+            "x": 87,
+            "y": 824,
+            "rotated": true,
+            "rotatedWidth": 103,
+            "rotatedHeight": 119
+          },
+          {
+            "name": "bg_avatar",
+            "uuid": "c9933dfd-805c-4f15-8338-6bd7f71eb306",
+            "textureUuid": "cb779c96-0dd8-41a1-8f6f-597a1dafd259",
+            "path": "D:\\Go99\\Client\\temp\\trimImages\\spritesheet_js_1622889883682_image_42.png",
+            "trim": {
+              "x": 193,
+              "y": 827,
+              "width": 111,
+              "height": 111,
+              "rotatedWidth": 111,
+              "rotatedHeight": 111
+            },
+            "rawWidth": 111,
+            "rawHeight": 111,
+            "width": 117,
+            "height": 117,
+            "originalPath": "D:/Go99/Client/library/imports/cb/cb779c96-0dd8-41a1-8f6f-597a1dafd259.png",
+            "x": 190,
+            "y": 824,
+            "rotatedWidth": 117,
+            "rotatedHeight": 117
+          },
+          {
+            "name": "bigbaboll",
+            "uuid": "10a96f5a-5e91-408b-9ea2-92c4ce5d3d08",
+            "textureUuid": "c707d23b-7899-478a-b7ff-949eca0ec578",
+            "path": "D:\\Go99\\Client\\temp\\trimImages\\spritesheet_js_1622889883676_image_4.png",
+            "trim": {
+              "x": 209,
+              "y": 670,
+              "width": 141,
+              "height": 142,
+              "rotatedWidth": 141,
+              "rotatedHeight": 142
+            },
+            "rawWidth": 141,
+            "rawHeight": 142,
+            "width": 147,
+            "height": 148,
+            "originalPath": "D:/Go99/Client/library/imports/c7/c707d23b-7899-478a-b7ff-949eca0ec578.png",
+            "x": 206,
+            "y": 667,
+            "rotatedWidth": 147,
+            "rotatedHeight": 148
+          },
+          {
+            "name": "ic_cao_thap",
+            "uuid": "94fb6dbb-1c46-4a47-9bbb-378235e4b3ca",
+            "textureUuid": "d21959eb-d83f-4de9-ab72-3996d5613dfc",
+            "path": "D:\\Go99\\Client\\temp\\trimImages\\spritesheet_js_1622889883680_image_29.png",
+            "trim": {
+              "x": 356,
+              "y": 670,
+              "width": 76,
+              "height": 92,
+              "rotatedWidth": 76,
+              "rotatedHeight": 92
+            },
+            "rawWidth": 76,
+            "rawHeight": 92,
+            "width": 82,
+            "height": 98,
+            "originalPath": "D:/Go99/Client/library/imports/d2/d21959eb-d83f-4de9-ab72-3996d5613dfc.png",
+            "x": 353,
+            "y": 667,
+            "rotatedWidth": 82,
+            "rotatedHeight": 98
+          },
+          {
+            "name": "ic_chuyen_tien",
+            "uuid": "2ff17af8-9eb5-4775-ac8c-c45442bd32e5",
+            "textureUuid": "f14349ef-eef2-4bb9-9f4d-ab33d989de19",
+            "path": "D:\\Go99\\Client\\temp\\trimImages\\spritesheet_js_1622889883678_image_13.png",
+            "trim": {
+              "x": 356,
+              "y": 768,
+              "width": 78,
+              "height": 73,
+              "rotatedWidth": 73,
+              "rotatedHeight": 78
+            },
+            "rawWidth": 78,
+            "rawHeight": 73,
+            "width": 84,
+            "height": 79,
+            "originalPath": "D:/Go99/Client/library/imports/f1/f14349ef-eef2-4bb9-9f4d-ab33d989de19.png",
+            "x": 353,
+            "y": 765,
+            "rotated": true,
+            "rotatedWidth": 79,
+            "rotatedHeight": 84
+          },
+          {
+            "name": "ic_event",
+            "uuid": "0a5cac79-ced1-4d1b-b768-344a37d3478d",
+            "textureUuid": "9a5bbbb6-4806-4157-bb62-fd2528d1f996",
+            "path": "D:\\Go99\\Client\\temp\\trimImages\\spritesheet_js_1622889883676_image_3.png",
+            "trim": {
+              "x": 310,
+              "y": 852,
+              "width": 79,
+              "height": 97,
+              "rotatedWidth": 79,
+              "rotatedHeight": 97
+            },
+            "rawWidth": 79,
+            "rawHeight": 97,
+            "width": 85,
+            "height": 103,
+            "originalPath": "D:/Go99/Client/library/imports/9a/9a5bbbb6-4806-4157-bb62-fd2528d1f996.png",
+            "x": 307,
+            "y": 849,
+            "rotatedWidth": 85,
+            "rotatedHeight": 103
+          },
+          {
+            "name": "3cay",
+            "uuid": "9c1cbc5d-ee43-457e-8711-e59e260701cb",
+            "textureUuid": "3816c69d-5547-4bf2-94a1-e5c37c145891",
+            "path": "D:\\Go99\\Client\\temp\\trimImages\\spritesheet_js_1622889883680_image_30.png",
+            "trim": {
+              "x": 439,
+              "y": 1114,
+              "width": 137,
+              "height": 137,
+              "rotatedWidth": 137,
+              "rotatedHeight": 137
+            },
+            "rawWidth": 137,
+            "rawHeight": 137,
+            "width": 143,
+            "height": 143,
+            "originalPath": "D:/Go99/Client/library/imports/38/3816c69d-5547-4bf2-94a1-e5c37c145891.png",
+            "x": 436,
+            "y": 1111,
+            "rotatedWidth": 143,
+            "rotatedHeight": 143
+          },
+          {
+            "name": "tx",
+            "uuid": "c5bc6e78-53ce-49b3-87e1-6c5715d7fac6",
+            "textureUuid": "f6c0edf5-0077-4ee9-a611-4b8f02c8649b",
+            "path": "D:\\Go99\\Client\\temp\\trimImages\\spritesheet_js_1622889883681_image_41.png",
+            "trim": {
+              "x": 439,
+              "y": 1257,
+              "width": 137,
+              "height": 137,
+              "rotatedWidth": 137,
+              "rotatedHeight": 137
+            },
+            "rawWidth": 137,
+            "rawHeight": 137,
+            "width": 143,
+            "height": 143,
+            "originalPath": "D:/Go99/Client/library/imports/f6/f6c0edf5-0077-4ee9-a611-4b8f02c8649b.png",
+            "x": 436,
+            "y": 1254,
+            "rotatedWidth": 143,
+            "rotatedHeight": 143
+          },
+          {
+            "name": "ic_telegram",
+            "uuid": "1aeed2ba-bbd7-4f23-a0f2-b3708edb582b",
+            "textureUuid": "de5438fa-1cac-490f-9be0-214668db3d77",
+            "path": "D:\\Go99\\Client\\temp\\trimImages\\spritesheet_js_1622889883677_image_7.png",
+            "trim": {
+              "x": 582,
+              "y": 1114,
+              "width": 79,
+              "height": 97,
+              "rotatedWidth": 79,
+              "rotatedHeight": 97
+            },
+            "rawWidth": 79,
+            "rawHeight": 97,
+            "width": 85,
+            "height": 103,
+            "originalPath": "D:/Go99/Client/library/imports/de/de5438fa-1cac-490f-9be0-214668db3d77.png",
+            "x": 579,
+            "y": 1111,
+            "rotatedWidth": 85,
+            "rotatedHeight": 103
+          },
+          {
+            "name": "ic_giftcode",
+            "uuid": "6dccf976-7820-4c8d-9f51-dbce4db9a534",
+            "textureUuid": "9735117a-3007-413d-af9e-05287c01885f",
+            "path": "D:\\Go99\\Client\\temp\\trimImages\\spritesheet_js_1622889883679_image_20.png",
+            "trim": {
+              "x": 582,
+              "y": 1217,
+              "width": 79,
+              "height": 97,
+              "rotatedWidth": 79,
+              "rotatedHeight": 97
+            },
+            "rawWidth": 79,
+            "rawHeight": 97,
+            "width": 85,
+            "height": 103,
+            "originalPath": "D:/Go99/Client/library/imports/97/9735117a-3007-413d-af9e-05287c01885f.png",
+            "x": 579,
+            "y": 1214,
+            "rotatedWidth": 85,
+            "rotatedHeight": 103
+          },
+          {
+            "name": "ic_mess",
+            "uuid": "791feb1e-824e-4c84-917c-83e803b67b65",
+            "textureUuid": "d10c064f-1d0c-47ae-bfe2-46f56be019dc",
+            "path": "D:\\Go99\\Client\\temp\\trimImages\\spritesheet_js_1622889883680_image_25.png",
+            "trim": {
+              "x": 582,
+              "y": 1320,
+              "width": 82,
+              "height": 60,
+              "rotatedWidth": 60,
+              "rotatedHeight": 82
+            },
+            "rawWidth": 82,
+            "rawHeight": 60,
+            "width": 88,
+            "height": 66,
+            "originalPath": "D:/Go99/Client/library/imports/d1/d10c064f-1d0c-47ae-bfe2-46f56be019dc.png",
+            "x": 579,
+            "y": 1317,
+            "rotated": true,
+            "rotatedWidth": 66,
+            "rotatedHeight": 88
+          },
+          {
+            "name": "icon_poker",
+            "uuid": "6932cf7a-e134-433b-ad56-faffe2d0077f",
+            "textureUuid": "1665c301-9fe1-457f-8471-1de413ef9816",
+            "path": "D:\\Go99\\Client\\temp\\trimImages\\spritesheet_js_1622889883679_image_18.png",
+            "trim": {
+              "x": 648,
+              "y": 1320,
+              "width": 81,
+              "height": 66,
+              "rotatedWidth": 66,
+              "rotatedHeight": 81
+            },
+            "rawWidth": 81,
+            "rawHeight": 66,
+            "width": 87,
+            "height": 72,
+            "originalPath": "D:/Go99/Client/library/imports/16/1665c301-9fe1-457f-8471-1de413ef9816.png",
+            "x": 645,
+            "y": 1317,
+            "rotated": true,
+            "rotatedWidth": 72,
+            "rotatedHeight": 87
+          },
+          {
+            "name": "ic_fanpage",
+            "uuid": "bb35eaad-d934-4ce9-84fd-6303668f8d1f",
+            "textureUuid": "7e5fba93-c1dc-47d4-9e87-236035019787",
+            "path": "D:\\Go99\\Client\\temp\\trimImages\\spritesheet_js_1622889883681_image_39.png",
+            "trim": {
+              "x": 667,
+              "y": 1114,
+              "width": 79,
+              "height": 97,
+              "rotatedWidth": 79,
+              "rotatedHeight": 97
+            },
+            "rawWidth": 79,
+            "rawHeight": 97,
+            "width": 85,
+            "height": 103,
+            "originalPath": "D:/Go99/Client/library/imports/7e/7e5fba93-c1dc-47d4-9e87-236035019787.png",
+            "x": 664,
+            "y": 1111,
+            "rotatedWidth": 85,
+            "rotatedHeight": 103
+          },
+          {
+            "name": "ic_back",
+            "uuid": "1915f03c-6e69-463b-9710-7eaa219cec74",
+            "textureUuid": "8a5eab5a-cea5-43c1-8ff1-661112b4e9e6",
+            "path": "D:\\Go99\\Client\\temp\\trimImages\\spritesheet_js_1622889883677_image_6.png",
+            "trim": {
+              "x": 667,
+              "y": 1217,
+              "width": 96,
+              "height": 80,
+              "rotatedWidth": 80,
+              "rotatedHeight": 96
+            },
+            "rawWidth": 96,
+            "rawHeight": 80,
+            "width": 102,
+            "height": 86,
+            "originalPath": "D:/Go99/Client/library/imports/8a/8a5eab5a-cea5-43c1-8ff1-661112b4e9e6.png",
+            "x": 664,
+            "y": 1214,
+            "rotated": true,
+            "rotatedWidth": 86,
+            "rotatedHeight": 102
+          },
+          {
+            "name": "ic_nap_the",
+            "uuid": "09fc93d8-4eb8-432c-8b33-a741d535e450",
+            "textureUuid": "33c0ea94-bf04-49d5-9dd2-736b9d33b483",
+            "path": "D:\\Go99\\Client\\temp\\trimImages\\spritesheet_js_1622889883676_image_2.png",
+            "trim": {
+              "x": 720,
+              "y": 1319,
+              "width": 73,
+              "height": 73,
+              "rotatedWidth": 73,
+              "rotatedHeight": 73
+            },
+            "rawWidth": 73,
+            "rawHeight": 73,
+            "width": 79,
+            "height": 79,
+            "originalPath": "D:/Go99/Client/library/imports/33/33c0ea94-bf04-49d5-9dd2-736b9d33b483.png",
+            "x": 717,
+            "y": 1316,
+            "rotatedWidth": 79,
+            "rotatedHeight": 79
+          },
+          {
+            "name": "ic_than_long",
+            "uuid": "16ea09fb-1cec-42b5-96fe-688c9e4dee53",
+            "textureUuid": "1238e368-4c6d-47ee-9fcf-9f73e20bb349",
+            "path": "D:\\Go99\\Client\\temp\\trimImages\\spritesheet_js_1622889883677_image_5.png",
+            "trim": {
+              "x": 752,
+              "y": 1114,
+              "width": 66,
+              "height": 66,
+              "rotatedWidth": 66,
+              "rotatedHeight": 66
+            },
+            "rawWidth": 66,
+            "rawHeight": 66,
+            "width": 72,
+            "height": 72,
+            "originalPath": "D:/Go99/Client/library/imports/12/1238e368-4c6d-47ee-9fcf-9f73e20bb349.png",
+            "x": 749,
+            "y": 1111,
+            "rotatedWidth": 72,
+            "rotatedHeight": 72
+          },
+          {
+            "name": "ic_zeus",
+            "uuid": "23553b87-a8bc-404a-8bf2-a17641705850",
+            "textureUuid": "8a1b692b-89ae-41a7-8514-903fc26e5085",
+            "path": "D:\\Go99\\Client\\temp\\trimImages\\spritesheet_js_1622889883678_image_10.png",
+            "trim": {
+              "x": 753,
+              "y": 1186,
+              "width": 66,
+              "height": 66,
+              "rotatedWidth": 66,
+              "rotatedHeight": 66
+            },
+            "rawWidth": 66,
+            "rawHeight": 66,
+            "width": 72,
+            "height": 72,
+            "originalPath": "D:/Go99/Client/library/imports/8a/8a1b692b-89ae-41a7-8514-903fc26e5085.png",
+            "x": 750,
+            "y": 1183,
+            "rotatedWidth": 72,
+            "rotatedHeight": 72
+          },
+          {
+            "name": "ic_candy",
+            "uuid": "2cd8abff-4a9b-4bad-a8e8-77d6e0c9df7d",
+            "textureUuid": "f435833d-3463-4e56-b42b-fd12892b8645",
+            "path": "D:\\Go99\\Client\\temp\\trimImages\\spritesheet_js_1622889883678_image_12.png",
+            "trim": {
+              "x": 824,
+              "y": 1114,
+              "width": 66,
+              "height": 66,
+              "rotatedWidth": 66,
+              "rotatedHeight": 66
+            },
+            "rawWidth": 66,
+            "rawHeight": 66,
+            "width": 72,
+            "height": 72,
+            "originalPath": "D:/Go99/Client/library/imports/f4/f435833d-3463-4e56-b42b-fd12892b8645.png",
+            "x": 821,
+            "y": 1111,
+            "rotatedWidth": 72,
+            "rotatedHeight": 72
+          },
+          {
+            "name": "ic_tam_hung",
+            "uuid": "5d149496-aacb-4fa7-80f7-68b053447f44",
+            "textureUuid": "3ec02037-4f56-4705-b572-ca7be4561105",
+            "path": "D:\\Go99\\Client\\temp\\trimImages\\spritesheet_js_1622889883679_image_17.png",
+            "trim": {
+              "x": 896,
+              "y": 1114,
+              "width": 66,
+              "height": 66,
+              "rotatedWidth": 66,
+              "rotatedHeight": 66
+            },
+            "rawWidth": 66,
+            "rawHeight": 66,
+            "width": 72,
+            "height": 72,
+            "originalPath": "D:/Go99/Client/library/imports/3e/3ec02037-4f56-4705-b572-ca7be4561105.png",
+            "x": 893,
+            "y": 1111,
+            "rotatedWidth": 72,
+            "rotatedHeight": 72
+          },
+          {
+            "name": "ic_chim_dien",
+            "uuid": "70c8ee8c-0650-4f41-b75c-cd4fe94ec2ea",
+            "textureUuid": "1c56b58b-9cd0-44e5-bcd1-7e63462a7575",
+            "path": "D:\\Go99\\Client\\temp\\trimImages\\spritesheet_js_1622889883679_image_21.png",
+            "trim": {
+              "x": 799,
+              "y": 1258,
+              "width": 66,
+              "height": 66,
+              "rotatedWidth": 66,
+              "rotatedHeight": 66
+            },
+            "rawWidth": 66,
+            "rawHeight": 66,
+            "width": 72,
+            "height": 72,
+            "originalPath": "D:/Go99/Client/library/imports/1c/1c56b58b-9cd0-44e5-bcd1-7e63462a7575.png",
+            "x": 796,
+            "y": 1255,
+            "rotatedWidth": 72,
+            "rotatedHeight": 72
+          },
+          {
+            "name": "ic_mini_3cay",
+            "uuid": "7bc16fb3-7ebe-42f0-b465-98977c61bd7d",
+            "textureUuid": "7ad9bd3f-6004-48e4-a895-7d1ca2c836f8",
+            "path": "D:\\Go99\\Client\\temp\\trimImages\\spritesheet_js_1622889883680_image_26.png",
+            "trim": {
+              "x": 825,
+              "y": 1186,
+              "width": 66,
+              "height": 66,
+              "rotatedWidth": 66,
+              "rotatedHeight": 66
+            },
+            "rawWidth": 66,
+            "rawHeight": 66,
+            "width": 72,
+            "height": 72,
+            "originalPath": "D:/Go99/Client/library/imports/7a/7ad9bd3f-6004-48e4-a895-7d1ca2c836f8.png",
+            "x": 822,
+            "y": 1183,
+            "rotatedWidth": 72,
+            "rotatedHeight": 72
+          },
+          {
+            "name": "ic_bigbaboll",
+            "uuid": "aa4b23bb-c4aa-48a8-9552-9000a65fbc25",
+            "textureUuid": "efd79e66-baf6-4a52-bc67-ac4b2ec8452b",
+            "path": "D:\\Go99\\Client\\temp\\trimImages\\spritesheet_js_1622889883681_image_34.png",
+            "trim": {
+              "x": 799,
+              "y": 1330,
+              "width": 66,
+              "height": 66,
+              "rotatedWidth": 66,
+              "rotatedHeight": 66
+            },
+            "rawWidth": 66,
+            "rawHeight": 66,
+            "width": 72,
+            "height": 72,
+            "originalPath": "D:/Go99/Client/library/imports/ef/efd79e66-baf6-4a52-bc67-ac4b2ec8452b.png",
+            "x": 796,
+            "y": 1327,
+            "rotatedWidth": 72,
+            "rotatedHeight": 72
+          },
+          {
+            "name": "ic_kho_bau_red",
+            "uuid": "e306bfa2-8f75-42e3-b80f-38df030c1892",
+            "textureUuid": "43b5fb74-71be-4e49-92a0-4e76be48e56c",
+            "path": "D:\\Go99\\Client\\temp\\trimImages\\spritesheet_js_1622889883682_image_46.png",
+            "trim": {
+              "x": 897,
+              "y": 1186,
+              "width": 66,
+              "height": 66,
+              "rotatedWidth": 66,
+              "rotatedHeight": 66
+            },
+            "rawWidth": 66,
+            "rawHeight": 66,
+            "width": 72,
+            "height": 72,
+            "originalPath": "D:/Go99/Client/library/imports/43/43b5fb74-71be-4e49-92a0-4e76be48e56c.png",
+            "x": 894,
+            "y": 1183,
+            "rotatedWidth": 72,
+            "rotatedHeight": 72
+          }
+        ],
+        "width": 1024,
+        "height": 1405,
+        "name": "AutoAtlas-1",
+        "imagePath": "D:\\Go99\\Client\\temp\\TexturePacker\\build\\raw-assets\\resources\\textures\\lobby\\pack\\AutoAtlas.pac\\AutoAtlas-1.png",
+        "compressd": {
+          "suffix": [
+            ".png"
+          ],
+          "imagePathNoExt": "D:\\Go99\\Client\\temp\\TexturePacker\\build\\raw-assets\\resources\\textures\\lobby\\pack\\AutoAtlas.pac\\compressed\\AutoAtlas-1"
+        }
+      }
+    ],
+    "unpackedTextures": []
+  }
+}

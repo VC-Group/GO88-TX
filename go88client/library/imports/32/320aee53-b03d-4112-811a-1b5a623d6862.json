@@ -1,0 +1,14 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "muiten.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "btn_phai": {
+      "__uuid__": "af7e8fa4-d083-4b3e-94ee-b545860c1096"
+    },
+    "btn_trai": {
+      "__uuid__": "5e2746c1-92fc-4e85-8a1f-fa9f79f5dac6"
+    }
+  }
+}

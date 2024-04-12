@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "CapThapV2.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "bg": {
+      "__uuid__": "69b22c84-ca0f-4006-8216-c651025e626d"
+    },
+    "btn_dow": {
+      "__uuid__": "e53ebd73-a907-4233-b79e-e2ed127772bc"
+    },
+    "btn_new": {
+      "__uuid__": "5ad45f9b-443c-481f-8db2-37e5dd3c9abc"
+    },
+    "btn_up": {
+      "__uuid__": "fe25511a-b24c-4346-bb88-753a6624b0c8"
+    },
+    "card": {
+      "__uuid__": "68ec28d7-a30d-4995-bf19-7b542dc90aa0"
+    },
+    "cardA": {
+      "__uuid__": "d0a65927-f07c-4be6-9495-4bbf10e87541"
+    },
+    "log": {
+      "__uuid__": "342c3486-1b77-4e98-b064-f00f9d9d9f3a"
+    }
+  }
+}

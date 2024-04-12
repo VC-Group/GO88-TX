@@ -1,0 +1,20 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "icon_baucua.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "bc3": {
+      "__uuid__": "70bd4896-683d-43de-806e-ef83e981a1bc"
+    },
+    "bc4": {
+      "__uuid__": "985a63ad-a671-49f7-9bfa-84be62b9309a"
+    },
+    "bg_bc": {
+      "__uuid__": "0bfa9f22-7073-4b59-80b3-2b63b01c2fad"
+    },
+    "cua1": {
+      "__uuid__": "a7eb8f96-9fa7-471f-91fa-832ab0226494"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "momopay",
+    "texture": "8d629e15-12d3-4fbe-97e8-5f1473e7a902",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      343,
+      343
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      343,
+      343
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

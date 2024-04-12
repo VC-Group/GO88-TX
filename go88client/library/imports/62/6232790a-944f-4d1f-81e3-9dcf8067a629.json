@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg-login-form",
+    "texture": "a5f6dc43-ae19-4f04-b13d-5e4ac1668c1d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1039,
+      587
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1039,
+      587
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

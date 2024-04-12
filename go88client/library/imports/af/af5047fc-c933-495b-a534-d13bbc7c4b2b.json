@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "XoSo_box_lines2",
+    "texture": "3410b67a-3cbd-4e65-8051-05511fcc5af5",
+    "atlas": "b4a5c5c8-fb41-4021-ae28-f842f09c7ca9",
+    "rect": [
+      1125,
+      264,
+      802,
+      82
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      802,
+      82
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

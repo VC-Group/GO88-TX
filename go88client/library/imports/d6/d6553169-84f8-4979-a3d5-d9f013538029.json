@@ -1,0 +1,83 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "spine.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "bigwin": {
+      "__uuid__": "e90ffa89-4d1c-4bfc-9aa4-8fccd6b7450a"
+    },
+    "bonus": {
+      "__uuid__": "cc53beb8-6c83-4495-985c-fbb7c56f85e3"
+    },
+    "free": {
+      "__uuid__": "956d9159-e0a2-49b8-b860-de631f7ca77f"
+    },
+    "hu-1": {
+      "__uuid__": "5de72d3b-3473-4df8-a97b-11ea665df087"
+    },
+    "hu-2": {
+      "__uuid__": "1a7cd5e8-b254-4ef4-aaf0-964ce9bb975d"
+    },
+    "khobau": {
+      "__uuid__": "be156062-8afd-4eb5-9315-4ccc88a1949c"
+    },
+    "light-1": {
+      "__uuid__": "4c58d56e-cc55-4968-8b05-b26efffd874d"
+    },
+    "light-2": {
+      "__uuid__": "f8597f4c-87df-4fbd-b3c9-1b2770e03699"
+    },
+    "light-3": {
+      "__uuid__": "0d364764-ae3f-48b0-873d-fa4c7769c3ba"
+    },
+    "light-bg-2": {
+      "__uuid__": "403f711a-8313-4a97-b0d7-58fb2e15440c"
+    },
+    "light-bg-freespin": {
+      "__uuid__": "13390636-95ec-4d8c-9079-d310c7af829b"
+    },
+    "light-bg": {
+      "__uuid__": "331a4ec4-60f2-46c8-bf5f-b8e5009ff386"
+    },
+    "light-star": {
+      "__uuid__": "1c756207-fbfc-4224-aee1-4105afa5abc2"
+    },
+    "m": {
+      "__uuid__": "bf9c6734-911f-4423-97a3-946b2e4464ed"
+    },
+    "m1": {
+      "__uuid__": "0f01d134-4800-4692-89a5-678591352f70"
+    },
+    "m2": {
+      "__uuid__": "327bcec6-8061-4334-a75d-b8af124508fc"
+    },
+    "m3-2": {
+      "__uuid__": "533e027c-7064-41f4-a0b0-db31ddf1169f"
+    },
+    "m4": {
+      "__uuid__": "ca3588d5-fb3e-494a-84b5-c42829dfb2e2"
+    },
+    "m5": {
+      "__uuid__": "1c8e52aa-07e4-41d8-a2ac-e284c6ec9a3e"
+    },
+    "m6": {
+      "__uuid__": "a4e94d19-8d08-4b92-ae14-4445a6ced2c8"
+    },
+    "m8": {
+      "__uuid__": "a0cad415-07f4-4a74-8f55-a57a8b6e8d3a"
+    },
+    "money-bg": {
+      "__uuid__": "535267d3-5906-49c2-b482-90cd1d4a0187"
+    },
+    "ngoc-vang": {
+      "__uuid__": "c6d03608-2021-40d0-954d-1765885d3769"
+    },
+    "spin": {
+      "__uuid__": "c7ff9387-9ded-4749-86e3-7bc93337924f"
+    },
+    "text-bg": {
+      "__uuid__": "cebb200d-2286-42cd-81dd-98b580e7d328"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "meirenyu_tex",
+    "texture": "4c17cc08-5a05-466f-80d7-9b618386a5e7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      830,
+      1754
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      830,
+      1755
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

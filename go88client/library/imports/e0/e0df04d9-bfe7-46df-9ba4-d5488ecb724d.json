@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_linelost_off",
+    "texture": "ad06bd0d-95bb-48e3-aef2-02bf3f83f36b",
+    "atlas": "",
+    "rect": [
+      25,
+      0,
+      199,
+      72
+    ],
+    "offset": [
+      12,
+      2.5
+    ],
+    "originalSize": [
+      225,
+      77
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

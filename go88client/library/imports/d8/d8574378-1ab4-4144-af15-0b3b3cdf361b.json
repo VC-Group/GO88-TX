@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chanle-small",
+    "texture": "e3447b4b-652e-431b-84cb-0329b1892b5a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      154,
+      84
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      154,
+      84
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

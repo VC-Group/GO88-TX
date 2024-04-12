@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": ".-bg-scroll-p",
+    "texture": "9c8f0d60-6b89-4673-9ff4-39c0adb1a817",
+    "atlas": "ea5f60c6-a7a8-4efb-8106-5da627e30f7c",
+    "rect": [
+      0,
+      545,
+      384,
+      303
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      388,
+      305
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

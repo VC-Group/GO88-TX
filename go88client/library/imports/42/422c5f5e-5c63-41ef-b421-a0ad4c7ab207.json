@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Penumbra_YO-export",
+    "texture": "f17c06bc-7250-43ce-9e3d-ecf79bb3aca3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      206,
+      224
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      207,
+      225
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

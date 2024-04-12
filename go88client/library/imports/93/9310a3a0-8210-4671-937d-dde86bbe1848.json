@@ -1,0 +1,26 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "minipoker_v2.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "bg": {
+      "__uuid__": "a6576383-1fc1-42be-94fc-a4d222e7bbb2"
+    },
+    "btn_auto": {
+      "__uuid__": "eea76578-fc9c-4f7b-bbfe-0a1641943212"
+    },
+    "btn_play": {
+      "__uuid__": "5e52506b-b1f8-43b9-b0f8-debdff8a8704"
+    },
+    "btn_playOff": {
+      "__uuid__": "decb28e4-8554-46fa-a837-184742f4e9a8"
+    },
+    "btn_speed": {
+      "__uuid__": "e6d5f144-b47c-49c6-a00e-34af67aecdf7"
+    },
+    "btn_stop": {
+      "__uuid__": "c090bdaf-9e58-49bc-b078-62f9609c1a44"
+    }
+  }
+}

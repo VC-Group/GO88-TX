@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sheld",
+    "texture": "7f9002b0-52b0-401a-8677-31d82c680e3c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      700,
+      180
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      700,
+      180
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

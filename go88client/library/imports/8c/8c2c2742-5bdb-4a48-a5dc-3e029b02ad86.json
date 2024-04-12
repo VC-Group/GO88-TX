@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mini_minipoker",
+    "texture": "7a66f5e4-0441-40c3-9c4c-020842d7654d",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      109,
+      83
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      111,
+      84
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

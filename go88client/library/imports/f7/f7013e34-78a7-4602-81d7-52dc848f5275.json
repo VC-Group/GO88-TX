@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "icon_vqred.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "GLOW": {
+      "__uuid__": "5fc81ee7-27f5-4023-b397-6e20fd376954"
+    },
+    "Layer19": {
+      "__uuid__": "bcb41d4d-894b-4aef-9342-6ef322f4e3de"
+    },
+    "Layer46": {
+      "__uuid__": "13bd4637-5a96-4a3c-8e47-2be2a40cacce"
+    },
+    "vq-1": {
+      "__uuid__": "d1dc9578-7570-4023-a350-2c7d795d2df2"
+    },
+    "vq-3": {
+      "__uuid__": "379dee7f-ba7d-4a25-9c9e-a2d9350befa5"
+    },
+    "vq-4": {
+      "__uuid__": "cc9f7d6f-0ed1-45e0-992f-2fed89f349e0"
+    },
+    "vq1": {
+      "__uuid__": "df3d32a7-a671-40af-ad18-8e04c8c4f617"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bigbabol-logo",
+    "texture": "4726b0f2-6a8d-431f-96c1-ff5217fcff95",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      330,
+      109
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      330,
+      109
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

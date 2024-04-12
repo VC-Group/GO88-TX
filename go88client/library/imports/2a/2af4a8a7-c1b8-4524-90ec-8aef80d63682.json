@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Mes",
+    "texture": "809ca079-d924-47f5-89fa-f8cce464f4ad",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      73,
+      73
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      73,
+      73
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

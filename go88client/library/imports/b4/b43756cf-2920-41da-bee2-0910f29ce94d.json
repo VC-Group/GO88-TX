@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_popup2",
+    "texture": "4c08d880-bdf1-4647-a4c5-40f3e3f584ff",
+    "atlas": "",
+    "rect": [
+      2,
+      3,
+      1084,
+      693
+    ],
+    "offset": [
+      -0.5,
+      -1.5
+    ],
+    "originalSize": [
+      1089,
+      696
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

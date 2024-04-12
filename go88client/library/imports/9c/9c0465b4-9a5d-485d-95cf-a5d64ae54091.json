@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg-zeus",
+    "texture": "f5f8c5e3-3a54-4e41-a2d2-c0987e5fae4d",
+    "atlas": "",
+    "rect": [
+      9,
+      0,
+      223,
+      389
+    ],
+    "offset": [
+      4.5,
+      4.5
+    ],
+    "originalSize": [
+      232,
+      398
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

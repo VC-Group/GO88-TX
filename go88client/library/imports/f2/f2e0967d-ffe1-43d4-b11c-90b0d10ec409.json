@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "longliyu_tex",
+    "texture": "38ae0989-5317-458e-a2b9-dff2c4e43cf3",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      855,
+      425
+    ],
+    "offset": [
+      -83.5,
+      298.5
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

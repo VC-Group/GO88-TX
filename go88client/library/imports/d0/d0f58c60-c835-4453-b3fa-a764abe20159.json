@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hang2",
+    "texture": "cb07c23c-2cfe-4008-bf5e-2cff9b42e725",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      59,
+      41
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      59,
+      41
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

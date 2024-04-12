@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "baucuaicon",
+    "texture": "5da9b7df-9800-42fe-a9a1-68ff06e41702",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      505,
+      117
+    ],
+    "offset": [
+      -0.5,
+      2.5
+    ],
+    "originalSize": [
+      512,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

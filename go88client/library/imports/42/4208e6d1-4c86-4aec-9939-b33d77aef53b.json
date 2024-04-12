@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Icon-DudayTaxi",
+    "texture": "ac28e55d-434a-4b6d-b07f-b825e3a3e844",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      473,
+      248
+    ],
+    "offset": [
+      -17.5,
+      2
+    ],
+    "originalSize": [
+      512,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

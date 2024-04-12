@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "CHECK2",
+    "texture": "ca8a5fae-3cda-444b-9ca9-bfed5a0b2aa4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      78,
+      69
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      78,
+      69
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

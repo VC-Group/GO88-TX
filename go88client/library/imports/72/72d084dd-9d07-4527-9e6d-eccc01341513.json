@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bt_PhongTo",
+    "texture": "df12cf5b-bb96-453b-972d-8463d4a3b1fd",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      64,
+      65
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      64,
+      65
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

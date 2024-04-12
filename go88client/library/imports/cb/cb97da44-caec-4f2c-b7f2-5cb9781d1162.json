@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jiewenyu_tex",
+    "texture": "821a8a5c-7946-414b-9b5a-8faac27b8081",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      503,
+      456
+    ],
+    "offset": [
+      -3.5,
+      27
+    ],
+    "originalSize": [
+      512,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

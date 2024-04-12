@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "BONUS TIME AVENGERS",
+    "texture": "415b78f6-6b5b-42af-85e4-e9d97694d628",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      198,
+      253
+    ],
+    "offset": [
+      -28,
+      0.5
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

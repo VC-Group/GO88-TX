@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_4",
+    "texture": "b0805cdd-cda2-4b0b-91f8-fe878fdae91f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      218,
+      86
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      218,
+      86
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

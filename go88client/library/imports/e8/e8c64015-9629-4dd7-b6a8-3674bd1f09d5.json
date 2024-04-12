@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": ".-thele-select",
+    "texture": "c9a2d038-7a10-41c8-861b-09498e7a2811",
+    "atlas": "f787051e-687a-452e-9585-e8a25bfe51c8",
+    "rect": [
+      185,
+      250,
+      183,
+      60
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      183,
+      60
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

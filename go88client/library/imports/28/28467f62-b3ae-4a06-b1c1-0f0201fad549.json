@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ios",
+    "texture": "1add98e0-3f1c-46ab-a4f2-08605ee8113c",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      71,
+      71
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      73,
+      73
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

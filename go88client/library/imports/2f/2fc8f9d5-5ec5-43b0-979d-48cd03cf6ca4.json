@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gf_room_pic_bg_50f11dda6238ba7b28c99d91c2d039e8",
+    "texture": "1fa2bcf0-55f2-4160-b1b9-bf32329c36ee",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      853,
+      674
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      853,
+      674
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

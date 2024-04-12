@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "buttom_an_non",
+    "texture": "d1e67ee4-7ccc-4ec3-a405-a1676ce8ccc8",
+    "atlas": "c1b29578-5224-4364-8a97-d6a713b92584",
+    "rect": [
+      335,
+      427,
+      133,
+      55
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      133,
+      55
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

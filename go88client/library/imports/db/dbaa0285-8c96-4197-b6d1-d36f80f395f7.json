@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bag_gold",
+    "texture": "3abb3993-62c8-4e97-b52a-1176d94d1e17",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      160,
+      146
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      160,
+      146
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

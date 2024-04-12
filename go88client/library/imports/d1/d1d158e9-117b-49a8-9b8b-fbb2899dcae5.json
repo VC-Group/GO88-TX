@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fish_icon_bailongwang",
+    "texture": "4dc99e7b-1bfe-4bb8-8262-2832c322c55c",
+    "atlas": "",
+    "rect": [
+      0,
+      11,
+      88,
+      53
+    ],
+    "offset": [
+      0,
+      -2.5
+    ],
+    "originalSize": [
+      88,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "MyrialProB_GW-export",
+    "texture": "a6954b0e-06e1-4c56-8a6f-69646fe6fb4c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      277,
+      280
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      278,
+      281
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

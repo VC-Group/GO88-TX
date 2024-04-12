@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "font_congtien",
+    "texture": "b83b59fb-7c7c-4631-a68c-5ba944b61384",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      312,
+      321
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      313,
+      322
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

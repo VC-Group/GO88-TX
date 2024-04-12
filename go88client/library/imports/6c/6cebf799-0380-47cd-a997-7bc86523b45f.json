@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fish_icon_jinlongwang",
+    "texture": "9521c8d0-651f-4ef6-9603-a3cea32ab354",
+    "atlas": "",
+    "rect": [
+      0,
+      11,
+      88,
+      54
+    ],
+    "offset": [
+      0,
+      -3
+    ],
+    "originalSize": [
+      88,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

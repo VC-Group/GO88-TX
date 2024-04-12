@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "napgold-btn",
+    "texture": "0eef4d37-b25b-414b-8ba4-0ad903b4eb7e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      239,
+      77
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      239,
+      77
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

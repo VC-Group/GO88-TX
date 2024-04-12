@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "item_freespin_ani",
+    "texture": "b3f3644b-6fc5-4603-b87f-821bf05193fd",
+    "atlas": "",
+    "rect": [
+      1,
+      22,
+      248,
+      226
+    ],
+    "offset": [
+      0,
+      -10.5
+    ],
+    "originalSize": [
+      250,
+      249
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "quay",
+    "texture": "9c3f408c-2216-4cdf-a4a4-5038aa431aa6",
+    "atlas": "",
+    "rect": [
+      28,
+      30,
+      157,
+      157
+    ],
+    "offset": [
+      -2.5,
+      0
+    ],
+    "originalSize": [
+      218,
+      217
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

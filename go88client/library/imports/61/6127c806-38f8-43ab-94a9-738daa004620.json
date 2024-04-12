@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "logodev",
+    "texture": "82052759-5db1-49a5-ab7e-a3b3775fc338",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      437,
+      194
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      437,
+      194
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

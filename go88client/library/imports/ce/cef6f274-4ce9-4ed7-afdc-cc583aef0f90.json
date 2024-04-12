@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "trolai",
+    "texture": "f1a31628-d05a-4a5b-ba87-3d284d050993",
+    "atlas": "",
+    "rect": [
+      61,
+      77,
+      91,
+      125
+    ],
+    "offset": [
+      -2.5,
+      -31
+    ],
+    "originalSize": [
+      218,
+      217
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

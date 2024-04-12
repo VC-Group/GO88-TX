@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "androi",
+    "texture": "f63ecc00-2ace-4725-9ea6-c7b4cc854690",
+    "atlas": "",
+    "rect": [
+      47,
+      0,
+      174,
+      61
+    ],
+    "offset": [
+      -4.5,
+      1.5
+    ],
+    "originalSize": [
+      277,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

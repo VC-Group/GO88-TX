@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text-lich-su",
+    "texture": "578230bb-b052-4a52-bead-6bdb4e9b5a3f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      211,
+      110
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      211,
+      110
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

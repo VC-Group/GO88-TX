@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hoangkim",
+    "texture": "52c5f318-3fb6-401e-9550-e3011f4eb1e2",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      672,
+      474
+    ],
+    "offset": [
+      -173,
+      16
+    ],
+    "originalSize": [
+      1024,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

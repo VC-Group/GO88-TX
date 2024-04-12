@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "aladdin_bonus_x",
+    "texture": "83c28d39-5e6d-4f5c-a7c2-365406f344ff",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      843,
+      845
+    ],
+    "offset": [
+      -1.5,
+      0.5
+    ],
+    "originalSize": [
+      846,
+      846
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

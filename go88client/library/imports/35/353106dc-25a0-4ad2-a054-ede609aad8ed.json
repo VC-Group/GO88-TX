@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gamebai-tab-active",
+    "texture": "14144c16-0603-45f1-8fb5-bb0b59df0830",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      171,
+      50
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      171,
+      50
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

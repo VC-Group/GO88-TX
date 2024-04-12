@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text-lichsugiaodich",
+    "texture": "aeb65988-6d8e-42e4-b040-f3e8c22bccad",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      454,
+      61
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      454,
+      61
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

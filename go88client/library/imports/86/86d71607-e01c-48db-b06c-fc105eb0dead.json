@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "daythua-btn",
+    "texture": "39b3ca65-e5a7-49d1-9b9b-04957c05ca1c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      126,
+      51
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      126,
+      51
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

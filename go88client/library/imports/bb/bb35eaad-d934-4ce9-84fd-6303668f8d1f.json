@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_fanpage",
+    "texture": "7e5fba93-c1dc-47d4-9e87-236035019787",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      79,
+      97
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      79,
+      97
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

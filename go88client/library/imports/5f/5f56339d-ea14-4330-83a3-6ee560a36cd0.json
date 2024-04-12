@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mini-poke-stop",
+    "texture": "d79e9fc1-775f-40fe-aeca-85c01994194a",
+    "atlas": "4c788a00-9499-4ca3-8591-2b5df664c2a9",
+    "rect": [
+      822,
+      842,
+      143,
+      100
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      143,
+      100
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

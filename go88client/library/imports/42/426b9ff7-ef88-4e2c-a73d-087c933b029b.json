@@ -1,0 +1,20 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "icon_taixiu.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "Layer57": {
+      "__uuid__": "23c9c588-d126-4395-ab33-b981f4c5acaa"
+    },
+    "txbg2": {
+      "__uuid__": "8fb9f90d-1f66-4266-8984-244ab1175bf9"
+    },
+    "xx1": {
+      "__uuid__": "dba2609d-23b9-44ab-89dc-7aa4054af5a3"
+    },
+    "xx2": {
+      "__uuid__": "54823fb2-3321-4c97-9cb2-d28ca6eb79f8"
+    }
+  }
+}

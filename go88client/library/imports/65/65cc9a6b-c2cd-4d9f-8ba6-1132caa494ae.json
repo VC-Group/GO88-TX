@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "theo",
+    "texture": "12127c62-5e48-4dad-b1ca-670f6f83af43",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      153,
+      30
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      154,
+      32
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

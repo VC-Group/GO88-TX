@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zeusfrontlobby",
+    "texture": "c9a925f8-c1c3-4769-b12a-96e89ee84423",
+    "atlas": "",
+    "rect": [
+      2,
+      3,
+      1015,
+      487
+    ],
+    "offset": [
+      -2.5,
+      9.5
+    ],
+    "originalSize": [
+      1024,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

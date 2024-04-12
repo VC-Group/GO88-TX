@@ -1,0 +1,80 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "default.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "arrow_left": {
+      "__uuid__": "58563d03-751d-40ea-b31d-2238cce3f453"
+    },
+    "arrow_right": {
+      "__uuid__": "b1b05d6f-390d-4bc3-8322-dd4b25adb1c3"
+    },
+    "bg_dong": {
+      "__uuid__": "2ea04005-360b-467e-a7d0-7da0f36dd2cf"
+    },
+    "bg_hu": {
+      "__uuid__": "baa45b8a-916f-4268-8f51-88cb8b907943"
+    },
+    "bg_item": {
+      "__uuid__": "4eb58d46-e99c-46f0-9993-d58cf60d8ded"
+    },
+    "bg_money": {
+      "__uuid__": "f05e3da4-4add-4de0-ad9a-78bf819eeb80"
+    },
+    "bg_recent_win": {
+      "__uuid__": "79f3f68a-be54-4ebd-b370-082c50d66694"
+    },
+    "bg_total_bet": {
+      "__uuid__": "c70a2f68-91cf-4e26-a477-504010b31be7"
+    },
+    "btn_back": {
+      "__uuid__": "5389b51c-cf5c-4165-817c-bfc899915ba0"
+    },
+    "btn_close": {
+      "__uuid__": "babb3fac-0cb8-4499-af8b-e8ae615d00d2"
+    },
+    "btn_music_off": {
+      "__uuid__": "50e136d7-c445-4314-b9ac-ed4190597513"
+    },
+    "btn_music_on": {
+      "__uuid__": "7869047e-c454-4a74-b4cd-0d9f53551250"
+    },
+    "btn_play_auto_off": {
+      "__uuid__": "07386681-2cad-490f-a2a1-18534db59a6c"
+    },
+    "btn_play_auto_on": {
+      "__uuid__": "62bedebc-f771-4d9c-b3cf-d16d7249927d"
+    },
+    "btn_play_on": {
+      "__uuid__": "d2c6ea68-345a-4497-b5c0-deb44bd94774"
+    },
+    "btn_sound_off": {
+      "__uuid__": "47759751-95fe-4917-a35b-ba2856c0fbd0"
+    },
+    "btn_sound_on": {
+      "__uuid__": "4030d8db-48cf-4282-a153-807933d3851e"
+    },
+    "hd_scatter": {
+      "__uuid__": "178aea74-2310-45d7-a3f6-680b36a788de"
+    },
+    "hd_wild": {
+      "__uuid__": "b526f595-70c9-4e87-a23f-1752a02ca599"
+    },
+    "huwin": {
+      "__uuid__": "b296c015-e269-4c28-940f-67e100da606c"
+    },
+    "item-bg1": {
+      "__uuid__": "3c5d8837-786b-470e-ad03-5acffbf6982a"
+    },
+    "line11_20": {
+      "__uuid__": "724ad96c-7eb0-40af-b6b7-ab7f879fed5b"
+    },
+    "line1_10": {
+      "__uuid__": "2af37979-9f27-4407-9028-8a2158a9b4b2"
+    },
+    "muc_cuoc": {
+      "__uuid__": "7113deb3-347d-429e-9252-8052a3b3b43a"
+    }
+  }
+}

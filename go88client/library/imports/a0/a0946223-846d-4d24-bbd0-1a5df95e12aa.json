@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "avengers",
+    "texture": "e29f4cdc-f564-4786-a2b4-af8f5c765e22",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      263,
+      400
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      263,
+      400
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

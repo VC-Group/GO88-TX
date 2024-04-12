@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chuyenkhoan-daily-btn",
+    "texture": "8b6bf37f-44bc-47d1-9d9d-b3e62a5c4b33",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      303,
+      110
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      303,
+      110
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

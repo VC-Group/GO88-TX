@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_baucua",
+    "texture": "6bf76cc4-d7b2-4cbd-b05d-84c9792fbc0f",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      252,
+      410
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      253,
+      412
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

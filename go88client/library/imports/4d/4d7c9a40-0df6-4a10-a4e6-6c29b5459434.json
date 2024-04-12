@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jinjiahusha_tex",
+    "texture": "7b0d33bb-fa37-472b-9993-797f2a97a6c8",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      903,
+      984
+    ],
+    "offset": [
+      -59.5,
+      19
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

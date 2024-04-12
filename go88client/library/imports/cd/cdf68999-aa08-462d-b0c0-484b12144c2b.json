@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "kyby_logo_tex",
+    "texture": "9a9b46a4-8057-43a8-86c8-89bdaaf8d46d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      253,
+      243
+    ],
+    "offset": [
+      -1.5,
+      6.5
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

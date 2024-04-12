@@ -1,0 +1,32 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "spine.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "bigwin": {
+      "__uuid__": "518c55c5-756b-4271-b0bd-5ed3f38351c0"
+    },
+    "bonus": {
+      "__uuid__": "7497de9e-b04e-4abf-ab68-7840a05bec4b"
+    },
+    "box1": {
+      "__uuid__": "bcf2aeb1-6714-4e45-af6b-be2acc5edab9"
+    },
+    "box2": {
+      "__uuid__": "6b789918-d7e5-4b5e-ae96-4bae8b2ee0e9"
+    },
+    "freespin": {
+      "__uuid__": "a5d532fd-610d-4a14-959f-581cea3cbe77"
+    },
+    "jackpot": {
+      "__uuid__": "7761dd01-0008-402f-958b-df3b25324551"
+    },
+    "light": {
+      "__uuid__": "75767ad7-2eef-4e30-9781-dd78cc93773a"
+    },
+    "light2": {
+      "__uuid__": "eef2ec9f-1b9a-4d25-bfc2-a462634f901d"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "cuoct",
+    "texture": "3540db14-8d83-4e75-b462-7c3abfb94c18",
+    "atlas": "",
+    "rect": [
+      47,
+      7,
+      164,
+      51
+    ],
+    "offset": [
+      -9.5,
+      -0.5
+    ],
+    "originalSize": [
+      277,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

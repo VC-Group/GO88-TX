@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "popupthongbao",
+    "texture": "ef0a308a-051d-40bb-b94c-a46a2f74e49c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      700,
+      485
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      700,
+      485
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

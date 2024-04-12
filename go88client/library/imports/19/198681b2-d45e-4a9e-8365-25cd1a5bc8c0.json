@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "kyby_bosslaixi_tex",
+    "texture": "6ed8030a-40cd-481e-84f8-94e01ddbe18b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1951,
+      505
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      1951,
+      506
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

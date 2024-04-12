@@ -1,0 +1,11 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "bubg.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "": {
+      "__uuid__": "4c5d947f-e42d-481b-b9b8-5a305612ed26"
+    }
+  }
+}

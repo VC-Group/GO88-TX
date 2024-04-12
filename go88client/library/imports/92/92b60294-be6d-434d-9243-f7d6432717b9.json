@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bigba",
+    "texture": "1daf58d3-2972-4024-a12f-2dce50803667",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1024,
+      256
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1024,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

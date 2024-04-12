@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "NenKetQua",
+    "texture": "1989d5a4-8adb-4b1b-a6e0-d1eed71b6418",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      592,
+      32
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      594,
+      34
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

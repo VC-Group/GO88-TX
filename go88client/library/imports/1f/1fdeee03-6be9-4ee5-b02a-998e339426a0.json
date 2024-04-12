@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shiziyu_tex",
+    "texture": "32b1bc19-0016-492b-8b14-8a601a0b9371",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      206,
+      450
+    ],
+    "offset": [
+      -24,
+      30
+    ],
+    "originalSize": [
+      256,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

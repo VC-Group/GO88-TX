@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "datCuoc",
+    "texture": "ac9e75f4-53dd-4657-8ef7-55440c7cfb35",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      347,
+      72
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      347,
+      72
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

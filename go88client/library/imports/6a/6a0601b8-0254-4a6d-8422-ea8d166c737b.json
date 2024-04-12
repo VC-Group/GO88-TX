@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Franko_W-export",
+    "texture": "fa271328-4c0e-4b45-a287-7ac947459f70",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      605,
+      1023
+    ],
+    "offset": [
+      -209.5,
+      0.5
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

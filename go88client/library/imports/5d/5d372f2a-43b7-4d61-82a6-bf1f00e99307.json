@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_ChonXX",
+    "texture": "59c33c21-74a3-4864-9a74-f43b8328d741",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      143,
+      48
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      143,
+      48
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

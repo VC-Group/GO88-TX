@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "background-home4",
+    "texture": "2c72ff31-74c1-45cd-9a97-71c5cbd59e2e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1600,
+      900
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1600,
+      900
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

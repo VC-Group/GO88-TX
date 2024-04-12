@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_vinhdanh",
+    "texture": "8756715b-368d-4091-93db-4fd8e31fcd2a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      55,
+      47
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      55,
+      47
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

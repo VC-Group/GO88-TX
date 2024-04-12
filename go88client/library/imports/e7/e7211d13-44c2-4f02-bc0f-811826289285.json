@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fan-page",
+    "texture": "060ec902-9b86-432b-b83a-cffb38c68c95",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      136,
+      88
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      136,
+      88
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gui-all",
+    "texture": "190cf725-39a5-4e50-aac2-af4bb717da7d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      206,
+      74
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      206,
+      76
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

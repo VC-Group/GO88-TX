@@ -1,0 +1,101 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "banGame.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "ban2_0": {
+      "__uuid__": "c88abc63-a976-4a70-afc9-09a17f565d19"
+    },
+    "ban2_1": {
+      "__uuid__": "9b9d4ad1-bddb-42b2-82e5-4f5ea162d39f"
+    },
+    "ban2_2": {
+      "__uuid__": "543e9d4c-bc58-4cae-94f8-848075b408d5"
+    },
+    "ban3_0": {
+      "__uuid__": "7aaf17b9-1ca2-46bb-a086-b93dd8b4e3fb"
+    },
+    "ban3_1": {
+      "__uuid__": "7398b664-f96e-4ed3-9531-e4b45f9e8788"
+    },
+    "ban3_2": {
+      "__uuid__": "d7703c65-a7dd-40ea-a234-e7249c7d3376"
+    },
+    "ban3_3": {
+      "__uuid__": "e60af038-8fc5-4c4e-9539-0d69026920da"
+    },
+    "ban4_0": {
+      "__uuid__": "31dc5ae3-1e27-486a-ac9f-1414e090675c"
+    },
+    "ban4_1": {
+      "__uuid__": "3f53e11b-1097-43d6-a63a-426cbaa2e895"
+    },
+    "ban4_2": {
+      "__uuid__": "128823c8-d891-428f-bf91-2d096fb789b8"
+    },
+    "ban4_3": {
+      "__uuid__": "e62a9e16-fc7b-414f-b516-4f76c2b15743"
+    },
+    "ban4_4": {
+      "__uuid__": "138813e7-d473-4295-9e4d-ad45210a0906"
+    },
+    "ban5_0": {
+      "__uuid__": "3d99f7cc-cacb-4d90-934b-d7b72e14724a"
+    },
+    "ban5_1": {
+      "__uuid__": "692d1a13-296b-4ef9-9f58-3f0c3299528f"
+    },
+    "ban5_2": {
+      "__uuid__": "2ed2c6d4-5aa0-4a78-91a4-7ef3f50a79ee"
+    },
+    "ban5_3": {
+      "__uuid__": "bad916a8-0024-4396-80a0-092b47fd9cc1"
+    },
+    "ban5_4": {
+      "__uuid__": "88077b8e-4799-46f1-90e7-48c5e07f76e9"
+    },
+    "ban5_5": {
+      "__uuid__": "4c944ee4-f9da-41e8-965c-7901b6ff0119"
+    },
+    "ban6_0": {
+      "__uuid__": "0c3e5dc2-dd3b-4233-a39b-887d5dc558fa"
+    },
+    "ban6_1": {
+      "__uuid__": "307daaa2-5108-4ee0-92e7-f874bb2b9d80"
+    },
+    "ban6_2": {
+      "__uuid__": "9265b0c1-6250-47cd-a02f-eafc7945be34"
+    },
+    "ban6_3": {
+      "__uuid__": "ab611531-98d3-4486-a153-3429f8cae8db"
+    },
+    "ban6_4": {
+      "__uuid__": "e72577fd-36c6-4543-8668-ba0f13a27f1b"
+    },
+    "ban6_5": {
+      "__uuid__": "18fdbe7d-936e-445a-8025-23ee8c4c849d"
+    },
+    "ban6_6": {
+      "__uuid__": "e824cd0c-73bc-4403-85b9-a486e8787565"
+    },
+    "co_0": {
+      "__uuid__": "25e779fe-ea88-422d-a98d-e2c416c7da28"
+    },
+    "co_1": {
+      "__uuid__": "015f449c-c089-4128-bf9d-5cefa9f653cc"
+    },
+    "co_2": {
+      "__uuid__": "fd84dbcb-90ed-4afa-a27a-cdbda54dc791"
+    },
+    "shadow1": {
+      "__uuid__": "01a41443-3255-4a4e-94bf-2f78882a919d"
+    },
+    "shadow2": {
+      "__uuid__": "63d62193-a927-4245-9140-3f2a817dc2fc"
+    },
+    "shadow3": {
+      "__uuid__": "7ee03c65-6b88-4094-9c10-9a1b8c76cc35"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "font-taixiu-export",
+    "texture": "d6b0f834-99a6-4e89-b7d8-f2d945d4a6cb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      397,
+      434
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      398,
+      435
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

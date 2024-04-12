@@ -1,0 +1,20 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "icon_minipoker.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "minipoker1": {
+      "__uuid__": "a0466dfa-ce7b-46d1-8871-99a9e8b38774"
+    },
+    "minipoker2": {
+      "__uuid__": "39f5e004-7a06-4e4c-b4ed-a94d03779782"
+    },
+    "minipoker3": {
+      "__uuid__": "33864003-9567-43fd-9416-eb66df04e82f"
+    },
+    "minipoker4": {
+      "__uuid__": "7f2468ed-9635-47d0-9313-cb0f615226d5"
+    }
+  }
+}

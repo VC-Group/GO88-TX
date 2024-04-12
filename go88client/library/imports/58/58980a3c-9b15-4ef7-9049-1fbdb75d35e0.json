@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dung-btn",
+    "texture": "20ae5fdc-41b4-409c-b264-98cdfaa1760d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      124,
+      60
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      124,
+      60
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

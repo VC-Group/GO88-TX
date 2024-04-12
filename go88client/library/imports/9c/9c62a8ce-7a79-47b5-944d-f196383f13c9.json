@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_redInKet",
+    "texture": "6b9cc711-a571-4cd6-9979-268dc9fb55fd",
+    "atlas": "",
+    "rect": [
+      2,
+      1,
+      280,
+      83
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      283,
+      85
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

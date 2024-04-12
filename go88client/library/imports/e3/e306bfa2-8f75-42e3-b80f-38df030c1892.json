@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_kho_bau_red",
+    "texture": "43b5fb74-71be-4e49-92a0-4e76be48e56c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      66,
+      66
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      66,
+      66
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

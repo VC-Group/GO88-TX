@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "arrow-dropdown",
+    "texture": "aafa38e9-1f85-4f1f-91df-5fb745559827",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      26,
+      23
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      26,
+      23
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "soicau-title",
+    "texture": "fe7efcaa-5a2c-42a9-ac15-6a9c4eb5c28e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      291,
+      64
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      291,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

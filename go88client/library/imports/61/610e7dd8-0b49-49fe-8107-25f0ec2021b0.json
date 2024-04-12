@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "thanlong",
+    "texture": "6019858a-1103-4fa0-a1f5-a676c3d698be",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      263,
+      479
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      263,
+      479
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

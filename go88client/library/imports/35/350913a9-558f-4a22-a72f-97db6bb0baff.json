@@ -1,0 +1,155 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "aladdin_main.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "btnmainmusicmute": {
+      "__uuid__": "f70c2597-dc9d-4493-87fc-8002fe626b91"
+    },
+    "btnmainhu": {
+      "__uuid__": "3ecf6a99-e8ac-412c-9e77-df884e36cb76"
+    },
+    "popupbangthuong": {
+      "__uuid__": "09ff1e19-dcf1-43e1-ae3d-e12b3dcd1ee3"
+    },
+    "tiencuoc": {
+      "__uuid__": "5f1c62ba-7c24-48f2-8334-0a581e524894"
+    },
+    "popuppaginate3": {
+      "__uuid__": "d1b6c170-571a-4bdc-aa06-d4a39129f5c4"
+    },
+    "btnmainlichsu": {
+      "__uuid__": "863ba2c4-fe58-4238-874f-6a4e39c7660a"
+    },
+    "top_right": {
+      "__uuid__": "2167c597-2e5c-43bf-8f13-551b7178de17"
+    },
+    "hom2": {
+      "__uuid__": "9de4fb85-3f23-4fa0-8de9-b0ca0451dcb2"
+    },
+    "x2": {
+      "__uuid__": "053454f1-cece-4878-9bf8-9073384fddd3"
+    },
+    "menudropdown": {
+      "__uuid__": "71cc318c-d09b-4e5a-8132-22eb5dcc3e58"
+    },
+    "btnmainnoti": {
+      "__uuid__": "74d281ce-dc1a-4710-8303-452193618e61"
+    },
+    "btnmainmusic": {
+      "__uuid__": "d1d5e2d5-4258-489a-ba30-677999e1facf"
+    },
+    "btnmainhuongdan": {
+      "__uuid__": "5c3a9569-7f79-4eb8-aaa6-3049060ca623"
+    },
+    "khaytien": {
+      "__uuid__": "0e8b25b5-4100-4c14-b419-6d211dd94c7e"
+    },
+    "BTNAUTO": {
+      "__uuid__": "d64b2108-daf9-435f-85e9-d30fcd44809c"
+    },
+    "BTNX2DISABLE": {
+      "__uuid__": "09a69d75-948d-4f89-bd1a-487125c51959"
+    },
+    "btnquay": {
+      "__uuid__": "983f98ac-ec2d-45e5-af5d-6cf747395d1d"
+    },
+    "tiennhan": {
+      "__uuid__": "5909c4a2-da2d-4e87-845f-9fdcc0921fa6"
+    },
+    "hom3": {
+      "__uuid__": "1a1639be-1481-4d69-af4f-fda988daa511"
+    },
+    "khaytienuser": {
+      "__uuid__": "6f1b320c-a0ae-48d4-9a8c-1e66f3c8c66c"
+    },
+    "popuppaginate1": {
+      "__uuid__": "b2093222-732e-4ab0-b848-a8810ca2ff45"
+    },
+    "btntieptuc": {
+      "__uuid__": "a69792f7-72aa-4812-a2a7-c3d0f80ebf4b"
+    },
+    "top_left": {
+      "__uuid__": "192825e8-7adf-4113-aa8c-19b90d3adba6"
+    },
+    "text_tongcuoc": {
+      "__uuid__": "fbfc707d-2b2a-4dcf-90ed-6a91d7285203"
+    },
+    "BTNTHOAT": {
+      "__uuid__": "d0831046-b58c-4ee1-b081-62c2aa00857c"
+    },
+    "btnclose": {
+      "__uuid__": "41f69a14-9ccb-4978-abf4-1e4b5dc74a62"
+    },
+    "btn_choithu": {
+      "__uuid__": "460cf775-03fb-4b9c-bf37-eb290ec42ec7"
+    },
+    "text_tongthang": {
+      "__uuid__": "766904bd-78a8-4ad5-913a-30f5d170a3c3"
+    },
+    "freespin": {
+      "__uuid__": "996bdb73-b3b8-4e5c-8eaa-7ca546d326f4"
+    },
+    "btnmuccuoc": {
+      "__uuid__": "23884331-7c5a-4813-a9df-66a2257b7c4a"
+    },
+    "text_muccuoc": {
+      "__uuid__": "a1260962-505f-45d9-8fb5-8ddbb6af738c"
+    },
+    "pandajackpot": {
+      "__uuid__": "51bc80a2-a844-494e-b594-f499b8e83fb9"
+    },
+    "win": {
+      "__uuid__": "05bce9a0-4986-4d6d-8e50-e699c03d7fa5"
+    },
+    "SWITCH": {
+      "__uuid__": "e6d93f6c-3367-4397-a2f7-d3b7a21d1959"
+    },
+    "LOSE": {
+      "__uuid__": "5c4e35d6-595c-458e-8359-a1b40059da57"
+    },
+    "popuplichsu": {
+      "__uuid__": "f5b80d25-45c9-4ce3-b6ab-86ec0e1e255b"
+    },
+    "btnmain": {
+      "__uuid__": "88271e9a-a1ff-48e7-abdc-9f06d68d9a11"
+    },
+    "BTNX2": {
+      "__uuid__": "685ab238-3453-4452-b2a9-ee658b3ad88e"
+    },
+    "btnmainnotimute": {
+      "__uuid__": "5968d009-efb3-4ec4-ad37-2a2caacf8ba3"
+    },
+    "popuppaginate2": {
+      "__uuid__": "28295b4f-5122-4842-8ca7-8325d11d1369"
+    },
+    "homnen": {
+      "__uuid__": "cbea7e99-31ee-4644-98bf-047416f1a3e7"
+    },
+    "text_dongcuoc": {
+      "__uuid__": "fb134100-f645-4bd7-9f80-d37feb00b20e"
+    },
+    "btndungchoi": {
+      "__uuid__": "f6c9b2bc-e4e0-494c-ae47-e752411297fe"
+    },
+    "BTNAUTODISABLE": {
+      "__uuid__": "60bc3c70-fabd-4da6-b0c2-6551056c396b"
+    },
+    "line_panda": {
+      "__uuid__": "947c164c-c35c-41c4-a05b-3c62f4d873d9"
+    },
+    "popupvinhdanh": {
+      "__uuid__": "e0c5df0b-db76-47ca-abcd-7cdff97e7e4c"
+    },
+    "hom1": {
+      "__uuid__": "98a3760c-1c4c-4c80-b198-06c110feebed"
+    },
+    "pandamaster": {
+      "__uuid__": "8d3a482d-e2ae-4827-a8e8-951c7121b51e"
+    },
+    "btn_choithat": {
+      "__uuid__": "6730e4d5-2640-49a1-94ec-42f71f0b0569"
+    }
+  }
+}

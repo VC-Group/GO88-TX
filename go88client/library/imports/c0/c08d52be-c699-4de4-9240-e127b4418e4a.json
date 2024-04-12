@@ -1,0 +1,305 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "LoSo.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "loso-": {
+      "__uuid__": "5a9f13f0-7fa2-4e38-a168-c558790ee7fd"
+    },
+    "loso-active-top-bar": {
+      "__uuid__": "69d893d5-f97a-4ede-bdd5-7f62d25a6648"
+    },
+    "loso-back": {
+      "__uuid__": "99a59c2f-2abc-4412-b9b5-253ba0ec8246"
+    },
+    "loso-bet-bg": {
+      "__uuid__": "b9673c89-0ff0-499e-8e00-0b327d4cce33"
+    },
+    "loso-bg-chat-input": {
+      "__uuid__": "0757660c-7b57-45aa-b363-8a1a9600d955"
+    },
+    "loso-bg-tra-thuong": {
+      "__uuid__": "84715844-a0e1-4d4c-89a7-077efdf0ec49"
+    },
+    "loso-btn-0": {
+      "__uuid__": "2b233117-a3d0-4a63-9c1a-ce1874927992"
+    },
+    "loso-btn-1": {
+      "__uuid__": "8b3f3b5b-beed-49aa-9dd0-e95b9706ad41"
+    },
+    "loso-btn-2": {
+      "__uuid__": "f0a921ef-caff-4b69-8c1f-5d51d2a9b15d"
+    },
+    "loso-btn-3": {
+      "__uuid__": "895b54db-ed92-4c65-8ac1-82d474a9957c"
+    },
+    "loso-btn-4": {
+      "__uuid__": "e223e982-630d-445c-9212-ea0316c73063"
+    },
+    "loso-btn-active-0": {
+      "__uuid__": "b1ccd949-d406-4314-863c-260728075f5a"
+    },
+    "loso-btn-active-1": {
+      "__uuid__": "0eb4bc2c-f156-4921-bc10-b4b15c612c61"
+    },
+    "loso-btn-active-2": {
+      "__uuid__": "ec457f09-8270-42b1-96c6-a6a4828b3599"
+    },
+    "loso-btn-active-3": {
+      "__uuid__": "2b2916c1-ea6d-44f7-81d0-374e8aea2592"
+    },
+    "loso-btn-active-4": {
+      "__uuid__": "bcad8000-19c7-44ea-a5fb-45ad07e3874c"
+    },
+    "loso-btn-change-input": {
+      "__uuid__": "39fb9d98-04ec-498a-9ffc-661a04d312b3"
+    },
+    "loso-btn-chat": {
+      "__uuid__": "49e876c2-cfb6-43b5-90c4-b5820ad4467e"
+    },
+    "loso-btn-checked": {
+      "__uuid__": "61b487ed-e874-4090-bf6c-88e4b5471c83"
+    },
+    "loso-btn-dangdat": {
+      "__uuid__": "01c47ac1-96c6-4477-ae88-818d8912891b"
+    },
+    "loso-btn-dat-so": {
+      "__uuid__": "f319e538-1a8f-4f32-a9e1-451e442e8275"
+    },
+    "loso-btn-history-result": {
+      "__uuid__": "ba74854b-430a-45f3-b31a-1a4e28fb4723"
+    },
+    "loso-btn-nhan-so": {
+      "__uuid__": "e3ec167f-bf9b-4556-be0a-21f0a1f54b4d"
+    },
+    "loso-btn-number-checked": {
+      "__uuid__": "57b3870f-43fa-4e85-b214-02e5b6fbf626"
+    },
+    "loso-btn-number-unchecked": {
+      "__uuid__": "c6ccde9a-36b4-442d-a84e-11507035254e"
+    },
+    "loso-btn-saoke-chonso-active": {
+      "__uuid__": "3742e643-d729-4f14-8459-ace097d849ba"
+    },
+    "loso-btn-saoke-chonso": {
+      "__uuid__": "465dfbf9-6ba9-40ea-88f0-81fa0d9551a8"
+    },
+    "loso-btn-saoke-nhanso-active": {
+      "__uuid__": "eed1842b-afce-491a-812b-46d5570c95de"
+    },
+    "loso-btn-saoke-nhanso": {
+      "__uuid__": "816f74db-08b1-498e-9935-112cdc6dd2d2"
+    },
+    "loso-btn-saoke": {
+      "__uuid__": "ec1b406b-af37-44ae-8293-5736cc422bc9"
+    },
+    "loso-btn-select-loc": {
+      "__uuid__": "f2de9e7c-9d6a-45e2-8141-4fb1440ea6d6"
+    },
+    "loso-btn-select-phat-loc": {
+      "__uuid__": "c765cc89-b94e-40d5-a3b9-74c08123b4dd"
+    },
+    "loso-btn-select-phu-quy": {
+      "__uuid__": "2d7f828c-6de9-4b29-b983-67510b2838ad"
+    },
+    "loso-btn-select-random": {
+      "__uuid__": "b643a6cf-a418-42e9-9863-31b7a66f35a4"
+    },
+    "loso-btn-select-than-tai": {
+      "__uuid__": "7324f990-bbcd-4b29-95b2-c808e1c78344"
+    },
+    "loso-btn-select-top": {
+      "__uuid__": "b145cf03-0544-4416-91f7-3de0c2176eb2"
+    },
+    "loso-btn-slect-phat-loc": {
+      "__uuid__": "99a50ed5-85bc-43ca-97cd-060162378120"
+    },
+    "loso-btn-soicau": {
+      "__uuid__": "2a75cd17-07d1-4674-9346-40dec29ded4c"
+    },
+    "loso-btn-somo": {
+      "__uuid__": "0c974ffc-f967-46b1-b5fc-74268c5029d8"
+    },
+    "loso-btn-table-top": {
+      "__uuid__": "04603bc5-7719-4e21-a657-b45ffb9209a5"
+    },
+    "loso-btn-thongke": {
+      "__uuid__": "deecefb6-ecc9-44ef-998a-13a520fca342"
+    },
+    "loso-btn-tra-thuong": {
+      "__uuid__": "45822cf0-88c4-4169-9c86-fcf6e741f3e2"
+    },
+    "loso-btn-uncheck": {
+      "__uuid__": "3d48afbd-a24b-4b8b-ad3f-e09319c206a4"
+    },
+    "loso-chat-dangdat-active": {
+      "__uuid__": "784ef9ff-eefd-4c3e-91d7-7e0cd6614148"
+    },
+    "loso-chat-dangdat-bg": {
+      "__uuid__": "7c565b3f-c8ff-411e-a519-bc967e099d38"
+    },
+    "loso-chat-notification": {
+      "__uuid__": "462c7188-50c9-48ee-97a6-38a36169d032"
+    },
+    "loso-check-box-bg": {
+      "__uuid__": "ec991a99-44b8-48d0-95f9-ac1493dbe8f4"
+    },
+    "loso-dat-cuoc": {
+      "__uuid__": "ee57bd53-ad95-4de5-809e-a2765800d4f4"
+    },
+    "loso-date-scroll": {
+      "__uuid__": "fd0c805d-dfe0-4c09-9342-327d7a27566b"
+    },
+    "loso-dialog-result-title": {
+      "__uuid__": "39b0ed81-a9f0-4468-b408-f92059b8b454"
+    },
+    "loso-get-number-btn-filter": {
+      "__uuid__": "82bf5b93-d3ba-458e-b9af-e7e5a2eed3e4"
+    },
+    "loso-get-number-btn-open-get-number": {
+      "__uuid__": "40965e68-482f-4099-8e94-85567746c8f3"
+    },
+    "loso-get-number-btn-pre-older": {
+      "__uuid__": "f341ce73-8133-4e8d-817d-50d50c34d4d0"
+    },
+    "loso-get-number-btn-refresh": {
+      "__uuid__": "c9d53c50-77bc-42a5-85c8-265414e905ab"
+    },
+    "loso-get-number-input-bg": {
+      "__uuid__": "7609251d-9b42-4d06-b723-bda9d429515e"
+    },
+    "loso-get-number-table-header-bg": {
+      "__uuid__": "5a92db38-f971-4b89-94b2-b27b689bab48"
+    },
+    "loso-history-btn-next-day": {
+      "__uuid__": "ee173af0-aa11-47c4-af6c-119102d70230"
+    },
+    "loso-history-btn-pre-day": {
+      "__uuid__": "802cc469-4c32-46e0-ab14-2dd680d16a15"
+    },
+    "loso-history-date-bg": {
+      "__uuid__": "69769d36-3764-49b4-8880-297970e571fb"
+    },
+    "loso-history-main-tab": {
+      "__uuid__": "148e368c-4679-4564-b976-dbd070ae549e"
+    },
+    "loso-history-region-bg": {
+      "__uuid__": "e96c3f03-cf4f-44d5-ab73-9758f8a96456"
+    },
+    "loso-history-region-btn-active": {
+      "__uuid__": "4bf95c34-6c19-43fb-b5b5-958d10b67a11"
+    },
+    "loso-history-region-btn-unactive": {
+      "__uuid__": "1c7b182b-c267-4698-a17e-8c8b7b3bedd5"
+    },
+    "loso-history-region-name": {
+      "__uuid__": "8d2948e4-cbe1-46cc-a081-ee34f4b3663d"
+    },
+    "loso-history-tabstatistic": {
+      "__uuid__": "983d6539-3956-44fa-b9bd-e68782f16466"
+    },
+    "loso-huy": {
+      "__uuid__": "f74f82f7-236a-4d20-be8a-42b1a0f262c7"
+    },
+    "loso-info-bg-status-betting": {
+      "__uuid__": "bacaeabc-3d15-4b4f-b67c-af260c0824f6"
+    },
+    "loso-info-bg-status-close-betting": {
+      "__uuid__": "3df1ffef-9853-41ee-bbca-f3fb626fa9e7"
+    },
+    "loso-info-bg-status-payout": {
+      "__uuid__": "0b1b109e-5916-4d01-93e4-b9ed4592922a"
+    },
+    "loso-info-bg-status-result": {
+      "__uuid__": "aa160f9c-ec9a-4af0-bd69-219ae4611cd6"
+    },
+    "loso-info-bg-status-watting-for-start": {
+      "__uuid__": "58d1cfc1-7076-4dd7-95a9-355e46fae8d3"
+    },
+    "loso-info-bg-status": {
+      "__uuid__": "c7522588-95b1-484b-b078-407833d66ba5"
+    },
+    "loso-input-bg-left-small": {
+      "__uuid__": "1651bbe4-6735-43d4-8003-e8786bbb6de6"
+    },
+    "loso-input-bg-left": {
+      "__uuid__": "f0acd417-3b9f-42f4-836d-30e9e5d89244"
+    },
+    "loso-input-bg": {
+      "__uuid__": "c56e09ac-1e00-485f-9493-315149ea3328"
+    },
+    "loso-left-bg": {
+      "__uuid__": "1c2bee60-da1d-4863-811a-df358c57b74f"
+    },
+    "loso-lo": {
+      "__uuid__": "64700ee1-a312-4975-acf2-392c4dda2dd0"
+    },
+    "loso-mb-bg": {
+      "__uuid__": "9b8df5a0-f228-4883-b8f8-796cd0923f5a"
+    },
+    "loso-mn-bg": {
+      "__uuid__": "db9588b3-c245-43ca-9279-31a34c8d2ef1"
+    },
+    "loso-money-icon": {
+      "__uuid__": "69acc741-5f18-4a9c-92ae-862338cf2b58"
+    },
+    "loso-mt-bg": {
+      "__uuid__": "f0855974-4512-42ef-898a-d879dfe42686"
+    },
+    "loso-popup-bg": {
+      "__uuid__": "173a3c1d-bd01-4742-9460-9ad294c752ec"
+    },
+    "loso-popup-cancel": {
+      "__uuid__": "83823fb9-a580-4d64-b496-1ec78239a8e0"
+    },
+    "loso-popup-close": {
+      "__uuid__": "d18f6bb3-e45b-41ac-bc0d-96000e4aa138"
+    },
+    "loso-popup-confirm": {
+      "__uuid__": "7a208af0-3895-4f12-a589-61d6f4d42e51"
+    },
+    "loso-popup-nhanhet": {
+      "__uuid__": "7a7c76da-efee-4893-9ef1-c62e842a8db6"
+    },
+    "loso-saoke-table-row-bg": {
+      "__uuid__": "cf1f8544-0cc6-46cc-b8f9-e2c708184891"
+    },
+    "loso-saoke-top-bg": {
+      "__uuid__": "0fa1a5e7-7f0f-4fc6-8509-28dddf93626d"
+    },
+    "loso-saoke-top-btn": {
+      "__uuid__": "760a648d-bc99-457b-a0d3-ba2b546a88e5"
+    },
+    "loso-somo-bg-header": {
+      "__uuid__": "fac9cead-52c7-4ec0-84f4-a4dadff29e64"
+    },
+    "loso-somo-bg-input": {
+      "__uuid__": "c055d930-2215-4b14-8a9d-d142b571776a"
+    },
+    "loso-somo-btn-show-result": {
+      "__uuid__": "d372f92f-ae6e-4f32-8344-38c4008dbe4b"
+    },
+    "loso-thongke-bg-header": {
+      "__uuid__": "396ddf41-2107-4e8b-b3ec-27b69ee9fcc2"
+    },
+    "loso-thongke-bg-input": {
+      "__uuid__": "2d42d98d-2046-4254-9e23-c0127d13bfa0"
+    },
+    "loso-thongke-bg-menu-active": {
+      "__uuid__": "98d10ee4-0efa-41bc-8079-cb93660c8353"
+    },
+    "loso-thongke-bg-menu-unactive": {
+      "__uuid__": "ab1d000a-1d47-4a33-8c0e-807bc9aff8f5"
+    },
+    "loso-thongke-btn-blank": {
+      "__uuid__": "e3b2c0f3-1e55-4b5b-b514-06a274f845d8"
+    },
+    "loso-thongke-btn-show-result": {
+      "__uuid__": "c5afbbe9-10a5-441e-a7a2-65e4f4eab118"
+    },
+    "loso-top-bar-bg": {
+      "__uuid__": "da4e830f-3c73-4000-b4db-b3d3ce8ac030"
+    }
+  }
+}

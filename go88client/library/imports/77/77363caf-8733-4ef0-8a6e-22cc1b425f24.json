@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_day_thua",
+    "texture": "4bea3da3-0fd5-4be0-826b-0612b7a30c6c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      233,
+      92
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      233,
+      92
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

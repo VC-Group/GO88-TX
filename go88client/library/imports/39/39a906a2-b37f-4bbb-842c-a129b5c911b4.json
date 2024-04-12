@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "freesipn_shadow",
+    "texture": "3413db25-8c6a-4396-b603-01e67f89ceba",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      637,
+      147
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      637,
+      147
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

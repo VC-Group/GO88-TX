@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "thanhtrai",
+    "texture": "d949eb5b-0138-4630-bce0-5051101ca78d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      607,
+      114
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      607,
+      114
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "IowanB_W-export",
+    "texture": "84daf6d4-b4e5-4ab4-9d6e-ee9457ee2f3c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      45,
+      47
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      46,
+      48
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_chuyen_tien",
+    "texture": "f14349ef-eef2-4bb9-9f4d-ab33d989de19",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      78,
+      73
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      78,
+      73
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

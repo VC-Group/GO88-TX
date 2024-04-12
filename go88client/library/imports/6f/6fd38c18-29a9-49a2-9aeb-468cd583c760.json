@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "avenger_font_dong",
+    "texture": "5777cd3d-af69-43c1-8aad-a7f022791729",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      80,
+      75
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      81,
+      76
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

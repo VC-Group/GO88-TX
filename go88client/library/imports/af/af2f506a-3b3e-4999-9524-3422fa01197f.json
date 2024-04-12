@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_bet",
+    "texture": "14b9594a-b5e7-4dcf-a2d9-4183a39ba524",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      234,
+      87
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      234,
+      87
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

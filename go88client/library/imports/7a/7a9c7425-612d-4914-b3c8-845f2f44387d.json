@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "aladdin_font",
+    "texture": "51f458ba-791b-47c3-8508-412db984d791",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      153,
+      157
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      153,
+      157
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "NenNoiDungThongBao",
+    "texture": "1491104f-4da2-451f-b1a9-26595addb7f0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      540,
+      60
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      540,
+      60
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

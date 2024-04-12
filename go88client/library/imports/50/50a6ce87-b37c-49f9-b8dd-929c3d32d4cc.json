@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fbDaiLy",
+    "texture": "cfe097c7-6034-4bf2-a52a-671daad18a61",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      78,
+      77
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      78,
+      77
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

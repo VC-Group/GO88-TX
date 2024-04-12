@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fish_killBossOther",
+    "texture": "2c44acb8-863e-4725-9514-c227023b6cd8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      253,
+      195
+    ],
+    "offset": [
+      -1,
+      1
+    ],
+    "originalSize": [
+      255,
+      197
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

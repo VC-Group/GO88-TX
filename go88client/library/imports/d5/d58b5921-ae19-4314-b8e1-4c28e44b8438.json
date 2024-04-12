@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "thantai_font_dong_3",
+    "texture": "d36384bc-e43f-4ec8-96c9-93ccd410567a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      301,
+      302
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      302,
+      303
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

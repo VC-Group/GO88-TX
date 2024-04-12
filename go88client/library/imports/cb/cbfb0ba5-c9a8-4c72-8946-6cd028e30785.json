@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "effect_tbnohu",
+    "texture": "f3791668-61fb-46f9-91a5-040585e869f8",
+    "atlas": "",
+    "rect": [
+      4,
+      2,
+      772,
+      771
+    ],
+    "offset": [
+      -0.5,
+      3
+    ],
+    "originalSize": [
+      781,
+      781
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

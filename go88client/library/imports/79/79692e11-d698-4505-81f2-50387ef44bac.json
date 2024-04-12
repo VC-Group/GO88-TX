@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "iconpoker",
+    "texture": "cf55d7b3-73ff-4166-a3d7-cf65545bd0be",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      493,
+      249
+    ],
+    "offset": [
+      -6.5,
+      0.5
+    ],
+    "originalSize": [
+      512,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

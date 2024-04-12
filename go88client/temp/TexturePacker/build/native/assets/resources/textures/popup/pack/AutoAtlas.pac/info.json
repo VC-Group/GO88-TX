@@ -1,0 +1,1118 @@
+{
+  "projectPath": "D:\\Srcku88\\CLIENT",
+  "actualPlatform": "web-mobile",
+  "mtimes": {
+    "d2afe83d-fbd0-4fb9-97f2-f3b7c3f154ee": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1620756423379
+    },
+    "048b31d3-1c92-4c52-a545-8ef2fe983f0e": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1620756423437
+    },
+    "8e3d633c-b8d8-4ee0-8d86-7a0653b2ba17": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1620756423437
+    },
+    "0e34d070-df95-4d10-b0d9-d4be7b4d6f5c": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1620756423404
+    },
+    "58451ca7-9cb8-4f77-9fb9-61eb994b7eeb": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1620756423404
+    },
+    "20af00b4-465f-468c-8084-50b90c083558": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1620756423380
+    },
+    "9255e6a9-8dc9-4143-a2bc-1e4f8c45cf1f": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1620756423380
+    },
+    "2104eee4-d85b-43c5-8b89-2fccc65902a6": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1620756423550
+    },
+    "6f01923a-e1de-473e-bac8-d822743a4be4": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1620756423550
+    },
+    "2cbaf2fe-f94e-41d7-8bdd-d46b465a6909": {
+      "assetMtime": 1617978000000,
+      "metaMtime": 1620756423467
+    },
+    "b681e826-717f-494c-81d9-bf68729c748b": {
+      "assetMtime": 1617978000000,
+      "metaMtime": 1620756423467
+    },
+    "2d06d444-6ba1-49bd-8ac3-b1de3569a4ab": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1620756423487
+    },
+    "d1be057c-c9b7-4b1f-8f9c-b9ded531a5ec": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1620756423487
+    },
+    "3175c982-e103-4c06-8c3b-f3f835192a51": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1620756423456
+    },
+    "af300dc5-ba02-40cb-a60c-ee5f41a4d792": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1620756423456
+    },
+    "3cad9698-3ff8-40d4-a322-a2b595997bc5": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1620756423439
+    },
+    "cc250f66-ba76-47e0-b848-35d40d7bd24f": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1620756423439
+    },
+    "45a3b91b-b620-4d6c-9934-4b7ce76e07d9": {
+      "assetMtime": 1588300323568,
+      "metaMtime": 1620756423519
+    },
+    "de2b2e6d-b53a-41b8-8a24-7da0ea6130c0": {
+      "assetMtime": 1588300323568,
+      "metaMtime": 1620756423519
+    },
+    "461fba5f-65f4-4c0f-87f9-3ddde527eede": {
+      "assetMtime": 1588301175054,
+      "metaMtime": 1620756423535
+    },
+    "491a5657-91bb-49b8-a38c-7785e5ff9ce1": {
+      "assetMtime": 1588301175054,
+      "metaMtime": 1620756423535
+    },
+    "4c1d2661-8235-4f07-836c-97789460f44c": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1620756423547
+    },
+    "6f4589d8-eb1c-434f-a36a-369ca0693dc8": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1620756423547
+    },
+    "4dc9f7c0-8a76-4e3b-ad8e-c0832e57015d": {
+      "assetMtime": 1588301076879,
+      "metaMtime": 1620756423504
+    },
+    "ce4ee3e4-25fc-4540-a774-5825b483b58d": {
+      "assetMtime": 1588301076879,
+      "metaMtime": 1620756423504
+    },
+    "4f4265a6-75f8-40f7-b2e1-0c4539985769": {
+      "assetMtime": 1588301197566,
+      "metaMtime": 1620756423521
+    },
+    "e6942f53-9bad-4310-8afb-3ed93495c027": {
+      "assetMtime": 1588301197566,
+      "metaMtime": 1620756423521
+    },
+    "5226661a-b93d-4880-8ef5-ad540541f16d": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1620756423452
+    },
+    "a04cf6cc-92ae-4ff8-9bbf-2044ca6ad90d": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1620756423452
+    },
+    "5461301a-7232-4a2a-8612-c63e60513c5f": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1620756423471
+    },
+    "f594cd9d-25ee-42cc-97ef-0b3ff5c258bf": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1620756423471
+    },
+    "54f98819-046f-42ab-8884-426cb458b538": {
+      "assetMtime": 1588301318587,
+      "metaMtime": 1620756423395
+    },
+    "7dc392e1-1750-4335-8c91-8341c9a154b5": {
+      "assetMtime": 1588301318587,
+      "metaMtime": 1620756423395
+    },
+    "74953f9c-204d-40c2-bd48-cb4a4479f2ca": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1620756423486
+    },
+    "f79f33e6-9e92-473a-80f8-b9fc819b15e6": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1620756423486
+    },
+    "83fb48df-9f24-4b5e-8c95-e615145958dd": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1620756423405
+    },
+    "1f3910f0-f06b-4613-a641-d6f9b7060f28": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1620756423405
+    },
+    "8cbe08f0-f6d7-4cce-b2a9-f19f073541fd": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1620756423566
+    },
+    "444746cb-a423-48a1-aa44-600d79d614fe": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1620756423566
+    },
+    "90d15477-3a67-4fac-b0b0-6c1d7774d60a": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1620756423423
+    },
+    "780adbba-15af-4cf8-9357-8911f8905050": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1620756423423
+    },
+    "92120a44-2f73-4159-a6a2-9b1e7ff702d5": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1620756423580
+    },
+    "229c044b-6602-4584-bef6-7f13517514b8": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1620756423580
+    },
+    "9a4220f9-e3c8-436d-9737-4ead88d0b1f9": {
+      "assetMtime": 1617978000000,
+      "metaMtime": 1620756423530
+    },
+    "b4ff7405-eb51-4fc2-822a-efc0db140a77": {
+      "assetMtime": 1617978000000,
+      "metaMtime": 1620756423530
+    },
+    "a648e3a2-c8fe-4a72-b1d5-867236090695": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1620756423557
+    },
+    "377688c0-c6a2-4b70-8372-b6d8b68ffac2": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1620756423557
+    },
+    "aac8acca-f914-4489-a274-d6badb07a4b0": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1620756423414
+    },
+    "7497dfd0-ac36-410e-9383-994682d8717c": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1620756423414
+    },
+    "b0badb30-e474-435e-ab3a-2d7f5b8bb85e": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1620756423582
+    },
+    "3d5e6a35-7203-44bc-a2c3-0dd2cc1c4b39": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1620756423582
+    },
+    "ba462f4c-4777-4c1b-9a4a-7da692428232": {
+      "assetMtime": 1588301346045,
+      "metaMtime": 1620756423398
+    },
+    "c229d4fc-c575-4463-b878-d73bcf8292cf": {
+      "assetMtime": 1588301346045,
+      "metaMtime": 1620756423398
+    },
+    "c07f8ab9-5035-42d7-9c6b-24b0333ce697": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1620756423502
+    },
+    "c89c7aa6-547f-4f91-a3e8-e55867b9ac28": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1620756423502
+    },
+    "c4164d94-042f-4fcb-8aac-f4e63d7271ba": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1620756423537
+    },
+    "5faee2cc-7431-4a04-9204-61a17ea7d2eb": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1620756423537
+    },
+    "c5ecf638-9d40-4c6e-8f77-56d36a4d2f4d": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1620756423563
+    },
+    "63daa07f-4e4a-4e5a-9561-3fe1e36f3033": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1620756423563
+    },
+    "c947f0ce-b305-4b99-becd-fdf49b4d1dab": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1620756423572
+    },
+    "0a7b354b-6cfc-48e7-b2a2-e44d13f0143d": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1620756423572
+    },
+    "db1f63d3-4d77-4a68-b482-4833d2807f45": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1620756423428
+    },
+    "b0805cdd-cda2-4b0b-91f8-fe878fdae91f": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1620756423428
+    },
+    "ed7c9aff-9030-4665-a872-8d67108e242d": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1620756423432
+    },
+    "78aff462-b10a-4bc5-8a54-379d13e542bb": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1620756423432
+    },
+    "f5da4e8b-4909-4505-9635-597ceba14809": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1620756423419
+    },
+    "08ebd1a8-2078-48ba-9324-1af338df49d0": {
+      "assetMtime": 1583600846000,
+      "metaMtime": 1620756423419
+    },
+    "ffe4e997-7c6f-4e0c-9041-58e59534381a": {
+      "assetMtime": 1617978000000,
+      "metaMtime": 1620756423413
+    },
+    "32577eca-a07c-44f8-b25c-fb6381ed32b1": {
+      "assetMtime": 1617978000000,
+      "metaMtime": 1620756423413
+    }
+  },
+  "result": {
+    "name": "AutoAtlas",
+    "width": 2048,
+    "height": 2048,
+    "ver": "1.2.1",
+    "uuid": "d2afe83d-fbd0-4fb9-97f2-f3b7c3f154ee",
+    "maxWidth": 2048,
+    "maxHeight": 2048,
+    "padding": 2,
+    "allowRotation": true,
+    "forceSquared": false,
+    "powerOfTwo": false,
+    "algorithm": "MaxRects",
+    "format": "png",
+    "quality": 80,
+    "contourBleed": true,
+    "paddingBleed": true,
+    "filterUnused": true,
+    "packable": false,
+    "premultiplyAlpha": false,
+    "filterMode": "bilinear",
+    "platformSettings": {},
+    "subMetas": {},
+    "bleed": 1,
+    "atlases": [
+      {
+        "files": [
+          {
+            "name": "bg_arrow",
+            "uuid": "ba462f4c-4777-4c1b-9a4a-7da692428232",
+            "textureUuid": "c229d4fc-c575-4463-b878-d73bcf8292cf",
+            "path": "D:\\Srcku88\\CLIENT\\temp\\trimImages\\spritesheet_js_1620760324356_image_25.png",
+            "trim": {
+              "x": 3,
+              "y": 3,
+              "width": 466,
+              "height": 201,
+              "rotatedWidth": 466,
+              "rotatedHeight": 201
+            },
+            "rawWidth": 466,
+            "rawHeight": 201,
+            "width": 472,
+            "height": 207,
+            "originalPath": "D:/Srcku88/CLIENT/library/imports/c2/c229d4fc-c575-4463-b878-d73bcf8292cf.png",
+            "x": 0,
+            "y": 0,
+            "rotatedWidth": 472,
+            "rotatedHeight": 207
+          },
+          {
+            "name": "text_quen_mat_khau",
+            "uuid": "9a4220f9-e3c8-436d-9737-4ead88d0b1f9",
+            "textureUuid": "b4ff7405-eb51-4fc2-822a-efc0db140a77",
+            "path": "D:\\Srcku88\\CLIENT\\temp\\trimImages\\spritesheet_js_1620760324355_image_21.png",
+            "trim": {
+              "x": 475,
+              "y": 3,
+              "width": 152,
+              "height": 31,
+              "rotatedWidth": 31,
+              "rotatedHeight": 152
+            },
+            "rawWidth": 152,
+            "rawHeight": 31,
+            "width": 158,
+            "height": 37,
+            "originalPath": "D:/Srcku88/CLIENT/library/imports/b4/b4ff7405-eb51-4fc2-822a-efc0db140a77.png",
+            "x": 472,
+            "y": 0,
+            "rotated": true,
+            "rotatedWidth": 37,
+            "rotatedHeight": 158
+          },
+          {
+            "name": "bg_arrow_0",
+            "uuid": "54f98819-046f-42ab-8884-426cb458b538",
+            "textureUuid": "7dc392e1-1750-4335-8c91-8341c9a154b5",
+            "path": "D:\\Srcku88\\CLIENT\\temp\\trimImages\\spritesheet_js_1620760324355_image_15.png",
+            "trim": {
+              "x": 3,
+              "y": 210,
+              "width": 464,
+              "height": 64,
+              "rotatedWidth": 464,
+              "rotatedHeight": 64
+            },
+            "rawWidth": 464,
+            "rawHeight": 64,
+            "width": 470,
+            "height": 70,
+            "originalPath": "D:/Srcku88/CLIENT/library/imports/7d/7dc392e1-1750-4335-8c91-8341c9a154b5.png",
+            "x": 0,
+            "y": 207,
+            "rotatedWidth": 470,
+            "rotatedHeight": 70
+          },
+          {
+            "name": "arrow",
+            "uuid": "20af00b4-465f-468c-8084-50b90c083558",
+            "textureUuid": "9255e6a9-8dc9-4143-a2bc-1e4f8c45cf1f",
+            "path": "D:\\Srcku88\\CLIENT\\temp\\trimImages\\spritesheet_js_1620760324352_image_2.png",
+            "trim": {
+              "x": 473,
+              "y": 210,
+              "width": 50,
+              "height": 36,
+              "rotatedWidth": 36,
+              "rotatedHeight": 50
+            },
+            "rawWidth": 50,
+            "rawHeight": 36,
+            "width": 56,
+            "height": 42,
+            "originalPath": "D:/Srcku88/CLIENT/library/imports/92/9255e6a9-8dc9-4143-a2bc-1e4f8c45cf1f.png",
+            "x": 470,
+            "y": 207,
+            "rotated": true,
+            "rotatedWidth": 42,
+            "rotatedHeight": 56
+          },
+          {
+            "name": "bg_at",
+            "uuid": "0e34d070-df95-4d10-b0d9-d4be7b4d6f5c",
+            "textureUuid": "58451ca7-9cb8-4f77-9fb9-61eb994b7eeb",
+            "path": "D:\\Srcku88\\CLIENT\\temp\\trimImages\\spritesheet_js_1620760324352_image_1.png",
+            "trim": {
+              "x": 3,
+              "y": 280,
+              "width": 251,
+              "height": 82,
+              "rotatedWidth": 251,
+              "rotatedHeight": 82
+            },
+            "rawWidth": 251,
+            "rawHeight": 82,
+            "width": 257,
+            "height": 88,
+            "originalPath": "D:/Srcku88/CLIENT/library/imports/58/58451ca7-9cb8-4f77-9fb9-61eb994b7eeb.png",
+            "x": 0,
+            "y": 277,
+            "rotatedWidth": 257,
+            "rotatedHeight": 88
+          },
+          {
+            "name": "tabUnselect",
+            "uuid": "45a3b91b-b620-4d6c-9934-4b7ce76e07d9",
+            "textureUuid": "de2b2e6d-b53a-41b8-8a24-7da0ea6130c0",
+            "path": "D:\\Srcku88\\CLIENT\\temp\\trimImages\\spritesheet_js_1620760324353_image_8.png",
+            "trim": {
+              "x": 260,
+              "y": 280,
+              "width": 231,
+              "height": 53,
+              "rotatedWidth": 231,
+              "rotatedHeight": 53
+            },
+            "rawWidth": 231,
+            "rawHeight": 53,
+            "width": 237,
+            "height": 59,
+            "originalPath": "D:/Srcku88/CLIENT/library/imports/de/de2b2e6d-b53a-41b8-8a24-7da0ea6130c0.png",
+            "x": 257,
+            "y": 277,
+            "rotatedWidth": 237,
+            "rotatedHeight": 59
+          },
+          {
+            "name": "tabSelect",
+            "uuid": "4dc9f7c0-8a76-4e3b-ad8e-c0832e57015d",
+            "textureUuid": "ce4ee3e4-25fc-4540-a774-5825b483b58d",
+            "path": "D:\\Srcku88\\CLIENT\\temp\\trimImages\\spritesheet_js_1620760324354_image_11.png",
+            "trim": {
+              "x": 260,
+              "y": 339,
+              "width": 231,
+              "height": 53,
+              "rotatedWidth": 231,
+              "rotatedHeight": 53
+            },
+            "rawWidth": 231,
+            "rawHeight": 53,
+            "width": 237,
+            "height": 59,
+            "originalPath": "D:/Srcku88/CLIENT/library/imports/ce/ce4ee3e4-25fc-4540-a774-5825b483b58d.png",
+            "x": 257,
+            "y": 336,
+            "rotatedWidth": 237,
+            "rotatedHeight": 59
+          },
+          {
+            "name": "bg_iat",
+            "uuid": "83fb48df-9f24-4b5e-8c95-e615145958dd",
+            "textureUuid": "1f3910f0-f06b-4613-a641-d6f9b7060f28",
+            "path": "D:\\Srcku88\\CLIENT\\temp\\trimImages\\spritesheet_js_1620760324355_image_17.png",
+            "trim": {
+              "x": 3,
+              "y": 368,
+              "width": 251,
+              "height": 82,
+              "rotatedWidth": 251,
+              "rotatedHeight": 82
+            },
+            "rawWidth": 251,
+            "rawHeight": 82,
+            "width": 257,
+            "height": 88,
+            "originalPath": "D:/Srcku88/CLIENT/library/imports/1f/1f3910f0-f06b-4613-a641-d6f9b7060f28.png",
+            "x": 0,
+            "y": 365,
+            "rotatedWidth": 257,
+            "rotatedHeight": 88
+          },
+          {
+            "name": "btn_3",
+            "uuid": "90d15477-3a67-4fac-b0b0-6c1d7774d60a",
+            "textureUuid": "780adbba-15af-4cf8-9357-8911f8905050",
+            "path": "D:\\Srcku88\\CLIENT\\temp\\trimImages\\spritesheet_js_1620760324355_image_19.png",
+            "trim": {
+              "x": 260,
+              "y": 398,
+              "width": 218,
+              "height": 86,
+              "rotatedWidth": 218,
+              "rotatedHeight": 86
+            },
+            "rawWidth": 218,
+            "rawHeight": 86,
+            "width": 224,
+            "height": 92,
+            "originalPath": "D:/Srcku88/CLIENT/library/imports/78/780adbba-15af-4cf8-9357-8911f8905050.png",
+            "x": 257,
+            "y": 395,
+            "rotatedWidth": 224,
+            "rotatedHeight": 92
+          },
+          {
+            "name": "bg_input",
+            "uuid": "ffe4e997-7c6f-4e0c-9041-58e59534381a",
+            "textureUuid": "32577eca-a07c-44f8-b25c-fb6381ed32b1",
+            "path": "D:\\Srcku88\\CLIENT\\temp\\trimImages\\spritesheet_js_1620760324356_image_33.png",
+            "trim": {
+              "x": 3,
+              "y": 456,
+              "width": 251,
+              "height": 59,
+              "rotatedWidth": 251,
+              "rotatedHeight": 59
+            },
+            "rawWidth": 251,
+            "rawHeight": 59,
+            "width": 257,
+            "height": 65,
+            "originalPath": "D:/Srcku88/CLIENT/library/imports/32/32577eca-a07c-44f8-b25c-fb6381ed32b1.png",
+            "x": 0,
+            "y": 453,
+            "rotatedWidth": 257,
+            "rotatedHeight": 65
+          },
+          {
+            "name": "btn_1",
+            "uuid": "aac8acca-f914-4489-a274-d6badb07a4b0",
+            "textureUuid": "7497dfd0-ac36-410e-9383-994682d8717c",
+            "path": "D:\\Srcku88\\CLIENT\\temp\\trimImages\\spritesheet_js_1620760324356_image_23.png",
+            "trim": {
+              "x": 260,
+              "y": 490,
+              "width": 218,
+              "height": 86,
+              "rotatedWidth": 218,
+              "rotatedHeight": 86
+            },
+            "rawWidth": 218,
+            "rawHeight": 86,
+            "width": 224,
+            "height": 92,
+            "originalPath": "D:/Srcku88/CLIENT/library/imports/74/7497dfd0-ac36-410e-9383-994682d8717c.png",
+            "x": 257,
+            "y": 487,
+            "rotatedWidth": 224,
+            "rotatedHeight": 92
+          },
+          {
+            "name": "btn_4",
+            "uuid": "db1f63d3-4d77-4a68-b482-4833d2807f45",
+            "textureUuid": "b0805cdd-cda2-4b0b-91f8-fe878fdae91f",
+            "path": "D:\\Srcku88\\CLIENT\\temp\\trimImages\\spritesheet_js_1620760324356_image_30.png",
+            "trim": {
+              "x": 3,
+              "y": 521,
+              "width": 218,
+              "height": 86,
+              "rotatedWidth": 218,
+              "rotatedHeight": 86
+            },
+            "rawWidth": 218,
+            "rawHeight": 86,
+            "width": 224,
+            "height": 92,
+            "originalPath": "D:/Srcku88/CLIENT/library/imports/b0/b0805cdd-cda2-4b0b-91f8-fe878fdae91f.png",
+            "x": 0,
+            "y": 518,
+            "rotatedWidth": 224,
+            "rotatedHeight": 92
+          },
+          {
+            "name": "btn_2",
+            "uuid": "f5da4e8b-4909-4505-9635-597ceba14809",
+            "textureUuid": "08ebd1a8-2078-48ba-9324-1af338df49d0",
+            "path": "D:\\Srcku88\\CLIENT\\temp\\trimImages\\spritesheet_js_1620760324356_image_32.png",
+            "trim": {
+              "x": 227,
+              "y": 582,
+              "width": 218,
+              "height": 86,
+              "rotatedWidth": 218,
+              "rotatedHeight": 86
+            },
+            "rawWidth": 218,
+            "rawHeight": 86,
+            "width": 224,
+            "height": 92,
+            "originalPath": "D:/Srcku88/CLIENT/library/imports/08/08ebd1a8-2078-48ba-9324-1af338df49d0.png",
+            "x": 224,
+            "y": 579,
+            "rotatedWidth": 224,
+            "rotatedHeight": 92
+          },
+          {
+            "name": "tag_inactive_2",
+            "uuid": "461fba5f-65f4-4c0f-87f9-3ddde527eede",
+            "textureUuid": "491a5657-91bb-49b8-a38c-7785e5ff9ce1",
+            "path": "D:\\Srcku88\\CLIENT\\temp\\trimImages\\spritesheet_js_1620760324353_image_9.png",
+            "trim": {
+              "x": 451,
+              "y": 582,
+              "width": 175,
+              "height": 58,
+              "rotatedWidth": 58,
+              "rotatedHeight": 175
+            },
+            "rawWidth": 175,
+            "rawHeight": 58,
+            "width": 181,
+            "height": 64,
+            "originalPath": "D:/Srcku88/CLIENT/library/imports/49/491a5657-91bb-49b8-a38c-7785e5ff9ce1.png",
+            "x": 448,
+            "y": 579,
+            "rotated": true,
+            "rotatedWidth": 64,
+            "rotatedHeight": 181
+          },
+          {
+            "name": "v9",
+            "uuid": "b0badb30-e474-435e-ab3a-2d7f5b8bb85e",
+            "textureUuid": "3d5e6a35-7203-44bc-a2c3-0dd2cc1c4b39",
+            "path": "D:\\Srcku88\\CLIENT\\temp\\trimImages\\spritesheet_js_1620760324356_image_24.png",
+            "trim": {
+              "x": 3,
+              "y": 613,
+              "width": 187,
+              "height": 176,
+              "rotatedWidth": 187,
+              "rotatedHeight": 176
+            },
+            "rawWidth": 187,
+            "rawHeight": 176,
+            "width": 193,
+            "height": 182,
+            "originalPath": "D:/Srcku88/CLIENT/library/imports/3d/3d5e6a35-7203-44bc-a2c3-0dd2cc1c4b39.png",
+            "x": 0,
+            "y": 610,
+            "rotatedWidth": 193,
+            "rotatedHeight": 182
+          },
+          {
+            "name": "tag_active_2",
+            "uuid": "4f4265a6-75f8-40f7-b2e1-0c4539985769",
+            "textureUuid": "e6942f53-9bad-4310-8afb-3ed93495c027",
+            "path": "D:\\Srcku88\\CLIENT\\temp\\trimImages\\spritesheet_js_1620760324354_image_12.png",
+            "trim": {
+              "x": 196,
+              "y": 674,
+              "width": 179,
+              "height": 62,
+              "rotatedWidth": 179,
+              "rotatedHeight": 62
+            },
+            "rawWidth": 179,
+            "rawHeight": 62,
+            "width": 185,
+            "height": 68,
+            "originalPath": "D:/Srcku88/CLIENT/library/imports/e6/e6942f53-9bad-4310-8afb-3ed93495c027.png",
+            "x": 193,
+            "y": 671,
+            "rotatedWidth": 185,
+            "rotatedHeight": 68
+          },
+          {
+            "name": "square",
+            "uuid": "c07f8ab9-5035-42d7-9c6b-24b0333ce697",
+            "textureUuid": "c89c7aa6-547f-4f91-a3e8-e55867b9ac28",
+            "path": "D:\\Srcku88\\CLIENT\\temp\\trimImages\\spritesheet_js_1620760324356_image_26.png",
+            "trim": {
+              "x": 381,
+              "y": 674,
+              "width": 64,
+              "height": 64,
+              "rotatedWidth": 64,
+              "rotatedHeight": 64
+            },
+            "rawWidth": 64,
+            "rawHeight": 64,
+            "width": 70,
+            "height": 70,
+            "originalPath": "D:/Srcku88/CLIENT/library/imports/c8/c89c7aa6-547f-4f91-a3e8-e55867b9ac28.png",
+            "x": 378,
+            "y": 671,
+            "rotatedWidth": 70,
+            "rotatedHeight": 70
+          },
+          {
+            "name": "btn_chuyen",
+            "uuid": "ed7c9aff-9030-4665-a872-8d67108e242d",
+            "textureUuid": "78aff462-b10a-4bc5-8a54-379d13e542bb",
+            "path": "D:\\Srcku88\\CLIENT\\temp\\trimImages\\spritesheet_js_1620760324356_image_31.png",
+            "trim": {
+              "x": 196,
+              "y": 742,
+              "width": 167,
+              "height": 55,
+              "rotatedWidth": 167,
+              "rotatedHeight": 55
+            },
+            "rawWidth": 167,
+            "rawHeight": 55,
+            "width": 173,
+            "height": 61,
+            "originalPath": "D:/Srcku88/CLIENT/library/imports/78/78aff462-b10a-4bc5-8a54-379d13e542bb.png",
+            "x": 193,
+            "y": 739,
+            "rotatedWidth": 173,
+            "rotatedHeight": 61
+          },
+          {
+            "name": "ic_poker",
+            "uuid": "74953f9c-204d-40c2-bd48-cb4a4479f2ca",
+            "textureUuid": "f79f33e6-9e92-473a-80f8-b9fc819b15e6",
+            "path": "D:\\Srcku88\\CLIENT\\temp\\trimImages\\spritesheet_js_1620760324355_image_16.png",
+            "trim": {
+              "x": 369,
+              "y": 744,
+              "width": 90,
+              "height": 75,
+              "rotatedWidth": 75,
+              "rotatedHeight": 90
+            },
+            "rawWidth": 90,
+            "rawHeight": 75,
+            "width": 96,
+            "height": 81,
+            "originalPath": "D:/Srcku88/CLIENT/library/imports/f7/f79f33e6-9e92-473a-80f8-b9fc819b15e6.png",
+            "x": 366,
+            "y": 741,
+            "rotated": true,
+            "rotatedWidth": 81,
+            "rotatedHeight": 96
+          },
+          {
+            "name": "ic_fb",
+            "uuid": "5461301a-7232-4a2a-8612-c63e60513c5f",
+            "textureUuid": "f594cd9d-25ee-42cc-97ef-0b3ff5c258bf",
+            "path": "D:\\Srcku88\\CLIENT\\temp\\trimImages\\spritesheet_js_1620760324355_image_14.png",
+            "trim": {
+              "x": 450,
+              "y": 763,
+              "width": 58,
+              "height": 58,
+              "rotatedWidth": 58,
+              "rotatedHeight": 58
+            },
+            "rawWidth": 58,
+            "rawHeight": 58,
+            "width": 64,
+            "height": 64,
+            "originalPath": "D:/Srcku88/CLIENT/library/imports/f5/f594cd9d-25ee-42cc-97ef-0b3ff5c258bf.png",
+            "x": 447,
+            "y": 760,
+            "rotatedWidth": 64,
+            "rotatedHeight": 64
+          },
+          {
+            "name": "coin",
+            "uuid": "3cad9698-3ff8-40d4-a322-a2b595997bc5",
+            "textureUuid": "cc250f66-ba76-47e0-b848-35d40d7bd24f",
+            "path": "D:\\Srcku88\\CLIENT\\temp\\trimImages\\spritesheet_js_1620760324353_image_7.png",
+            "trim": {
+              "x": 450,
+              "y": 827,
+              "width": 58,
+              "height": 56,
+              "rotatedWidth": 58,
+              "rotatedHeight": 56
+            },
+            "rawWidth": 58,
+            "rawHeight": 56,
+            "width": 64,
+            "height": 62,
+            "originalPath": "D:/Srcku88/CLIENT/library/imports/cc/cc250f66-ba76-47e0-b848-35d40d7bd24f.png",
+            "x": 447,
+            "y": 824,
+            "rotatedWidth": 64,
+            "rotatedHeight": 62
+          },
+          {
+            "name": "coin_01",
+            "uuid": "048b31d3-1c92-4c52-a545-8ef2fe983f0e",
+            "textureUuid": "8e3d633c-b8d8-4ee0-8d86-7a0653b2ba17",
+            "path": "D:\\Srcku88\\CLIENT\\temp\\trimImages\\spritesheet_js_1620760324351_image_0.png",
+            "trim": {
+              "x": 3,
+              "y": 795,
+              "width": 142,
+              "height": 153,
+              "rotatedWidth": 153,
+              "rotatedHeight": 142
+            },
+            "rawWidth": 142,
+            "rawHeight": 153,
+            "width": 148,
+            "height": 159,
+            "originalPath": "D:/Srcku88/CLIENT/library/imports/8e/8e3d633c-b8d8-4ee0-8d86-7a0653b2ba17.png",
+            "x": 0,
+            "y": 792,
+            "rotated": true,
+            "rotatedWidth": 159,
+            "rotatedHeight": 148
+          },
+          {
+            "name": "v6",
+            "uuid": "8cbe08f0-f6d7-4cce-b2a9-f19f073541fd",
+            "textureUuid": "444746cb-a423-48a1-aa44-600d79d614fe",
+            "path": "D:\\Srcku88\\CLIENT\\temp\\trimImages\\spritesheet_js_1620760324355_image_18.png",
+            "trim": {
+              "x": 162,
+              "y": 803,
+              "width": 122,
+              "height": 152,
+              "rotatedWidth": 152,
+              "rotatedHeight": 122
+            },
+            "rawWidth": 122,
+            "rawHeight": 152,
+            "width": 128,
+            "height": 158,
+            "originalPath": "D:/Srcku88/CLIENT/library/imports/44/444746cb-a423-48a1-aa44-600d79d614fe.png",
+            "x": 159,
+            "y": 800,
+            "rotated": true,
+            "rotatedWidth": 158,
+            "rotatedHeight": 128
+          },
+          {
+            "name": "v5",
+            "uuid": "c5ecf638-9d40-4c6e-8f77-56d36a4d2f4d",
+            "textureUuid": "63daa07f-4e4a-4e5a-9561-3fe1e36f3033",
+            "path": "D:\\Srcku88\\CLIENT\\temp\\trimImages\\spritesheet_js_1620760324356_image_28.png",
+            "trim": {
+              "x": 320,
+              "y": 840,
+              "width": 122,
+              "height": 152,
+              "rotatedWidth": 122,
+              "rotatedHeight": 152
+            },
+            "rawWidth": 122,
+            "rawHeight": 152,
+            "width": 128,
+            "height": 158,
+            "originalPath": "D:/Srcku88/CLIENT/library/imports/63/63daa07f-4e4a-4e5a-9561-3fe1e36f3033.png",
+            "x": 317,
+            "y": 837,
+            "rotatedWidth": 128,
+            "rotatedHeight": 158
+          },
+          {
+            "name": "v3",
+            "uuid": "2104eee4-d85b-43c5-8b89-2fccc65902a6",
+            "textureUuid": "6f01923a-e1de-473e-bac8-d822743a4be4",
+            "path": "D:\\Srcku88\\CLIENT\\temp\\trimImages\\spritesheet_js_1620760324353_image_3.png",
+            "trim": {
+              "x": 162,
+              "y": 931,
+              "width": 122,
+              "height": 151,
+              "rotatedWidth": 151,
+              "rotatedHeight": 122
+            },
+            "rawWidth": 122,
+            "rawHeight": 151,
+            "width": 128,
+            "height": 157,
+            "originalPath": "D:/Srcku88/CLIENT/library/imports/6f/6f01923a-e1de-473e-bac8-d822743a4be4.png",
+            "x": 159,
+            "y": 928,
+            "rotated": true,
+            "rotatedWidth": 157,
+            "rotatedHeight": 128
+          },
+          {
+            "name": "v2",
+            "uuid": "4c1d2661-8235-4f07-836c-97789460f44c",
+            "textureUuid": "6f4589d8-eb1c-434f-a36a-369ca0693dc8",
+            "path": "D:\\Srcku88\\CLIENT\\temp\\trimImages\\spritesheet_js_1620760324354_image_10.png",
+            "trim": {
+              "x": 3,
+              "y": 943,
+              "width": 122,
+              "height": 151,
+              "rotatedWidth": 151,
+              "rotatedHeight": 122
+            },
+            "rawWidth": 122,
+            "rawHeight": 151,
+            "width": 128,
+            "height": 157,
+            "originalPath": "D:/Srcku88/CLIENT/library/imports/6f/6f4589d8-eb1c-434f-a36a-369ca0693dc8.png",
+            "x": 0,
+            "y": 940,
+            "rotated": true,
+            "rotatedWidth": 157,
+            "rotatedHeight": 128
+          },
+          {
+            "name": "v8",
+            "uuid": "92120a44-2f73-4159-a6a2-9b1e7ff702d5",
+            "textureUuid": "229c044b-6602-4584-bef6-7f13517514b8",
+            "path": "D:\\Srcku88\\CLIENT\\temp\\trimImages\\spritesheet_js_1620760324355_image_20.png",
+            "trim": {
+              "x": 319,
+              "y": 998,
+              "width": 122,
+              "height": 151,
+              "rotatedWidth": 151,
+              "rotatedHeight": 122
+            },
+            "rawWidth": 122,
+            "rawHeight": 151,
+            "width": 128,
+            "height": 157,
+            "originalPath": "D:/Srcku88/CLIENT/library/imports/22/229c044b-6602-4584-bef6-7f13517514b8.png",
+            "x": 316,
+            "y": 995,
+            "rotated": true,
+            "rotatedWidth": 157,
+            "rotatedHeight": 128
+          },
+          {
+            "name": "v4",
+            "uuid": "a648e3a2-c8fe-4a72-b1d5-867236090695",
+            "textureUuid": "377688c0-c6a2-4b70-8372-b6d8b68ffac2",
+            "path": "D:\\Srcku88\\CLIENT\\temp\\trimImages\\spritesheet_js_1620760324355_image_22.png",
+            "trim": {
+              "x": 160,
+              "y": 1059,
+              "width": 122,
+              "height": 151,
+              "rotatedWidth": 151,
+              "rotatedHeight": 122
+            },
+            "rawWidth": 122,
+            "rawHeight": 151,
+            "width": 128,
+            "height": 157,
+            "originalPath": "D:/Srcku88/CLIENT/library/imports/37/377688c0-c6a2-4b70-8372-b6d8b68ffac2.png",
+            "x": 157,
+            "y": 1056,
+            "rotated": true,
+            "rotatedWidth": 157,
+            "rotatedHeight": 128
+          },
+          {
+            "name": "v7",
+            "uuid": "c947f0ce-b305-4b99-becd-fdf49b4d1dab",
+            "textureUuid": "0a7b354b-6cfc-48e7-b2a2-e44d13f0143d",
+            "path": "D:\\Srcku88\\CLIENT\\temp\\trimImages\\spritesheet_js_1620760324356_image_29.png",
+            "trim": {
+              "x": 3,
+              "y": 1071,
+              "width": 122,
+              "height": 151,
+              "rotatedWidth": 151,
+              "rotatedHeight": 122
+            },
+            "rawWidth": 122,
+            "rawHeight": 151,
+            "width": 128,
+            "height": 157,
+            "originalPath": "D:/Srcku88/CLIENT/library/imports/0a/0a7b354b-6cfc-48e7-b2a2-e44d13f0143d.png",
+            "x": 0,
+            "y": 1068,
+            "rotated": true,
+            "rotatedWidth": 157,
+            "rotatedHeight": 128
+          },
+          {
+            "name": "ic_chimdien",
+            "uuid": "5226661a-b93d-4880-8ef5-ad540541f16d",
+            "textureUuid": "a04cf6cc-92ae-4ff8-9bbf-2044ca6ad90d",
+            "path": "D:\\Srcku88\\CLIENT\\temp\\trimImages\\spritesheet_js_1620760324355_image_13.png",
+            "trim": {
+              "x": 3,
+              "y": 1199,
+              "width": 80,
+              "height": 75,
+              "rotatedWidth": 80,
+              "rotatedHeight": 75
+            },
+            "rawWidth": 80,
+            "rawHeight": 75,
+            "width": 86,
+            "height": 81,
+            "originalPath": "D:/Srcku88/CLIENT/library/imports/a0/a04cf6cc-92ae-4ff8-9bbf-2044ca6ad90d.png",
+            "x": 0,
+            "y": 1196,
+            "rotatedWidth": 86,
+            "rotatedHeight": 81
+          },
+          {
+            "name": "ic_tx",
+            "uuid": "2d06d444-6ba1-49bd-8ac3-b1de3569a4ab",
+            "textureUuid": "d1be057c-c9b7-4b1f-8f9c-b9ded531a5ec",
+            "path": "D:\\Srcku88\\CLIENT\\temp\\trimImages\\spritesheet_js_1620760324353_image_5.png",
+            "trim": {
+              "x": 89,
+              "y": 1199,
+              "width": 74,
+              "height": 74,
+              "rotatedWidth": 74,
+              "rotatedHeight": 74
+            },
+            "rawWidth": 74,
+            "rawHeight": 74,
+            "width": 80,
+            "height": 80,
+            "originalPath": "D:/Srcku88/CLIENT/library/imports/d1/d1be057c-c9b7-4b1f-8f9c-b9ded531a5ec.png",
+            "x": 86,
+            "y": 1196,
+            "rotatedWidth": 80,
+            "rotatedHeight": 80
+          },
+          {
+            "name": "ic_bigbaboll",
+            "uuid": "3175c982-e103-4c06-8c3b-f3f835192a51",
+            "textureUuid": "af300dc5-ba02-40cb-a60c-ee5f41a4d792",
+            "path": "D:\\Srcku88\\CLIENT\\temp\\trimImages\\spritesheet_js_1620760324353_image_6.png",
+            "trim": {
+              "x": 169,
+              "y": 1187,
+              "width": 78,
+              "height": 78,
+              "rotatedWidth": 78,
+              "rotatedHeight": 78
+            },
+            "rawWidth": 78,
+            "rawHeight": 78,
+            "width": 84,
+            "height": 84,
+            "originalPath": "D:/Srcku88/CLIENT/library/imports/af/af300dc5-ba02-40cb-a60c-ee5f41a4d792.png",
+            "x": 166,
+            "y": 1184,
+            "rotatedWidth": 84,
+            "rotatedHeight": 84
+          },
+          {
+            "name": "ic_close_popup",
+            "uuid": "2cbaf2fe-f94e-41d7-8bdd-d46b465a6909",
+            "textureUuid": "b681e826-717f-494c-81d9-bf68729c748b",
+            "path": "D:\\Srcku88\\CLIENT\\temp\\trimImages\\spritesheet_js_1620760324353_image_4.png",
+            "trim": {
+              "x": 253,
+              "y": 1187,
+              "width": 65,
+              "height": 67,
+              "rotatedWidth": 65,
+              "rotatedHeight": 67
+            },
+            "rawWidth": 65,
+            "rawHeight": 67,
+            "width": 71,
+            "height": 73,
+            "originalPath": "D:/Srcku88/CLIENT/library/imports/b6/b681e826-717f-494c-81d9-bf68729c748b.png",
+            "x": 250,
+            "y": 1184,
+            "rotatedWidth": 71,
+            "rotatedHeight": 73
+          },
+          {
+            "name": "v1",
+            "uuid": "c4164d94-042f-4fcb-8aac-f4e63d7271ba",
+            "textureUuid": "5faee2cc-7431-4a04-9204-61a17ea7d2eb",
+            "path": "D:\\Srcku88\\CLIENT\\temp\\trimImages\\spritesheet_js_1620760324356_image_27.png",
+            "trim": {
+              "x": 324,
+              "y": 1126,
+              "width": 119,
+              "height": 151,
+              "rotatedWidth": 151,
+              "rotatedHeight": 119
+            },
+            "rawWidth": 122,
+            "rawHeight": 151,
+            "width": 125,
+            "height": 157,
+            "originalPath": "D:/Srcku88/CLIENT/library/imports/5f/5faee2cc-7431-4a04-9204-61a17ea7d2eb.png",
+            "x": 321,
+            "y": 1123,
+            "rotated": true,
+            "rotatedWidth": 157,
+            "rotatedHeight": 125
+          }
+        ],
+        "width": 512,
+        "height": 1277,
+        "name": "AutoAtlas-1",
+        "imagePath": "D:\\Srcku88\\CLIENT\\temp\\TexturePacker\\build\\native\\assets\\resources\\textures\\popup\\pack\\AutoAtlas.pac\\AutoAtlas-1.png",
+        "compressd": {
+          "suffix": [
+            ".png"
+          ],
+          "imagePathNoExt": "D:\\Srcku88\\CLIENT\\temp\\TexturePacker\\build\\native\\assets\\resources\\textures\\popup\\pack\\AutoAtlas.pac\\compressed\\AutoAtlas-1"
+        }
+      }
+    ],
+    "unpackedTextures": []
+  }
+}

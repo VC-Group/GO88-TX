@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "miniHome.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "bg": {
+      "__uuid__": "11c07af4-0022-4656-96c4-5a49b6b6083c"
+    },
+    "d1": {
+      "__uuid__": "95fb9640-a09d-4508-a00a-a2389eefa956"
+    },
+    "d2": {
+      "__uuid__": "87e931e8-275f-483b-837a-426c059e9133"
+    },
+    "item1": {
+      "__uuid__": "d8f311a6-0eb5-4eae-a523-d3602737e3d1"
+    },
+    "item2": {
+      "__uuid__": "473e1392-e45e-4522-acb1-b3486845fdda"
+    },
+    "title": {
+      "__uuid__": "f92f74b5-a7ab-4114-a190-bdff91a6eaa5"
+    },
+    "xocdia6": {
+      "__uuid__": "239e21b3-1d06-424b-8758-cde1b581e78d"
+    }
+  }
+}

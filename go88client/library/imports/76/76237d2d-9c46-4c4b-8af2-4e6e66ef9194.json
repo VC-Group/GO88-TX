@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mini-form",
+    "texture": "3f6997b5-261e-4167-87ff-4633653e2888",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      800,
+      399
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      800,
+      399
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

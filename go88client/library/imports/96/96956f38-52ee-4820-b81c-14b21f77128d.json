@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_xiu",
+    "texture": "5745a367-9863-46ca-b633-809859ed24d9",
+    "atlas": "c52c66e1-c2cc-451b-9626-5f8ca86531ea",
+    "rect": [
+      1,
+      780,
+      127,
+      77
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      127,
+      77
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

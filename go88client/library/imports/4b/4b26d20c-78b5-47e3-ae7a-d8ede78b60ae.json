@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": ".-thuong",
+    "texture": "047c46b1-a9d8-416e-b91b-395693352f29",
+    "atlas": "42f17889-cd89-409e-827d-e2bd07ce4e26",
+    "rect": [
+      0,
+      0,
+      975,
+      552
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      981,
+      556
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

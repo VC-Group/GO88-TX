@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_playOff",
+    "texture": "3b4a13cc-affc-4cf1-ac2d-8318132a355d",
+    "atlas": "9310a3a0-8210-4671-937d-dde86bbe1848",
+    "rect": [
+      784,
+      404,
+      73,
+      95
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      73,
+      95
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "animationXXBC.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "res-Minigame-BauCua-xucxac-0": {
+      "__uuid__": "a0ca1bab-5640-4368-87e8-77be3a4a02a1"
+    },
+    "res-Minigame-BauCua-xucxac-1": {
+      "__uuid__": "e181d3c1-23e6-4670-973f-ee8f504f8bc6"
+    },
+    "res-Minigame-BauCua-xucxac-10": {
+      "__uuid__": "d1c1d485-da7d-407b-a423-2dd53e0cf92a"
+    },
+    "res-Minigame-BauCua-xucxac-11": {
+      "__uuid__": "8bd8cc32-ed00-440e-b010-237d1d6fbc8b"
+    },
+    "res-Minigame-BauCua-xucxac-12": {
+      "__uuid__": "62d850c2-0d83-430a-baea-8facfe94afc4"
+    },
+    "res-Minigame-BauCua-xucxac-13": {
+      "__uuid__": "f59b01d2-769e-4881-9223-552f78c4af44"
+    },
+    "res-Minigame-BauCua-xucxac-14": {
+      "__uuid__": "579583e8-946e-4296-abb1-c3dbb8a341d7"
+    },
+    "res-Minigame-BauCua-xucxac-15": {
+      "__uuid__": "3316aa0c-84ce-4400-baff-1974eb2d009d"
+    },
+    "res-Minigame-BauCua-xucxac-2": {
+      "__uuid__": "93bfa992-1f67-4bbf-919f-26b5659796ba"
+    },
+    "res-Minigame-BauCua-xucxac-3": {
+      "__uuid__": "dec9434b-5ed2-4225-a809-010b7cb5dc26"
+    },
+    "res-Minigame-BauCua-xucxac-4": {
+      "__uuid__": "6a359f46-4fe6-462f-ba91-a21f4d13ec74"
+    },
+    "res-Minigame-BauCua-xucxac-5": {
+      "__uuid__": "15fcd8ac-97b7-4133-a1d6-cc7fdff6c038"
+    },
+    "res-Minigame-BauCua-xucxac-6": {
+      "__uuid__": "c8a0f0e8-5b4e-4596-9a48-22e5a7ed4078"
+    },
+    "res-Minigame-BauCua-xucxac-7": {
+      "__uuid__": "c5fafd35-32da-4f88-9ece-b0b2faef75c1"
+    },
+    "res-Minigame-BauCua-xucxac-8": {
+      "__uuid__": "bea5e493-61ef-482a-bd00-1e45e9402256"
+    },
+    "res-Minigame-BauCua-xucxac-9": {
+      "__uuid__": "c933329d-83fa-4c32-8954-db5f639fab9d"
+    }
+  }
+}

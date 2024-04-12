@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "daichienA",
+    "texture": "5b61c9d0-4cf6-406c-8081-8d4fc121fb0f",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      109,
+      33
+    ],
+    "offset": [
+      -3.5,
+      0
+    ],
+    "originalSize": [
+      118,
+      33
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

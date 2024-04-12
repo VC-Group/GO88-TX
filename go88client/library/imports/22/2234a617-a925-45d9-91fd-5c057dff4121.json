@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Seagull_Y-export",
+    "texture": "b6227c04-97bb-4bf2-ae55-41b269f9cc2f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      452,
+      453
+    ],
+    "offset": [
+      -1.5,
+      1.5
+    ],
+    "originalSize": [
+      455,
+      456
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

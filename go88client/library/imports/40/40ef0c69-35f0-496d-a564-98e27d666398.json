@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "natra",
+    "texture": "3b0c70bc-c543-4deb-a7a2-d87f9b1a8b86",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      72,
+      75
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      72,
+      75
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

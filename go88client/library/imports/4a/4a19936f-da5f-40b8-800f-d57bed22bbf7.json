@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "kyby_paotai4_tex",
+    "texture": "e27655bd-3e25-4cf5-ae44-a038140282f1",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      472,
+      497
+    ],
+    "offset": [
+      -19,
+      6.5
+    ],
+    "originalSize": [
+      512,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
